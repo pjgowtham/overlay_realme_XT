@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="color_week_day_long">
+        <item>CN</item>
+        <item>Thứ 2</item>
+        <item>Thứ 3</item>
+        <item>Thứ 4</item>
+        <item>Thứ 5</item>
+        <item>Thứ 6</item>
+        <item>Thứ 7</item>
+    </string-array>
+    <string-array name="color_week_day_short">
+        <item>Chủ Nhật</item>
+        <item>Thứ hai</item>
+        <item>Thứ ba</item>
+        <item>Thứ tư</item>
+        <item>Thứ năm</item>
+        <item>Thứ sáu</item>
+        <item>Thứ 7</item>
+    </string-array>
+    <string-array name="color_number_keyboard_letters">
+        <item></item>
+        <item>AĂÂBC</item>
+        <item>DĐEÊF</item>
+        <item>GHI</item>
+        <item>JKL</item>
+        <item>MNOÔƠ</item>
+        <item>PQRS</item>
+        <item>TUƯV</item>
+        <item>WXYZ</item>
+        <item></item>
+        <item>+</item>
+        <item></item>
+    </string-array>
+    <string-array name="oppo_permissions_prompt">
+        <item>gọi điện, bạn có cho phép không?</item>
+        <item>đọc nhật ký cuộc gọi, bạn có cho phép không?</item>
+        <item>đọc danh bạ, bạn có cho phép không?</item>
+        <item>đọc nhật ký SMS, bạn có cho phép không?</item>
+        <item>gửi SMS, bạn có cho phép không?</item>
+        <item>gửi MMS, bạn có cho phép không?</item>
+        <item>bật/tắt kết nối dữ liệu, bạn có cho phép không?</item>
+        <item>bật/tắt Wi-Fi, bạn có cho phép không?</item>
+        <item>bật/tắt bluetooth, bạn có cho phép không?</item>
+        <item>sử dụng GPS (ứng dụng cũng có thể có được thông tin vị trí của bạn bằng các cách khác), bạn có cho phép không?</item>
+        <item>sử dụng máy ảnh, bạn có cho phép không?</item>
+        <item>ghi âm và ghi âm cuộc gọi, bạn có cho phép không?</item>
+        <item>bật/tắt NFC, bạn có cho phép không?</item>
+        <item>ghi hoặc xóa nhật ký cuộc gọi, bạn có cho phép không?</item>
+        <item>ghi và xóa danh bạ, bạn có cho phép không?</item>
+        <item>ghi và xóa nhật ký SMS, bạn có cho phép không?</item>
+        <item>ghi hoặc xóa nhật ký MMS, bạn có cho phép không?</item>
+        <item>đọc nhật ký MMS, bạn có cho phép không?</item>
+    </string-array>
+    <string-array name="oppo_time_picker_ampm">
+        <item>SA</item>
+        <item>CH</item>
+    </string-array>
+    <string-array name="oppo_data_not_enough_array">
+        <item>Tiếp tục dọn dẹp</item>
+        <item>Chuyển sang thẻ SD</item>
+        <item>Hủy</item>
+    </string-array>
+    <string-array name="oppo_data_full_array">
+        <item>Dọn dẹp điện thoại</item>
+        <item>Gỡ cài đặt ứng dụng</item>
+        <item>Hủy</item>
+    </string-array>
+    <string-array name="color_solor_mounth">
+        <item>Tháng 1</item>
+        <item>Tháng 2</item>
+        <item>Tháng 3</item>
+        <item>Tháng 4</item>
+        <item>Tháng 5</item>
+        <item>Tháng 6</item>
+        <item>Tháng 7</item>
+        <item>Tháng 8</item>
+        <item>Tháng 9</item>
+        <item>Tháng 10</item>
+        <item>Tháng 11</item>
+        <item>Tháng 12</item>
+    </string-array>
+    <string-array name="color_resolver_target_pin">
+        <item>Ghim trên cùng</item>
+        <item>Xem chi tiết ứng dụng</item>
+    </string-array>
+    <string-array name="color_resolver_target_unpin">
+        <item>Tháo ghim</item>
+        <item>Xem chi tiết ứng dụng</item>
+    </string-array>
+</resources>

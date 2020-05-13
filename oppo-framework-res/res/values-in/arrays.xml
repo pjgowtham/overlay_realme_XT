@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="color_week_day_long">
+        <item>Ming</item>
+        <item>Sen</item>
+        <item>Sel</item>
+        <item>Rab</item>
+        <item>Kam</item>
+        <item>Jum</item>
+        <item>Sab</item>
+    </string-array>
+    <string-array name="color_week_day_short">
+        <item>Mgg</item>
+        <item>Senin</item>
+        <item>Selasa</item>
+        <item>Rabu</item>
+        <item>Kamis</item>
+        <item>Jumat</item>
+        <item>Sab</item>
+    </string-array>
+    <string-array name="oppo_permissions_prompt">
+        <item>panggilan, izinkan?</item>
+        <item>baca log panggilan, izinkan?</item>
+        <item>baca kontak, izinkan?</item>
+        <item>baca log SMS, izinkan?</item>
+        <item>kirim SMS, izinkan?</item>
+        <item>kirim MMS, izinkan?</item>
+        <item>aktifkan/matikan koneksi data, izinkan?</item>
+        <item>aktifkan/matikan Wi-Fi, izinkan?</item>
+        <item>aktifkan/matikan bluetooth, izinkan?</item>
+        <item>gunakan GPS (aplikasi ini juga bisa memperoleh informasi lokasi Anda dengan cara lain), izinkan?</item>
+        <item>gunakan kamera, izinkan?</item>
+        <item>rekam dan rekam panggilan, izinkan?</item>
+        <item>aktifkan/matikan NFC, izinkan?</item>
+        <item>tulis atau hapus log panggilan, izinkan?</item>
+        <item>tulis dan hapus kontak, izinkan?</item>
+        <item>tulis dan hapus log SMS, izinkan?</item>
+        <item>tulis atau hapus log MMS, izinkan?</item>
+        <item>baca log MMS, izinkan?</item>
+    </string-array>
+    <string-array name="oppo_time_picker_ampm">
+        <item>AM</item>
+        <item>PM</item>
+    </string-array>
+    <string-array name="oppo_data_not_enough_array">
+        <item>Lanjutkan ke Pembersihan</item>
+        <item>Pindahkan ke Kartu SD</item>
+        <item>Batalkan</item>
+    </string-array>
+    <string-array name="oppo_data_full_array">
+        <item>Kosongkan Ponsel</item>
+        <item>Bongkar Aplikasi</item>
+        <item>Batalkan</item>
+    </string-array>
+    <string-array name="color_solor_mounth">
+        <item>Januari</item>
+        <item>Februari</item>
+        <item>Maret</item>
+        <item>April</item>
+        <item>Mei</item>
+        <item>Juni</item>
+        <item>Juli</item>
+        <item>Agustus</item>
+        <item>September</item>
+        <item>Oktober</item>
+        <item>November</item>
+        <item>Desember</item>
+    </string-array>
+    <string-array name="color_resolver_target_pin">
+        <item>Pin di Atas</item>
+        <item>Lihat Rincian App</item>
+    </string-array>
+    <string-array name="color_resolver_target_unpin">
+        <item>Buka pin</item>
+        <item>Lihat Rincian App</item>
+    </string-array>
+</resources>

@@ -1,0 +1,14 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+SHA-256-Digest-Manifest: nFeO2Z1ip+zz7r7GXZTj6u05dREHLKh4ajm9zZDWObo=
+X-Android-APK-Signed: 2, 3
+
+Name: AndroidManifest.xml
+SHA-256-Digest: jXdDdbI3PiY/bcYiwSyQVSrJOYHsSXcR6JVA8FLie4I=
+
+Name: res/xml/vendor_oppo.xml
+SHA-256-Digest: zkR69t0pwaqvPBdVkg5E8q2i6zFMhH6gp3WFaPkG/nE=
+
+Name: resources.arsc
+SHA-256-Digest: 5yKaTSEbBlyrNeN++sCuKOiyuJzaH2VzyK8oNtv5naQ=
+

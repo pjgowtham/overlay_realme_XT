@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set android:zAdjustment="normal"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <translate android:interpolator="@anim/oppo_open_enter_slide_interpolator" android:duration="330" android:fillBefore="false" android:fillAfter="true" android:fromXDelta="0.0%" android:toXDelta="-21.000004%" android:fillEnabled="true" />
+    <alpha android:interpolator="@interpolator/oppo_curve_ease" android:duration="330" android:fillBefore="false" android:fillAfter="true" android:fromAlpha="1.0" android:toAlpha="0.65" android:fillEnabled="true" />
+</set>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="color_week_day_long">
+        <item>dim</item>
+        <item>lun</item>
+        <item>mar</item>
+        <item>mer</item>
+        <item>jeu</item>
+        <item>ven</item>
+        <item>sam</item>
+    </string-array>
+    <string-array name="color_week_day_short">
+        <item>Dim</item>
+        <item>Lundi</item>
+        <item>Mardi</item>
+        <item>Mercredi</item>
+        <item>Jeudi</item>
+        <item>Vendredi</item>
+        <item>Sam</item>
+    </string-array>
+    <string-array name="oppo_permissions_prompt">
+        <item>autorisez-vous les appels ?</item>
+        <item>"autorisez-vous la lecture de l'historique des appels ?"</item>
+        <item>autorisez-vous la lecture des informations de contacts ?</item>
+        <item>"autorisez-vous la lecture de l'historique des SMS ?"</item>
+        <item>"autorisez-vous l'envoi de SMS ?"</item>
+        <item>"autorisez-vous l'envoi de MMS ?"</item>
+        <item>"autorisez-vous l'activation et la désactivation du réseau de données mobile ?"</item>
+        <item>"autorisez-vous l'activation et la désactivation du Wi-Fi ?"</item>
+        <item>"autorisez-vous l'activation et la désactivation de Bluetooth ?"</item>
+        <item>"autorisez-vous l'utilisation du GPS (l'appli peut également obtenir vos informations de localisation par d'autres moyens) ?"</item>
+        <item>"autorisez-vous l'utilisation de l'appareil photo ?"</item>
+        <item>"autorisez-vous l'enregistrement et l'enregistrement des appels ?"</item>
+        <item>"autorisez-vous l'activation et la désactivation de NFC ?"</item>
+        <item>"autorisez-vous l'écriture et la suppression de l'historique des appels ?"</item>
+        <item>"autorisez-vous l'écriture et la suppression des informations de contact ?"</item>
+        <item>"autorisez-vous l'écriture et la suppression de l'historique des SMS ?"</item>
+        <item>"autorisez-vous l'écriture ou la suppression de l'historique des MMS ?"</item>
+        <item>"autorisez-vous la lecture de l'historique des MMS ?"</item>
+    </string-array>
+    <string-array name="oppo_time_picker_ampm">
+        <item>AM</item>
+        <item>PM</item>
+    </string-array>
+    <string-array name="oppo_data_not_enough_array">
+        <item>Nettoyer</item>
+        <item>Transférer vers la carte SD</item>
+        <item>Annuler</item>
+    </string-array>
+    <string-array name="oppo_data_full_array">
+        <item>Nettoyage téléphone</item>
+        <item>"Désinstaller l'appli"</item>
+        <item>Annuler</item>
+    </string-array>
+    <string-array name="color_solor_mounth">
+        <item>Janvier</item>
+        <item>Février</item>
+        <item>Mars</item>
+        <item>Avril</item>
+        <item>Mai</item>
+        <item>Juin</item>
+        <item>Juillet</item>
+        <item>Août</item>
+        <item>Septembre</item>
+        <item>Octobre</item>
+        <item>Novembre</item>
+        <item>Décembre</item>
+    </string-array>
+    <string-array name="color_resolver_target_pin">
+        <item>Épingler sur le dessus</item>
+        <item>"Afficher les détails de l'app"</item>
+    </string-array>
+    <string-array name="color_resolver_target_unpin">
+        <item>Désépingler</item>
+        <item>"Afficher les détails de l'app"</item>
+    </string-array>
+</resources>

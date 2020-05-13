@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/touchsearch_popup_content" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="@dimen/oppo_touchsearch_popupwin_default_textsize" android:textColor="?C12" android:gravity="center" android:id="@id/touchsearch_popup_content_textview" android:background="@drawable/oppo_touchsearch_popup_top_bg" android:visibility="visible" android:layout_width="fill_parent" android:layout_height="wrap_content" android:capitalize="characters" />
+    <ScrollView android:id="@id/touchsearch_popup_content_scrollview" android:scrollbars="none" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/oppo_touchsearch_popupwin_margin" android:requiresFadingEdge="vertical">
+        <LinearLayout android:orientation="vertical" android:id="@id/touchsearch_popup_content_name" android:background="@drawable/oppo_touchsearch_popup_bottom_bg" android:visibility="invisible" android:layout_width="fill_parent" android:layout_height="fill_parent" android:divider="@null" />
+    </ScrollView>
+</LinearLayout>

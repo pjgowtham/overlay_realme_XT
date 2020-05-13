@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <fraction name="color_numeric_keyboard_circle_diametor">19.166697%p</fraction>
+    <fraction name="color_numeric_keyboard_level_space">9.791697%p</fraction>
+    <fraction name="color_numeric_keyboard_vertical_space">4.583299%p</fraction>
+</resources>

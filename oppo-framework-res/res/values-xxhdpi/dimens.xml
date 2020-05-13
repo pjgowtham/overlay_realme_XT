@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="oppo_dialog_title_min_height">36.0dip</dimen>
+    <dimen name="oppo_optionmenubar_more_text_size">11.0dip</dimen>
+    <dimen name="oppo_text_translate_down_arrow_bottom_offset">12.0dip</dimen>
+    <dimen name="oppo_text_translate_panel_padding_end">0.0dip</dimen>
+    <dimen name="oppo_text_translate_panel_padding_start">0.0dip</dimen>
+    <dimen name="oppo_text_translate_panel_padding_top">0.0dip</dimen>
+    <dimen name="oppo_text_translate_up_arrow_bottom_offset">10.0dip</dimen>
+    <dimen name="oppo_dialog_max_height">488.0dip</dimen>
+    <dimen name="oppo_float_panel_arrow_top_offset">1.0dip</dimen>
+    <dimen name="oppo_float_panel_arrow_bottom_offset">1.0dip</dimen>
+    <dimen name="oppo_optionmenubar_height">68.0dip</dimen>
+    <dimen name="oppo_optionmenubar_major_operation_height">68.0dip</dimen>
+    <item type="dimen" name="oppo_searchview_text_hint_size">@dimen/color_font_size_15</item>
+    <item type="dimen" name="oppo_searchview_text_size">@dimen/color_font_size_12</item>
+    <dimen name="oppo_optionmenubar_major_text_size">19.0dip</dimen>
+    <dimen name="color_global_action_autodown_rect_height">276.0dip</dimen>
+    <dimen name="color_global_action_shutdown_text_start">15.0dip</dimen>
+    <dimen name="color_global_action_shutdown_text_end">75.0dip</dimen>
+    <dimen name="color_global_action_shutdown_bg_start">12.0dip</dimen>
+    <dimen name="color_global_action_shutdown_bg_end">74.0dip</dimen>
+    <dimen name="color_global_action_cancel_text_end">44.0dip</dimen>
+    <dimen name="color_global_action_cancel_bg_start">3.0dip</dimen>
+    <dimen name="color_global_action_cancel_bg_end">47.0dip</dimen>
+    <dimen name="oppo_dialog_width">360.0dip</dimen>
+    <dimen name="color_global_action_cancel_text_start">0.0dip</dimen>
+    <dimen name="oppo_pager_title_height">40.0dip</dimen>
+    <dimen name="oppo_pager_focus_line_width">88.0dip</dimen>
+    <dimen name="oppo_pager_horizontal_padding">12.0dip</dimen>
+    <dimen name="oppo_pager_text_width_three_count">88.0dip</dimen>
+    <dimen name="oppo_pager_text_width_two_count">112.0dip</dimen>
+    <dimen name="oppo_pager_title_text_size">14.0dip</dimen>
+    <dimen name="oppo_list_item_normal_height_balck">60.0dip</dimen>
+</resources>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="color_week_day_long">
+        <item>ఆది</item>
+        <item>సోమ</item>
+        <item>మంగళ</item>
+        <item>బుధ</item>
+        <item>గురు</item>
+        <item>శుక్ర</item>
+        <item>శని</item>
+    </string-array>
+    <string-array name="color_week_day_short">
+        <item>ఆది</item>
+        <item>సోమవారం</item>
+        <item>మంగళవారం</item>
+        <item>బుధవారం</item>
+        <item>గురువారం</item>
+        <item>శుక్రవారం</item>
+        <item>శని</item>
+    </string-array>
+    <string-array name="oppo_permissions_prompt">
+        <item>కాల్, మీరు అనుమతిస్తారా?</item>
+        <item>కాల్ లాగ్స్ చదవడం, మీరు అనుమతిస్తారా?</item>
+        <item>పరిచయాలు చదవడం, మీరు అనుమతిస్తారా?</item>
+        <item>SMS లాగ్స్ చదవడం, మీరు అనుమతిస్తారా?</item>
+        <item>SMSస్ పంపడం, మీరు అనుమతిస్తారా?</item>
+        <item>MMS పంపడం, మీరు అనుమతిస్తారా?</item>
+        <item>డేటా కనెక్షన్ ఆన్/ఆఫ్ చేయడం, మీరు అనుమతిస్తారా?</item>
+        <item>Wi-Fi ఆన్/ఆఫ్ చేయడం, మీరు అనుమతిస్తారా?</item>
+        <item>బ్లూటూత్ ఆన్/ఆఫ్ చేయడం, మీరు అనుమతిస్తారా?</item>
+        <item>GPS( ఇతర విధానాల్లో కూడా యాప్ మీ స్థాన సమాచారాన్ని పొందవచ్చు), మీరు అనుమతిస్తారా?</item>
+        <item>కెమరా ఉపయోగించడం, మీరు అనుమతిస్తారా?</item>
+        <item>రికార్డ్ మరియు కాల్స్ రికార్డ్, మీరు అనుమతిస్తారా?</item>
+        <item>NFC ఆన్/ఆఫ్ చేయడం, మీరు అనుమతిస్తారా?</item>
+        <item>కాల్ లాగ్స్ రాయడం లేదా డిలీట్ చేయడం, మీరు అనుమతిస్తారా?</item>
+        <item>పరిచయాలు రాయడం మరియు డిలీట్ చేయడం, మీరు అనుమతిస్తారా?</item>
+        <item>SMS లాగ్స్ రాయడం లేదా డిలీట్ చేయడం, మీరు అనుమతిస్తారా?</item>
+        <item>MMS లాగ్స్ రాయడం లేదా డిలీట్ చేయడం, మీరు అనుమతిస్తారా?</item>
+        <item>MMS లాగ్స్ చదవడం, మీరు అనుమతిస్తారా?</item>
+    </string-array>
+    <string-array name="oppo_time_picker_ampm">
+        <item>ఉదయం</item>
+        <item>సాయంత్రం</item>
+    </string-array>
+    <string-array name="oppo_data_not_enough_array">
+        <item>క్లీనప్ చేయడానికి ముందుకు సాగండి</item>
+        <item>SD కార్డుకు బదిలీ చేయి</item>
+        <item>రద్దుచేయండి</item>
+    </string-array>
+    <string-array name="oppo_data_full_array">
+        <item>ఫోన్ క్లీన్అప్</item>
+        <item>యాప్స్‌ని వ్యవస్థాపన నుండి తీసేయండి</item>
+        <item>రద్దుచేయి</item>
+    </string-array>
+    <string-array name="color_solor_mounth">
+        <item>జనవరి</item>
+        <item>ఫిబ్రవరి</item>
+        <item>మార్చి</item>
+        <item>ఏప్రిల్</item>
+        <item>మే</item>
+        <item>జూన్</item>
+        <item>జులై</item>
+        <item>ఆగస్టు</item>
+        <item>సెప్టెంబరు</item>
+        <item>అక్టోబరు</item>
+        <item>నవంబరు</item>
+        <item>డిసెంబరు</item>
+    </string-array>
+    <string-array name="color_resolver_target_pin">
+        <item>పైన పిన్ చేయండి</item>
+        <item>యాప్ వివరాలను చూడండి</item>
+    </string-array>
+    <string-array name="color_resolver_target_unpin">
+        <item>అన్‌పిన్ చేయండి</item>
+        <item>యాప్ వివరాలను చూడండి</item>
+    </string-array>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_horizontal" android:orientation="horizontal" android:background="@drawable/oppo_tab_indicator" android:layout_width="0.0dip" android:layout_height="42.0dip" android:layout_marginLeft="-2.0dip" android:layout_marginRight="-2.0dip" android:layout_weight="1.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:gravity="center" android:layout_gravity="center" android:id="@android:id/icon" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    <TextView android:gravity="center" android:layout_gravity="center" android:id="@android:id/title" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/TextAppearance.OPPO.Widget.TabWidget" />
+</LinearLayout>

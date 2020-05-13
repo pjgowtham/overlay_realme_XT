@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="color_week_day_long">
+        <item>Lin</item>
+        <item>Lun</item>
+        <item>Mar</item>
+        <item>Miy</item>
+        <item>Huw</item>
+        <item>Biy</item>
+        <item>Sab</item>
+    </string-array>
+    <string-array name="color_week_day_short">
+        <item>Lin</item>
+        <item>Lunes</item>
+        <item>Martes</item>
+        <item>Miyerkules</item>
+        <item>Huwebes</item>
+        <item>Biyernes</item>
+        <item>Sab</item>
+    </string-array>
+    <string-array name="oppo_permissions_prompt">
+        <item>tumawag, papayagan mo ba?</item>
+        <item>magbasa ng mga log ng tawag, papayagan mo ba?</item>
+        <item>magbasa ng mga contact, papayagan mo ba?</item>
+        <item>magbasa ng mga log ng SMS, papayagan mo ba?</item>
+        <item>magpadala ng SMS, papayagan mo ba?</item>
+        <item>magpadala ng MMS, papayagan mo ba?</item>
+        <item>i-on/i-off ng koneksyon ng data, papayagan mo ba?</item>
+        <item>i-on/i-off ang Wi-Fi, papayagan mo ba?</item>
+        <item>i-on/i-off ang bluetooth, papayagan mo ba?</item>
+        <item>gumamit ng GPS (makukuha rin ng app ang impormasyon ng iyong lokasyon sa pamamagitan ng ibang paraan), papayagan mo ba?</item>
+        <item>gumamit ng camera, papayagan mo ba?</item>
+        <item>mag-record at mag-record ng mga tawag, papayagan mo ba?</item>
+        <item>i-on/i-off ang NFC, papayagan mo ba?</item>
+        <item>magsulat o mag-delete ng mga log ng tawag, papayagan mo ba?</item>
+        <item>magsulat at mag-delete ng mga contact, papayagan mo ba?</item>
+        <item>magsulat at mag-delete ng mga log ng SMS, papayagan mo ba?</item>
+        <item>magsulat o mag-delete ng mga log ng MMS, papayagan mo ba?</item>
+        <item>magbasa ng mga log ng MMS, papayagan mo ba?</item>
+    </string-array>
+    <string-array name="oppo_time_picker_ampm">
+        <item>AM</item>
+        <item>PM</item>
+    </string-array>
+    <string-array name="oppo_data_not_enough_array">
+        <item>Magpatuloy sa Paglilinis</item>
+        <item>Ilipat sa SD card</item>
+        <item>Kanselahin</item>
+    </string-array>
+    <string-array name="oppo_data_full_array">
+        <item>Paglinis ng Telepono</item>
+        <item>Mag-uninstall ng mga App</item>
+        <item>Kanselahin</item>
+    </string-array>
+    <string-array name="color_solor_mounth">
+        <item>Enero</item>
+        <item>Pebrero</item>
+        <item>Marso</item>
+        <item>Abril</item>
+        <item>Mayo</item>
+        <item>Hunyo</item>
+        <item>Hulyo</item>
+        <item>Agosto</item>
+        <item>Setyembre</item>
+        <item>Oktubre</item>
+        <item>Nobyembre</item>
+        <item>Disyembre</item>
+    </string-array>
+    <string-array name="color_resolver_target_pin">
+        <item>I-pin sa Itaas</item>
+        <item>Tingnan ang Mga Detalye ng App</item>
+    </string-array>
+    <string-array name="color_resolver_target_unpin">
+        <item>I-unpin</item>
+        <item>Tingnan ang Mga Detalye ng App</item>
+    </string-array>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:gravity="center" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center_horizontal" android:layout_gravity="center" android:orientation="vertical" android:id="@android:id/by_common" android:background="@drawable/color_progress_dialog_spinner_bg" android:paddingLeft="12.0dip" android:paddingTop="0.0dip" android:paddingRight="12.0dip" android:paddingBottom="15.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:baselineAligned="false" android:minWidth="125.0dip">
+        <com.color.widget.ColorLoadingView android:id="@android:id/progress" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="32.0dip" android:text="@null" style="?colorLoadingViewLargeStyle" />
+        <TextView android:textAppearance="?textAppearanceDialogLarge" android:textSize="@dimen/color_progress_dialog_text_size" android:textColor="?C20" android:ellipsize="end" android:gravity="center_horizontal" android:id="@android:id/message" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="21.0dip" android:text="@string/oppo_loading_dialog_text_view" android:maxLines="1" android:singleLine="true" />
+    </LinearLayout>
+</FrameLayout>

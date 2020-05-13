@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:oppo="http://schemas.android.com/apk/res/oppo">
+    <item android:state_pressed="true">
+        <bitmap android:src="@drawable/color_back_arrow_normal" android:tint="?colorTintControlPressed" />
+    </item>
+    <item>
+        <bitmap android:src="@drawable/color_back_arrow_normal" android:tint="?colorTintControlNormal" />
+    </item>
+</selector>

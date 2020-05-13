@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="color_week_day_long">
+        <item>གཟའ་ཉི་མ།</item>
+        <item>གཟའ་ཟླ་བ།</item>
+        <item>གཟའ་མིག་དམར།</item>
+        <item>གཟའ་ལྷག་པ།</item>
+        <item>གཟའ་ཕུར་བུ།</item>
+        <item>གཟའ་པ་སངས།</item>
+        <item>གཟའ་སྤེན་པ།</item>
+    </string-array>
+    <string-array name="color_week_day_short">
+        <item>ཉི་མ།</item>
+        <item>ཟླ་བ།</item>
+        <item>མིག་དམར།</item>
+        <item>ལྷག་པ།</item>
+        <item>ཕུར་བུ།</item>
+        <item>པ་སངས།</item>
+        <item>སྤེན་པ།</item>
+    </string-array>
+    <string-array name="oppo_permissions_prompt">
+        <item>ཁ་པར་ཐོངས་། ཁྱེད་ཀྱིས་བྱེད་དུ་འཇུག་གམ།</item>
+        <item>ཁ་པར་གྱི་ཐོ་ཁོངས་རྣམས་ཀློགས། ཁྱེད་ཀྱིས་བྱེད་དུ་འཇུག་གམ།</item>
+        <item>འབྲེལ་གཏུག་རྣམས་ཀློགས། ཁྱེད་ཀྱིས་བྱེད་དུ་འཇུག་གམ།</item>
+        <item>འཕྲིན་ཐུང་གི་ཐོ་ཁོངས་རྣམས་ཀློགས། ཁྱེད་ཀྱིས་བྱེད་དུ་འཇུག་གམ།</item>
+        <item>འཕྲིན་ཐུང་རྣམས་ཐོངས། ཁྱེད་ཀྱིས་བྱེད་དུ་འཇུག་གམ།</item>
+        <item>MMS ཐོངས། ཁྱེད་ཀྱིས་བྱེད་དུ་འཇུག་གམ།</item>
+        <item>དཔྱད་གཞིའི་སྦྲེལ་མཐུད་གློག་སྤོར་/གསོད། ཁྱེད་ཀྱིས་བྱེད་དུ་འཇུག་གམ།</item>
+        <item>Wi-Fi གློག་སྤོར་/གསོད། ཁྱེད་ཀྱིས་བྱེད་དུ་འཇུག་གམ།</item>
+        <item>བྷི་ལུ་ཊུཐ་གློག་སྤོར་/གསོད། ཁྱེད་ཀྱིས་བྱེད་དུ་འཇུག་གམ།</item>
+        <item>GPS བེད་སྤྱོད་བྱ།(ཉེར་སྤྱོད་འདིས་ཐབས་ལམ་གཞན་བརྒྱུད་ནས་ཁྱེད་ཀྱི་ས་གནས་ཆ་འཕྲིན་ལེན་ཐུབ།) ཁྱེད་ཀྱིས་བྱེད་དུ་འཇུག་གམ།</item>
+        <item>པར་ཆས་བེད་སྤྱོད་བྱ། ཁྱེད་ཀྱིས་བྱེད་དུ་འཇུག་གམ།</item>
+        <item>བསགས་ཉར་ཡིག་ཆ་དང་ཁ་པར་བསགས་ཉར་བྱ། ཁྱེད་ཀྱིས་བྱེད་དུ་འཇུག་གམ།</item>
+        <item>NFC གློག་སྤོར་/གསོད། ཁྱེད་ཀྱིས་བྱེད་དུ་འཇུག་གམ།</item>
+        <item>ཁ་པར་གྱི་ཐོ་ཁོངས་རྣམས་འབྲི་བའམ་སུབས། ཁྱེད་ཀྱིས་བྱེད་དུ་འཇུག་གམ།</item>
+        <item>འབྲེལ་གཏུག་རྣམས་འབྲི་བའམ་སུབས། ཁྱེད་ཀྱིས་བྱེད་དུ་འཇུག་གམ།</item>
+        <item>འཕྲིན་ཐུང་ཐོ་ཁོངས་རྣམས་འབྲི་བའམ་སུབས། ཁྱེད་ཀྱིས་བྱེད་དུ་འཇུག་གམ།</item>
+        <item>MMS ཐོ་ཁོངས་རྣམས་འབྲི་བའམ་སུབས། ཁྱེད་ཀྱིས་བྱེད་དུ་འཇུག་གམ།</item>
+        <item>MMS ཐོ་ཁོངས་རྣམས་ཀློགས། ཁྱེད་ཀྱིས་བྱེད་དུ་འཇུག་གམ།</item>
+    </string-array>
+    <string-array name="oppo_time_picker_ampm">
+        <item>སྔ་དྲོ།</item>
+        <item>ཕྱི།</item>
+    </string-array>
+    <string-array name="oppo_data_not_enough_array">
+        <item>གཙང་སེལ་བྱེད་པར་བསྐྱོད།</item>
+        <item>SD བྱང་བུ་སྟེང་དུ་འཕོ་འགྱུར་བྱ།</item>
+        <item>ཕྱིར་འཐེན།</item>
+    </string-array>
+    <string-array name="oppo_data_full_array">
+        <item>ཁ་པར་གཙང་སེལ་</item>
+        <item>ཉེར་སྤྱོད་དག་ཕྱིར་ལེན་བྱ།</item>
+        <item>ཕྱིར་འཐེན།</item>
+    </string-array>
+    <string-array name="color_solor_mounth">
+        <item>ཕྱི་ཟླ་དང་པོ་</item>
+        <item>ཕྱི་ཟླ་གཉིས་པ་</item>
+        <item>ཕྱི་ཟླ་གསུམ་པ་</item>
+        <item>ཕྱི་ཟླ་བཞི་པ་</item>
+        <item>ཕྱི་ཟླ་ལྔ་པ།</item>
+        <item>ཕྱི་ཟླ་དྲུག་པ་</item>
+        <item>ཕྱི་ཟླ་བདུན་པ།</item>
+        <item>ཕྱི་ཟླ་བརྒྱད་པ་</item>
+        <item>ཕྱི་ཟླ་དགུ་པ་</item>
+        <item>ཕྱི་ཟླ་བཅུ་པ་</item>
+        <item>ཕྱི་ཟླ་བཅུ་གཅིག་པ་</item>
+        <item>ཕྱི་ཟླ་བཅུ་གཉིས་པ་</item>
+    </string-array>
+    <string-array name="color_resolver_target_pin">
+        <item>ཐོད་དུ་རྒྱག</item>
+        <item>ཉེར་སྤྱོད་ཞིབ་ཕྲ་ལྟ་ཞིབ་བྱ།</item>
+    </string-array>
+    <string-array name="color_resolver_target_unpin">
+        <item>ཁབ་གཟེར་ཚུར་འཐེན།</item>
+        <item>ཉེར་སྤྱོད་ཞིབ་ཕྲ་ལྟ་ཞིབ་བྱ།</item>
+    </string-array>
+</resources>

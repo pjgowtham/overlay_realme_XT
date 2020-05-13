@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="color_week_day_long">
+        <item>Nedeľa</item>
+        <item>Pondelok</item>
+        <item>Utorok</item>
+        <item>Streda</item>
+        <item>Štvrtok</item>
+        <item>Piatok</item>
+        <item>Sobota</item>
+    </string-array>
+    <string-array name="color_week_day_short">
+        <item>Ned</item>
+        <item>Pon</item>
+        <item>Uto</item>
+        <item>Str</item>
+        <item>Štv</item>
+        <item>Pia</item>
+        <item>Sob</item>
+    </string-array>
+    <string-array name="oppo_permissions_prompt">
+        <item>volať, povoľujete?</item>
+        <item>načítať denníky hovorov, povoľujete?</item>
+        <item>načítať kontakty, povoľujete?</item>
+        <item>načítať denníky SMS, povoľujete?</item>
+        <item>odoslať SMS, povoľujete?</item>
+        <item>odoslať MMS, povoľujete?</item>
+        <item>zapnúť/vypnúť dátové pripojenie, povoľujete?</item>
+        <item>zapnúť/vypnúť Wi-Fi, povoľujete?</item>
+        <item>zapnúť/vypnúť Bluetooth, povoľujete?</item>
+        <item>použiť GPS (aplikácia tiež môže získať informáciu o vašej polohe iným spôsobom), povoľujete?</item>
+        <item>použiť fotoaparát, povoľujete?</item>
+        <item>zaznamenať a nahrávať hovory, povoľujete?</item>
+        <item>zapnúť/vypnúť NFC, povoľujete?</item>
+        <item>zapisovať alebo odstrániť denníky hovorov, povoľujete?</item>
+        <item>zapisovať alebo odstrániť kontakty, povoľujete?</item>
+        <item>zapisovať alebo odstrániť denníky SMS, povoľujete?</item>
+        <item>zapisovať alebo odstrániť denníky MMS, povoľujete?</item>
+        <item>načítať denníky MMS, povoľujete?</item>
+    </string-array>
+    <string-array name="oppo_data_not_enough_array">
+        <item>Pokračovať na čistenie</item>
+        <item>Preniesť na kartu SD</item>
+        <item>Zrušiť</item>
+    </string-array>
+    <string-array name="oppo_data_full_array">
+        <item>Čistenie telefónu</item>
+        <item>Odinštalovať aplikáciu</item>
+        <item>Zrušiť</item>
+    </string-array>
+    <string-array name="color_solor_mounth">
+        <item>Január</item>
+        <item>Február</item>
+        <item>Marec</item>
+        <item>Apríl</item>
+        <item>Máj</item>
+        <item>Jún</item>
+        <item>Júl</item>
+        <item>August</item>
+        <item>September</item>
+        <item>Október</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+    <string-array name="color_resolver_target_pin">
+        <item>Pripnúť navrch</item>
+        <item>Zobraziť podrobnosti aplikácie</item>
+    </string-array>
+    <string-array name="color_resolver_target_unpin">
+        <item>Odopnúť</item>
+        <item>Zobraziť podrobnosti aplikácie</item>
+    </string-array>
+</resources>

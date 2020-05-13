@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="color_week_day_long">
+        <item>ਐਤ</item>
+        <item>ਸੋਮ</item>
+        <item>ਮੰਗਲ</item>
+        <item>ਬੁੱਧ</item>
+        <item>ਵੀਰ</item>
+        <item>ਸ਼ੁੱਕਰ</item>
+        <item>ਸ਼ਨਿਚਰ</item>
+    </string-array>
+    <string-array name="color_week_day_short">
+        <item>ਐਤ</item>
+        <item>ਸੋਮਵਾਰ</item>
+        <item>ਮੰਗਲਵਾਰ</item>
+        <item>ਬੁੱਧਵਾਰ</item>
+        <item>ਵੀਰਵਾਰ</item>
+        <item>ਸ਼ੁੱਕਰਵਾਰ</item>
+        <item>ਸ਼ਨੀਚਰ</item>
+    </string-array>
+    <string-array name="oppo_permissions_prompt">
+        <item>ਕਾੱਲ ਕਰੋ, ਕੀ ਤੁਸੀਂ ਆਗਿਆ ਦੇਣਾ ਚਾਹੁੰਦੇ ਹੋ?</item>
+        <item>ਕਾੱਲ ਲਾੱਗ ਪੜ੍ਹੋ, ਕੀ ਤੁਸੀਂ ਆਗਿਆ ਦੇਣਾ ਚਾਹੁੰਦੇ ਹੋ?</item>
+        <item>ਸੰਪਰਕ ਪੜ੍ਹੋ,ਕੀ ਤੁਸੀਂ ਆਗਿਆ ਦੇਣਾ ਚਾਹੁੰਦੇ ਹੋ?</item>
+        <item>SMS ਲਾੱਗ ਪੜ੍ਹੋ, ਕੀ ਤੁਸੀਂ ਆਗਿਆ ਦੇਣਾ ਚਾਹੁੰਦੇ ਹੋ?</item>
+        <item>SMS ਭੇਜੋ, ਕੀ ਤੁਸੀਂ ਆਗਿਆ ਦੇਣਾ ਚਾਹੁੰਦੇ ਹੋ?</item>
+        <item>MMS ਭੇਜੋ, ਕੀ ਤੁਸੀਂ ਆਗਿਆ ਦੇਣਾ ਚਾਹੁੰਦੇ ਹੋ?</item>
+        <item>ਡਾਟਾ ਕਨੈਕਸ਼ਨ ਚਾਲੂ/ਬੰਦ ਕਰੋ, ਕੀ ਤੁਸੀਂ ਆਗਿਆ ਦੇਣਾ ਚਾਹੁੰਦੇ ਹੋ?</item>
+        <item>ਡਾਟਾ Wi-Fi ਕਨੈਕਸ਼ਨ ਚਾਲੂ/ਬੰਦ ਕਰੋ, ਕੀ ਤੁਸੀਂ ਆਗਿਆ ਦੇਣਾ ਚਾਹੁੰਦੇ ਹੋ?</item>
+        <item>ਬਲੂਟੂਥ ਕਨੈਕਸ਼ਨ ਚਾਲੂ/ਬੰਦ ਕਰੋ, ਕੀ ਤੁਸੀਂ ਆਗਿਆ ਦੇਣਾ ਚਾਹੁੰਦੇ ਹੋ?</item>
+        <item>GPS ਦੀ ਵਰਤੋਂ ਕਰੋ (ਐਪ ਦੂਜੇ ਸਰੋਤਾਂ ਦੁਆਰਾ ਤੁਹਾਡੇ ਸਥਾਨ ਸਬੰਧੀ ਜਾਣਕਾਰੀ ਵੀ ਪ੍ਰਾਪਤ ਕਰ ਸਕਦੀ ਹੈ), ਕੀ ਤੁਸੀਂ ਆਗਿਆ ਦੇਣਾ ਚਾਹੁੰਦੇ ਹੋ?</item>
+        <item>ਕੈਮਰਾ ਵਰਤੋ, ਕੀ ਤੁਸੀਂ ਆਗਿਆ ਦੇਣਾ ਚਾਹੁੰਦੇ ਹੋ?</item>
+        <item>ਰਿਕਾਰਡ ਕਰੋ ਅਤੇ ਕਾੱਲਾਂ ਰਿਕਾਰਡ ਕਰੋ, ਕੀ ਤੁਸੀਂ ਆਗਿਆ ਦੇਣਾ ਚਾਹੁੰਦੇ ਹੋ?</item>
+        <item>NFC ਚਾਲੂ/ਬੰਦ ਕਰੋ, ਕੀ ਤੁਸੀਂ ਆਗਿਆ ਦੇਣਾ ਚਾਹੁੰਦੇ ਹੋ?</item>
+        <item>ਕਾੱਲ ਲਾੱਗ ਲਿਖੋ ਜਾਂ ਮਿਟਾਓ, ਕੀ ਤੁਸੀਂ ਆਗਿਆ ਦੇਣਾ ਚਾਹੁੰਦੇ ਹੋ?</item>
+        <item>ਸੰਪਰਕ ਲਿਖੋ ਅਤੇ ਮਿਟਾਓ, ਕੀ ਤੁਸੀਂ ਆਗਿਆ ਦੇਣਾ ਚਾਹੁੰਦੇ ਹੋ?</item>
+        <item>SMS ਲਾੱਗ ਲਿਖੋ ਅਤੇ ਮਿਟਾਓ, ਕੀ ਤੁਸੀਂ ਆਗਿਆ ਦੇਣਾ ਚਾਹੁੰਦੇ ਹੋ?</item>
+        <item>MMS ਲਾੱਗ ਲਿਖੋ ਜਾਂ ਮਿਟਾਓ, ਕੀ ਤੁਸੀਂ ਆਗਿਆ ਦੇਣਾ ਚਾਹੁੰਦੇ ਹੋ?</item>
+        <item>MMS ਲਾੱਗ ਪੜ੍ਹੋ, ਕੀ ਤੁਸੀਂ ਆਗਿਆ ਦੇਣਾ ਚਾਹੁੰਦੇ ਹੋ?</item>
+    </string-array>
+    <string-array name="oppo_time_picker_ampm">
+        <item>ਸਵੇਰ</item>
+        <item>ਸ਼ਾਮ</item>
+    </string-array>
+    <string-array name="oppo_data_not_enough_array">
+        <item>ਸਾਫ਼ ਕਰਨ ਲਈ ਅੱਗੇ ਵੱਧੋ</item>
+        <item>SD ਕਾਰਡ ਵਿੱਚ ਟ੍ਰਾਂਸਫਰ ਕਰੋ</item>
+        <item>ਰੱਦ ਕਰੋ</item>
+    </string-array>
+    <string-array name="oppo_data_full_array">
+        <item>ਫੋਨ ਸਫ਼ਾਈ</item>
+        <item>ਐਪਸ ਅਣਸਥਾਪਿਤ ਕਰੋ</item>
+        <item>ਰੱਦ ਕਰੋ</item>
+    </string-array>
+    <string-array name="color_solor_mounth">
+        <item>ਜਨਵਰੀ</item>
+        <item>ਫਰਵਰੀ</item>
+        <item>ਮਾਰਚ</item>
+        <item>ਅਪ੍ਰੈਲ</item>
+        <item>ਮਈ</item>
+        <item>ਜੂਨ</item>
+        <item>ਜੁਲਾਈ</item>
+        <item>ਅਗਸਤ</item>
+        <item>ਸਿਤੰਬਰ</item>
+        <item>ਅਕਤੂਬਰ</item>
+        <item>ਨਵੰਬਰ</item>
+        <item>ਦਿਸੰਬਰ</item>
+    </string-array>
+    <string-array name="color_resolver_target_pin">
+        <item>ਸਿਖਰ ਤੇ ਪਿਨ ਕਰੋ</item>
+        <item>ਐਪ ਦੇ ਵੇਰਵੇ ਦੇਖੋ</item>
+    </string-array>
+    <string-array name="color_resolver_target_unpin">
+        <item>ਅਨਪਿਨ ਕਰੋ</item>
+        <item>ਐਪ ਦੇ ਵੇਰਵੇ ਦੇਖੋ</item>
+    </string-array>
+</resources>

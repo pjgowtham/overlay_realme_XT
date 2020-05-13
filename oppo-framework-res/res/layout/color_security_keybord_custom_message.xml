@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:paddingTop="@dimen/color_alert_dialog_content_panel_padding_top" android:paddingBottom="@dimen/color_alert_dialog_content_panel_padding_bottom" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="@dimen/TD07" android:textColor="@color/color_security_keyboard_dialog_message_text_color" android:gravity="center" android:id="@id/message" android:paddingLeft="@dimen/M10" android:paddingRight="@dimen/M10" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/color_keybord_view_detail_message" android:layout_centerHorizontal="true" />
+</LinearLayout>

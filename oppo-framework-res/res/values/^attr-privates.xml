@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="ImgViewBottomPadding" format="dimension" />
+    <attr name="ImgViewDrawableRes" format="reference|color" />
+    <attr name="ImgViewLeftPadding" format="dimension" />
+    <attr name="ImgViewRightPadding" format="dimension" />
+    <attr name="ImgViewTopPadding" format="dimension" />
+    <attr name="SlidePieceBkgRes" format="reference|color" />
+    <attr name="TextOfTextView" format="string" />
+    <attr name="TextSizeOfTextView" format="integer" />
+    <attr name="TextViewBottomPadding" format="dimension" />
+    <attr name="TextViewColor" format="color" />
+    <attr name="TextViewLeftPadding" format="dimension" />
+    <attr name="TextViewRightPadding" format="dimension" />
+    <attr name="TextViewShine" format="boolean" />
+    <attr name="TextViewTopPadding" format="dimension" />
+    <attr name="allowFallback" format="boolean" />
+    <attr name="animated" format="boolean" />
+    <attr name="apdupattern_mask" format="string" />
+    <attr name="arch" format="dimension" />
+    <attr name="category" format="integer">
+        <enum name="general" value="2" />
+        <enum name="sys_more" value="1" />
+        <enum name="sys_normal" value="0" />
+    </attr>
+    <attr name="child" format="integer" min="2" />
+    <attr name="childlike" format="integer">
+        <enum name="above" value="1" />
+        <enum name="below" value="2" />
+        <enum name="normal" value="0" />
+    </attr>
+    <attr name="clipLength" format="dimension" />
+    <attr name="collapsEnabled" format="boolean" />
+    <attr name="colorButtonColorfulBlueStyle" format="reference" />
+    <attr name="colorButtonColorfulGreenStyle" format="reference" />
+    <attr name="colorButtonColorfulLargeStyle" format="reference" />
+    <attr name="colorButtonColorfulRedStyle" format="reference" />
+    <attr name="colorButtonColorfulStyle" format="reference" />
+    <attr name="colorButtonColorfulWhiteStyle" format="reference" />
+    <attr name="colorButtonStressStyle" format="reference" />
+    <attr name="colorFloatItemNormalTintColor" format="reference|color" />
+    <attr name="colorFloatItemPressedTintColor" format="reference|color" />
+    <attr name="colorFloatingToolBarBackStyle" format="reference" />
+    <attr name="colorFloatingToolBarMoreStyle" format="reference" />
+    <attr name="colorFloatingToolDownStyle" format="reference" />
+    <attr name="colorFloatingToolUpStyle" format="reference" />
+    <attr name="colorLargeButtonLightStyle" format="reference" />
+    <attr name="colorTintLightPressed" format="reference|color" />
+    <attr name="crossEnabled" format="boolean" />
+    <attr name="date_picker_height" format="dimension" />
+    <attr name="date_picker_width" format="dimension" />
+    <attr name="debug" format="boolean" />
+    <attr name="description" format="reference" />
+    <attr name="detailColumn" format="string" />
+    <attr name="dragdrop_background" format="reference|color" />
+    <attr name="during" format="integer" />
+    <attr name="edgeWidth" format="dimension" />
+    <attr name="evenItemColor" format="color" />
+    <attr name="fromRollDegrees" format="float|fraction" />
+    <attr name="fromYRoll" format="float|fraction" />
+    <attr name="icon" format="reference" />
+    <attr name="itemCountOfPerPage" format="integer" />
+    <attr name="item_expand_height" format="dimension" />
+    <attr name="item_normal_height" format="dimension" />
+    <attr name="keymore" format="integer" />
+    <attr name="listenEdges">
+        <flag name="left" value="0x00000001" />
+        <flag name="right" value="0x00000002" />
+    </attr>
+    <attr name="lockAuthor" format="reference" />
+    <attr name="lockDescription" format="reference" />
+    <attr name="lockThumbleft" format="reference" />
+    <attr name="lockThumbnail" format="reference" />
+    <attr name="lockThumbright" format="reference" />
+    <attr name="maxchild" format="integer" min="5" />
+    <attr name="mimeType" format="string" />
+    <attr name="oddItemColor" format="color" />
+    <attr name="offsetHeight" format="dimension" />
+    <attr name="operable" format="boolean" />
+    <attr name="oppoSearchAnimTextField" format="reference" />
+    <attr name="oppoSearchResultListItemHeight" format="dimension" />
+    <attr name="oppoSearchViewEditQuery" format="reference" />
+    <attr name="oppoSearchViewEditQueryBackground" format="reference" />
+    <attr name="oppoSwitchStyle" format="reference" />
+    <attr name="oppoTabWidgetStyle" format="reference" />
+    <attr name="oppoTextAppearanceBootMessage" format="reference" />
+    <attr name="oppoTextAppearanceBootPercent" format="reference" />
+    <attr name="oppoThemeType" format="integer">
+        <enum name="black" value="1" />
+        <enum name="white" value="0" />
+    </attr>
+    <attr name="oppoTranslateTextAppearanceDict" format="reference" />
+    <attr name="oppoTranslateTextAppearanceError" format="reference" />
+    <attr name="oppoTranslateTextAppearanceMeans" format="reference" />
+    <attr name="oppoTranslateTextAppearanceMore" format="reference" />
+    <attr name="oppoTranslateTextAppearanceTitle" format="reference" />
+    <attr name="paddingcolor" format="color" />
+    <attr name="reference_data" format="string" />
+    <attr name="remoteViews" format="reference" />
+    <attr name="singleFrame" format="boolean" />
+    <attr name="summaryColumn" format="string" />
+    <attr name="textPositionY1" format="integer" />
+    <attr name="textPositionY2" format="integer" />
+    <attr name="textPositionY3" format="integer" />
+    <attr name="textSize" format="dimension" />
+    <attr name="textcolor" format="integer">
+        <enum name="dark" value="-16777216" />
+        <enum name="light" value="-1" />
+    </attr>
+    <attr name="texthlcolor" format="integer">
+        <enum name="dark" value="-16777216" />
+        <enum name="light" value="-1" />
+    </attr>
+    <attr name="textsize" format="dimension" />
+    <attr name="toRollDegrees" format="float|fraction" />
+    <attr name="toYRoll" format="float|fraction" />
+    <attr name="translucentMode" format="boolean" />
+    <attr name="widgetLayout" format="reference" />
+    <attr name="windowEnterAnimation" format="reference" />
+    <attr name="windowExitAnimation" format="reference" />
+</resources>

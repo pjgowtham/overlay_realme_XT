@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="color_week_day_long">
+        <item>Нед.</item>
+        <item>Пон.</item>
+        <item>Вівт.</item>
+        <item>Сер.</item>
+        <item>Четв.</item>
+        <item>П`ят.</item>
+        <item>Суб.</item>
+    </string-array>
+    <string-array name="color_week_day_short">
+        <item>Нд</item>
+        <item>Пн</item>
+        <item>Вт</item>
+        <item>Ср</item>
+        <item>Чт</item>
+        <item>Пт</item>
+        <item>Сб</item>
+    </string-array>
+    <string-array name="oppo_permissions_prompt">
+        <item>телефонувати. Дозволити?</item>
+        <item>читати журнали викликів. Дозволити?</item>
+        <item>читати контакти. Дозволити?</item>
+        <item>читати журнали SMS-повідомлень. Дозволити?</item>
+        <item>надсилати SMS-повідомлення. Дозволити?</item>
+        <item>надсилати MMS-повідомлення. Дозволити?</item>
+        <item>вмикати/вимикати підключення для обміну даними. Дозволити?</item>
+        <item>вмикати/вимикати мережу Wi-Fi. Дозволити?</item>
+        <item>вмикати/вимикати Bluetooth. Дозволити?</item>
+        <item>використовувати GPS (програма також може отримувати дані про ваше місцеположення іншими способами). Дозволити?</item>
+        <item>використовувати камеру. Дозволити?</item>
+        <item>записувати звук і виклики. Дозволити?</item>
+        <item>вмикати/вимикати NFC. Дозволити?</item>
+        <item>записувати й видаляти журнали викликів. Дозволити?</item>
+        <item>записувати й видаляти контакти. Дозволити?</item>
+        <item>роботи й видаляти записи в журналах SMS-повідомлень. Дозволити?</item>
+        <item>робити й видаляти записи в журналах MMS-повідомлень. Дозволити?</item>
+        <item>читати журнали MMS-повідомлень. Дозволити?</item>
+    </string-array>
+    <string-array name="oppo_time_picker_ampm">
+        <item>дп</item>
+        <item>пп</item>
+    </string-array>
+    <string-array name="oppo_data_not_enough_array">
+        <item>Перейти до очищення</item>
+        <item>Передача на картку SD</item>
+        <item>Скасувати</item>
+    </string-array>
+    <string-array name="oppo_data_full_array">
+        <item>Очищення телефона</item>
+        <item>Видалити програми</item>
+        <item>Скасувати</item>
+    </string-array>
+    <string-array name="color_solor_mounth">
+        <item>Січень</item>
+        <item>Лютий</item>
+        <item>Березень</item>
+        <item>Квітень</item>
+        <item>Травень</item>
+        <item>Червень</item>
+        <item>Липень</item>
+        <item>Серпень</item>
+        <item>Вересень</item>
+        <item>Жовтень</item>
+        <item>Листопад</item>
+        <item>Грудень</item>
+    </string-array>
+    <string-array name="color_resolver_target_pin">
+        <item>Закріпити зверху</item>
+        <item>Переглянути інформацію про програму</item>
+    </string-array>
+    <string-array name="color_resolver_target_unpin">
+        <item>Відкріпити</item>
+        <item>Переглянути інформацію про програму</item>
+    </string-array>
+</resources>

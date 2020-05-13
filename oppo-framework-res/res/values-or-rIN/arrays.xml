@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="color_week_day_long">
+        <item>ରବିବାର</item>
+        <item>ସୋମବାର</item>
+        <item>ମଙ୍ଗଳବାର</item>
+        <item>ବୁଧବାର</item>
+        <item>ଗୁରୁବାର</item>
+        <item>ଶୁକ୍ରବାର</item>
+        <item>ଶନିବାର</item>
+    </string-array>
+    <string-array name="color_week_day_short">
+        <item>ରବି</item>
+        <item>ସୋମବାର</item>
+        <item>ମଙ୍ଗଳବାର</item>
+        <item>ବୁଧବାର</item>
+        <item>ଗୁରୁବାର</item>
+        <item>ଶୁକ୍ରବାର</item>
+        <item>ଶନିବାର</item>
+    </string-array>
+    <string-array name="oppo_permissions_prompt">
+        <item>କଲ୍, ଆପଣ ଅନୁମତି କରିବେ?</item>
+        <item>କଲ୍ ଲଗ୍ ପଢନ୍ତୁ, ଆପଣ ଅନୁମତି କରିବେ?</item>
+        <item>ଯୋଗାଯୋଗ ଗୁଡିକ ପଢନ୍ତୁ, ଆପଣ ଅନୁମତି କରିବେ?</item>
+        <item>SMS ଲଗ୍ ପଢନ୍ତୁ, ଆପଣ ଅନୁମତି କରିବେ?</item>
+        <item>SMS ପଠାନ୍ତୁ, ଆପଣ ଅନୁମତି କରିବେ?</item>
+        <item>MMS ପଠାନ୍ତୁ, ଆପଣ ଅନୁମତି କରିବେ?</item>
+        <item>ଡାଟା ସଂଯୋଗକରଣ ଟର୍ନ୍ ଅନ୍/ଅଫ୍ କରନ୍ତୁ, ଆପଣ ଅନୁମତି କରିବେ?</item>
+        <item>Wi-Fi ଟର୍ନ୍ ଅନ୍/ଅଫ୍ କରନ୍ତୁ, ଆପଣ ଅନୁମତି କରିବେ?</item>
+        <item>bluetooth ଟର୍ନ୍ ଅନ୍/ଅଫ୍ କରନ୍ତୁ, ଆପଣ ଅନୁମତି କରିବେ?</item>
+        <item>GPS ବ୍ୟବହାର କରନ୍ତୁ (ଅନ୍ୟ ଭାବରେ ଆପ୍ଲିକେସନ୍ ଆପଣଙ୍କର ଅବସ୍ଥାନ ସୂଚନା ଧାରଣ କରିପାରେ), ଆପଣ ଅନୁମତି କରିବେ?</item>
+        <item>କ୍ୟାମେରା ବ୍ୟବହାର କରନ୍ତୁ, ଆପଣ ଅନୁମତି କରିବେ?</item>
+        <item>ରେକର୍ଡ୍ ଏବଂ କଲ୍ ରେକର୍ଡ୍, ଆପଣ ଅନୁମତି କରିବେ?</item>
+        <item>NFC ଟର୍ନ୍ ଅନ୍/ଅଫ୍ କରନ୍ତୁ, ଆପଣ ଅନୁମତି କରିବେ?</item>
+        <item>କଲ୍ ଲଗ୍ ଲେଖନ୍ତୁ କିମ୍ବା ବିଲୋପ କରନ୍ତୁ, ଆପଣ ଅନୁମତି କରିବେ?</item>
+        <item>ସମ୍ପର୍କଗୁଡିକ ଲେଖନ୍ତୁ ଏବଂ ବିଲୋପ କରନ୍ତୁ, ଆପଣ ଅନୁମତି କରିବେ?</item>
+        <item>SMS ଲଗ୍ ଲେଖନ୍ତୁ କିମ୍ବା ବିଲୋପ କରନ୍ତୁ, ଆପଣ ଅନୁମତି କରିବେ?</item>
+        <item>MMS ଲଗ୍ ଲେଖନ୍ତୁ କିମ୍ବା ବିଲୋପ କରନ୍ତୁ, ଆପଣ ଅନୁମତି କରିବେ?</item>
+        <item>MMS ଲଗ୍ ପଢନ୍ତୁ, ଆପଣ ଅନୁମତି କରିବେ?</item>
+    </string-array>
+    <string-array name="oppo_time_picker_ampm">
+        <item>ଏ‌ଏମ୍‌</item>
+        <item>ପିଏମ୍‌</item>
+    </string-array>
+    <string-array name="oppo_data_not_enough_array">
+        <item>କ୍ଲିନ୍‌ଅପ୍‌ ପାଇଁ ଅଗ୍ରଗତି କରନ୍ତୁ</item>
+        <item>SD କାର୍ଡ୍‍ରେ ସ୍ଥାନାନ୍ତର କରନ୍ତୁ</item>
+        <item>ବାତିଲ୍‌ କରନ୍ତୁ</item>
+    </string-array>
+    <string-array name="oppo_data_full_array">
+        <item>ଫୋନ୍ କ୍ଲିନଅପ୍</item>
+        <item>ଅଣସ୍ଥାପିତ ଆପ୍ ଗୁଡ଼ିକ</item>
+        <item>ବାତିଲ</item>
+    </string-array>
+    <string-array name="color_solor_mounth">
+        <item>ଜାନୁଆରି</item>
+        <item>ଫେବୃଆରି</item>
+        <item>ମାର୍ଚ୍ଚ</item>
+        <item>ଏପ୍ରିଲ୍‌</item>
+        <item>ମ‌ଇ</item>
+        <item>ଜୁନ</item>
+        <item>ଜୁଲାଇ</item>
+        <item>ଅଗଷ୍ଟ</item>
+        <item>ସେପ୍ଟେମ୍ବର</item>
+        <item>ଅକ୍ଟୋବର</item>
+        <item>ନଭେମ୍ବର</item>
+        <item>ଡିସେମ୍ବର</item>
+    </string-array>
+    <string-array name="color_resolver_target_pin">
+        <item>ଶୀର୍ଷରେ ପିନ୍‌ କରନ୍ତୁ</item>
+        <item>ଆପ୍‌ ବିବରଣୀ ଦେଖନ୍ତୁ</item>
+    </string-array>
+    <string-array name="color_resolver_target_unpin">
+        <item>ଅନ୍‌ପିନ୍‌</item>
+        <item>ଆପ୍‌ ବିବରଣୀ ଦେଖନ୍ତୁ</item>
+    </string-array>
+</resources>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="color_week_day_long">
+        <item>রবি</item>
+        <item>সোম</item>
+        <item>মঙ্গল</item>
+        <item>বুধ</item>
+        <item>বৃহস্পতি</item>
+        <item>শুক্র</item>
+        <item>শনি</item>
+    </string-array>
+    <string-array name="color_week_day_short">
+        <item>রবি</item>
+        <item>সোমবার</item>
+        <item>মঙ্গলবার</item>
+        <item>বুধবার</item>
+        <item>বৃহস্পতিবার</item>
+        <item>শুক্রবার</item>
+        <item>শনি</item>
+    </string-array>
+    <string-array name="oppo_permissions_prompt">
+        <item>কল, অনুমতি দিবেন?</item>
+        <item>কল লগ পড়ুন, অনুমতি দিবেন?</item>
+        <item>পরিচিতজন পড়ুন, অনুমতি দিবেন?</item>
+        <item>এসএমএস পড়ুন, অনুমতি দিবেন?</item>
+        <item>এসএমএস পাঠান, অনুমতি দিবেন?</item>
+        <item>এমএমএস পাঠান, অনুমতি দিবেন?</item>
+        <item>ডাটা সংযোগ চালু/বন্ধ করুন , অনুমতি দিবেন?</item>
+        <item>Wi-Fi চালু/বন্ধ করুন , অনুমতি দিবেন?</item>
+        <item>ব্লুটুথ চালু/বন্ধ করুন , অনুমতি দিবেন?</item>
+        <item>জিপিএস ব্যবহার করুন ( অ্যাপ অন্যাভাবেও আপনার অবস্থানের তথ্য সংগ্রহ করতে পারে), অনুমতি দেবেন?</item>
+        <item>ক্যামেরা ব্যবহার করুন , অনুমতি দিবেন?</item>
+        <item>রেকর্ড করুন এবং কল রেকর্ড করুন, অনুমতি দিবেন?</item>
+        <item>এনএফসি চালু/বন্ধ করুন , অনুমতি দিবেন?</item>
+        <item>কল তালিকা লিখুন বা মুছুন, অনুমতি দিবেন?</item>
+        <item>পরিচিতিজন লিখুন ও মুছুন, অনুমতি দিবেন?</item>
+        <item>এসএমএস তালিকা লিখুন বা মুছুন, অনুমতি দিবেন?</item>
+        <item>এমএমএস তালিকা লিখুন বা মুছুন, অনুমতি দিবেন?</item>
+        <item>এমএমএস তালিকা পড়ুন, অনুমতি দিবেন?</item>
+    </string-array>
+    <string-array name="oppo_time_picker_ampm">
+        <item>AM</item>
+        <item>PM</item>
+    </string-array>
+    <string-array name="oppo_data_not_enough_array">
+        <item>সাফ করতে অগ্রসর হোন</item>
+        <item>এসডি কার্ডে ট্রান্সফার করুন</item>
+        <item>বাতিল করুন</item>
+    </string-array>
+    <string-array name="oppo_data_full_array">
+        <item>ফোন ক্লিনআপ</item>
+        <item>অ্যাপ আনইনস্টল করুন</item>
+        <item>বাতিল করুন</item>
+    </string-array>
+    <string-array name="color_solor_mounth">
+        <item>জানুয়ারি</item>
+        <item>ফেব্রুয়ারি</item>
+        <item>মার্চ</item>
+        <item>এপ্রিল</item>
+        <item>মে</item>
+        <item>জুন</item>
+        <item>জুলাই</item>
+        <item>আগস্ট</item>
+        <item>সেপ্টেম্বর</item>
+        <item>অক্টোবর</item>
+        <item>নভেম্বর</item>
+        <item>ডিসেম্বর</item>
+    </string-array>
+    <string-array name="color_resolver_target_pin">
+        <item>পিন অন টপ</item>
+        <item>অ্যাপের বিবরণ দেখুন</item>
+    </string-array>
+    <string-array name="color_resolver_target_unpin">
+        <item>আনপিন</item>
+        <item>অ্যাপের বিবরণ দেখুন</item>
+    </string-array>
+</resources>

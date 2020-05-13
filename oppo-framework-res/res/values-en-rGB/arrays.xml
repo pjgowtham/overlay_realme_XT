@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="color_week_day_long">
+        <item>Sunday</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+    </string-array>
+    <string-array name="color_week_day_short">
+        <item>Sun</item>
+        <item>Mon</item>
+        <item>Tue</item>
+        <item>Wed</item>
+        <item>Thu</item>
+        <item>Fri</item>
+        <item>Sat</item>
+    </string-array>
+    <string-array name="oppo_permissions_prompt">
+        <item>Call, do you allow?</item>
+        <item>Read call logs, do you allow?</item>
+        <item>Read contacts, do you allow?</item>
+        <item>Read SMS logs, do you allow?</item>
+        <item>Send SMS , do you allow?</item>
+        <item>Send MMS, do you allow?</item>
+        <item>Turn data connection on/off, do you allow?</item>
+        <item>Turn Wi-Fi on/off, do you allow?</item>
+        <item>Turn Bluetooth on/off, do you allow?</item>
+        <item>Use GPS (the app can also obtain your location information by other means), do you allow?</item>
+        <item>Use camera, do you allow?</item>
+        <item>Record and record calls, do you allow?</item>
+        <item>Turn NFC on/off, do you allow?</item>
+        <item>Write or delete call logs, do you allow?</item>
+        <item>Write and delete contacts, do you allow?</item>
+        <item>Write and delete SMS logs, do you allow?</item>
+        <item>Write or delete MMS logs, do you allow?</item>
+        <item>Read MMS logs, do you allow?</item>
+    </string-array>
+    <string-array name="oppo_time_picker_ampm">
+        <item>AM</item>
+        <item>PM</item>
+    </string-array>
+    <string-array name="oppo_data_not_enough_array">
+        <item>Proceed to Cleanup</item>
+        <item>Transfer to SD Card</item>
+        <item>Cancel</item>
+    </string-array>
+    <string-array name="oppo_data_full_array">
+        <item>Phone Cleanup</item>
+        <item>Uninstall Apps</item>
+        <item>Cancel</item>
+    </string-array>
+    <string-array name="color_solor_mounth">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+    <string-array name="color_resolver_target_pin">
+        <item>Pin on Top</item>
+        <item>View App Details</item>
+    </string-array>
+    <string-array name="color_resolver_target_unpin">
+        <item>Unpin</item>
+        <item>View App Details</item>
+    </string-array>
+</resources>

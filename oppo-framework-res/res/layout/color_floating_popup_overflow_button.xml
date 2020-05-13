@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ImageButton android:background="?android:actionBarItemBackground" android:paddingTop="@dimen/color_floating_toolbar_overflow_button_vertical_padding" android:paddingBottom="@dimen/color_floating_toolbar_overflow_button_vertical_padding" android:layout_width="@dimen/color_floating_toolbar_overflow_button_width" android:layout_height="@dimen/color_floating_toolbar_height" android:scaleType="center" android:tint="?colorFloatingToolbarForegroundColor" android:paddingStart="@dimen/color_floating_toolbar_menu_button_side_padding" android:paddingEnd="@dimen/color_floating_toolbar_menu_button_side_padding"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

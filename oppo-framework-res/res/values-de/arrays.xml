@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="color_week_day_long">
+        <item>So.</item>
+        <item>Mo.</item>
+        <item>Di.</item>
+        <item>Mi.</item>
+        <item>Do.</item>
+        <item>Fr.</item>
+        <item>Sa.</item>
+    </string-array>
+    <string-array name="color_week_day_short">
+        <item>Sonntag</item>
+        <item>Montag</item>
+        <item>Dienstag</item>
+        <item>Mittwoch</item>
+        <item>Donnerstag</item>
+        <item>Freitag</item>
+        <item>Samstag</item>
+    </string-array>
+    <string-array name="oppo_permissions_prompt">
+        <item>Anrufen zulassen?</item>
+        <item>Lesen des Verbindungsprotokolls zulassen?</item>
+        <item>Lesen der Kontakte zulassen?</item>
+        <item>Lesen des SMS-Protokolls zulassen?</item>
+        <item>Senden von SMS zulassen?</item>
+        <item>Senden von MMS zulassen?</item>
+        <item>Ein-/Ausschalten der Datenverbindung zulassen?</item>
+        <item>Ein-/Ausschalten von Wi-Fi zulassen?</item>
+        <item>Ein-/Ausschalten der Bluetooth-Funktion zulassen?</item>
+        <item>Verwenden von GPS zulassen (die App kann Angaben zu Ihrem Standort auch auf andere Weise erfassen)?</item>
+        <item>Verwenden der Kamera zulassen?</item>
+        <item>Aufzeichnen von Ton und Anrufen zulassen?</item>
+        <item>Ein-/Ausschalten der NFC-Funktion zulassen?</item>
+        <item>Schreiben und Löschen von Verbindungsprotokollen zulassen?</item>
+        <item>Schreiben und Löschen von Kontakten zulassen?</item>
+        <item>Schreiben und Löschen von SMS-Protokollen zulassen?</item>
+        <item>Schreiben und Löschen von MMS-Protokollen zulassen?</item>
+        <item>Lesen des MMS-Protokolls zulassen?</item>
+    </string-array>
+    <string-array name="oppo_time_picker_ampm">
+        <item>vorm.</item>
+        <item>nachm.</item>
+    </string-array>
+    <string-array name="oppo_data_not_enough_array">
+        <item>Mit Bereinigung fortfahren</item>
+        <item>Auf SD-Karte übertragen</item>
+        <item>Abbrechen</item>
+    </string-array>
+    <string-array name="oppo_data_full_array">
+        <item>Telefonbereinigung</item>
+        <item>Apps deinstallieren</item>
+        <item>Abbrechen</item>
+    </string-array>
+    <string-array name="color_solor_mounth">
+        <item>Januar</item>
+        <item>Februar</item>
+        <item>März</item>
+        <item>April</item>
+        <item>Mai</item>
+        <item>Juni</item>
+        <item>Juli</item>
+        <item>August</item>
+        <item>September</item>
+        <item>Oktober</item>
+        <item>November</item>
+        <item>Dezember</item>
+    </string-array>
+    <string-array name="color_resolver_target_pin">
+        <item>Oben anheften</item>
+        <item>App-Infos anzeigen</item>
+    </string-array>
+    <string-array name="color_resolver_target_unpin">
+        <item>Loslösen</item>
+        <item>App-Infos anzeigen</item>
+    </string-array>
+</resources>

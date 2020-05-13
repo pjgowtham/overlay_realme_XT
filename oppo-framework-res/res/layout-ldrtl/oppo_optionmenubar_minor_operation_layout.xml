@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:gravity="center_vertical" android:layout_gravity="bottom" android:layout_width="fill_parent" android:layout_height="@dimen/oppo_optionmenubar_more_operation_height"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.oppo.widget.OppoOptionMenuBarGallery android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/MoreOperationsGroup" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="@dimen/oppo_optionmenubar_more_operation_height" />
+    <ImageView android:id="@id/MoreOperationArrowRight" android:visibility="invisible" android:layout_width="@dimen/oppo_optionmenubar_more_operation_arrow_width" android:layout_height="@dimen/oppo_optionmenubar_more_operation_arrow_height" android:layout_marginLeft="@dimen/oppo_optionmenubar_more_operation_arrow_margin" android:layout_alignParentLeft="true" android:layout_centerVertical="true" />
+    <ImageView android:id="@id/MoreOperationArrowLeft" android:visibility="invisible" android:layout_width="@dimen/oppo_optionmenubar_more_operation_arrow_width" android:layout_height="@dimen/oppo_optionmenubar_more_operation_arrow_height" android:layout_marginRight="@dimen/oppo_optionmenubar_more_operation_arrow_margin" android:layout_alignParentRight="true" android:layout_centerVertical="true" />
+</RelativeLayout>

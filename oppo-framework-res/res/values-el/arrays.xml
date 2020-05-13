@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="color_week_day_long">
+        <item>Κυρ</item>
+        <item>Δευ</item>
+        <item>Τρι</item>
+        <item>Τετ</item>
+        <item>Πεμ</item>
+        <item>Παρ</item>
+        <item>Σαβ</item>
+    </string-array>
+    <string-array name="color_week_day_short">
+        <item>Κυρ</item>
+        <item>Δευτέρα</item>
+        <item>Τρίτη</item>
+        <item>Τετάρτη</item>
+        <item>Πέμπτη</item>
+        <item>Παρασκευή</item>
+        <item>Σάβ</item>
+    </string-array>
+    <string-array name="oppo_permissions_prompt">
+        <item>κλήση, να επιτραπεί</item>
+        <item>ανάγνωση μητρώων κλήσεων, να επιτραπεί</item>
+        <item>ανάγνωση επαφών, να επιτραπεί</item>
+        <item>ανάγνωση μητρώων SMS, να επιτραπεί</item>
+        <item>αποστολή SMS, να επιτραπεί</item>
+        <item>αποστολή MMS, να επιτραπεί</item>
+        <item>ενεργοποίηση/απενεργοποίηση σύνδεσης δεδομένων, να επιτραπεί</item>
+        <item>ενεργοποίηση/απενεργοποίηση Wi-Fi, να επιτραπεί</item>
+        <item>ενεργοποίηση/απενεργοποίηση Bluetooth, να επιτραπεί</item>
+        <item>χρήση GPS (η εφαρμογή μπορεί να λάβει τις πληροφορίες της τοποθεσίας σας και με άλλα μέσα), να επιτραπεί</item>
+        <item>χρήση κάμερας, να επιτραπεί</item>
+        <item>εγγραφή και εγγραφή κλήσεων, να επιτραπεί</item>
+        <item>ενεργοποίηση/απενεργοποίηση NFC, να επιτραπεί</item>
+        <item>εγγραφή ή διαγραφή μητρώων κλήσεων, να επιτραπεί</item>
+        <item>εγγραφή και διαγραφή επαφών, να επιτραπεί</item>
+        <item>εγγραφή και διαγραφή μητρώων SMS, να επιτραπεί</item>
+        <item>εγγραφή ή διαγραφή μητρώων MMS, να επιτραπεί</item>
+        <item>ανάγνωση μητρώων MMS, να επιτραπεί</item>
+    </string-array>
+    <string-array name="oppo_time_picker_ampm">
+        <item>ΠΜ</item>
+        <item>ΜΜ</item>
+    </string-array>
+    <string-array name="oppo_data_not_enough_array">
+        <item>Προς εκκαθάριση</item>
+        <item>Μεταφορά στην κάρτα SD</item>
+        <item>Ακύρωση</item>
+    </string-array>
+    <string-array name="oppo_data_full_array">
+        <item>Εκκαθάριση τηλεφώνου</item>
+        <item>Κατάργηση εγκατάστασης εφαρμογών</item>
+        <item>Ακύρωση</item>
+    </string-array>
+    <string-array name="color_solor_mounth">
+        <item>Ιανουάριος</item>
+        <item>Φεβρουάριος</item>
+        <item>Μάρτιος</item>
+        <item>Απρίλιος</item>
+        <item>Μάιος</item>
+        <item>Ιούνιος</item>
+        <item>Ιούλιος</item>
+        <item>Αύγουστος</item>
+        <item>Σεπτέμβριος</item>
+        <item>Οκτώβριος</item>
+        <item>Νοέμβριος</item>
+        <item>Δεκέμβριος</item>
+    </string-array>
+    <string-array name="color_resolver_target_pin">
+        <item>Καρφίτσωμα στην κορυφή</item>
+        <item>Προβολή λεπτομερειών εφαρμογής</item>
+    </string-array>
+    <string-array name="color_resolver_target_unpin">
+        <item>Ξεκαρφίτσωμα</item>
+        <item>Προβολή λεπτομερειών εφαρμογής</item>
+    </string-array>
+</resources>

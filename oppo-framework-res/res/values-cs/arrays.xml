@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="color_week_day_long">
+        <item>Ne</item>
+        <item>Po</item>
+        <item>Út</item>
+        <item>St</item>
+        <item>Čt</item>
+        <item>Pá</item>
+        <item>So</item>
+    </string-array>
+    <string-array name="color_week_day_short">
+        <item>Neděle</item>
+        <item>Pondělí</item>
+        <item>Úterý</item>
+        <item>Středa</item>
+        <item>Čtvrtek</item>
+        <item>Pátek</item>
+        <item>Sobota</item>
+    </string-array>
+    <string-array name="oppo_permissions_prompt">
+        <item>povolujete volání?</item>
+        <item>povolujete čtení protokolů hovorů?</item>
+        <item>povolujete čtení kontaktních informací?</item>
+        <item>povolujete čtení protokolů SMS?</item>
+        <item>povolujete odesílání SMS zpráv?</item>
+        <item>povolujete odesílání MMS zpráv?</item>
+        <item>povolujete zapínání a vypínání mobilního datového připojení?</item>
+        <item>povolujete zapínání a vypínání připojení přes Wi-Fi?</item>
+        <item>povolujete zapínání a vypínání připojení přes Bluetooth?</item>
+        <item>povolujete použití GPS (aplikace může získávat informace o poloze i jinými způsoby)?</item>
+        <item>povolujete použití kamery?</item>
+        <item>povolujete pořizování záznamů a nahrávání hovorů?</item>
+        <item>povolujete zapínání a vypínání NFC?</item>
+        <item>povolujete zapisování do protokolů hovorů nebo jejich mazání?</item>
+        <item>povolujete zapisování do kontaktních informací a jejich mazání?</item>
+        <item>povolujete zapisování do protokolů SMS a jejich mazání?</item>
+        <item>povolujete zapisování do protokolů MMS nebo jejich mazání?</item>
+        <item>povolujete čtení protokolů MMS?</item>
+    </string-array>
+    <string-array name="oppo_time_picker_ampm">
+        <item>dop.</item>
+        <item>odp.</item>
+    </string-array>
+    <string-array name="oppo_data_not_enough_array">
+        <item>Přejít k úklidu</item>
+        <item>Přesunout na paměťovou kartu SD</item>
+        <item>Zrušit</item>
+    </string-array>
+    <string-array name="oppo_data_full_array">
+        <item>Čištění telefonu</item>
+        <item>Odinstalovat aplikace</item>
+        <item>Zrušit</item>
+    </string-array>
+    <string-array name="color_solor_mounth">
+        <item>Leden</item>
+        <item>Únor</item>
+        <item>Březen</item>
+        <item>Duben</item>
+        <item>Květen</item>
+        <item>Červen</item>
+        <item>Červenec</item>
+        <item>Srpen</item>
+        <item>Září</item>
+        <item>Říjen</item>
+        <item>Listopad</item>
+        <item>Prosinec</item>
+    </string-array>
+    <string-array name="color_resolver_target_pin">
+        <item>Připnout nahoře</item>
+        <item>Zobrazit podrobnosti aplikace</item>
+    </string-array>
+    <string-array name="color_resolver_target_unpin">
+        <item>Odepnout</item>
+        <item>Zobrazit podrobnosti aplikace</item>
+    </string-array>
+</resources>

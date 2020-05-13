@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<carrier_config_list>
+    <carrier_config>
+    <!-- ifdef VENDOR_EDIT -->
+    <!-- Linghong.Zeng@PSW.NW.IMS 1567389 2018/10/10-->
+    <string name="default_vm_number_string">444</string>
+    <!--#endif VENDOR_EDIT-->
+    </carrier_config>
+</carrier_config_list>

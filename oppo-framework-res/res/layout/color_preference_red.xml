@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_vertical" android:id="@id/oppo_preference" android:clipChildren="false" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="@dimen/color_preference_min_height" android:paddingStart="@dimen/color_preference_titel_padding_start" android:paddingEnd="@dimen/color_preference_titel_padding_end"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:oppo="http://schemas.android.com/apk/res/oppo">
+    <com.color.widget.ColorRoundImageView android:layout_gravity="center" android:id="@android:id/icon" android:layout_width="wrap_content" android:layout_height="wrap_content" colorType="round" style="@style/PreferenceIcon" />
+    <RelativeLayout android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1.0" style="@style/PreferenceContent">
+        <TextView android:textColor="@color/color_preference_red" android:id="@android:id/title" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/PreferenceTitle" />
+        <TextView android:id="@android:id/summary" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/color_preference_margin_between_line" android:layout_below="@android:id/title" android:layout_alignStart="@android:id/title" style="@style/PreferenceSummary" />
+    </RelativeLayout>
+    <LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:id="@android:id/widget_frame" android:clipChildren="false" android:clipToPadding="false" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+</LinearLayout>

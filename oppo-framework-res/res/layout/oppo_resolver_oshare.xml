@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ViewStub android:id="@id/resolver_open_oshare_Panel" android:paddingTop="8.0dip" android:layout="@layout/oppo_resolver_oshare_closed" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    <ViewStub android:id="@id/resolver_notice_open_oshare" android:paddingTop="8.0dip" android:layout="@layout/oppo_resolver_oshare_opened" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    <ViewStub android:id="@id/resolver_oshareing_Panel" android:paddingTop="8.0dip" android:layout="@layout/oppo_resolver_osharing" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+</merge>

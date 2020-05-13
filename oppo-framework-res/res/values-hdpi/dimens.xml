@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="oppo_dialog_title_min_height">36.0dip</dimen>
+    <dimen name="oppo_optionmenubar_more_text_size">10.0dip</dimen>
+    <dimen name="oppo_dialog_max_height">434.0dip</dimen>
+    <dimen name="oppo_float_panel_arrow_top_offset">2.0dip</dimen>
+    <dimen name="oppo_float_panel_arrow_bottom_offset">2.0dip</dimen>
+    <dimen name="oppo_optionmenubar_height">65.0dip</dimen>
+    <dimen name="oppo_optionmenubar_major_operation_height">65.0dip</dimen>
+    <dimen name="oppo_optionmenubar_major_text_size">17.0dip</dimen>
+    <dimen name="oppo_dialog_width">320.0dip</dimen>
+    <dimen name="oppo_pager_title_height">34.0dip</dimen>
+    <dimen name="oppo_empty_bottle_padding_top">106.0dip</dimen>
+    <dimen name="oppo_pager_focus_line_width">78.0dip</dimen>
+    <dimen name="oppo_pager_horizontal_padding">10.0dip</dimen>
+    <dimen name="oppo_pager_text_width_three_count">78.0dip</dimen>
+    <dimen name="oppo_pager_text_width_two_count">100.0dip</dimen>
+    <dimen name="oppo_pager_title_text_size">12.0dip</dimen>
+</resources>

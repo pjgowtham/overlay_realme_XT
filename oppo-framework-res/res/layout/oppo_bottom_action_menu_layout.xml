@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.color.widget.ColorOptionMenuView android:gravity="center_vertical" android:id="@id/color_split_menu_view" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingStart="12.0dip" android:paddingEnd="12.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="color_week_day_long">
+        <item>ඉරිදා</item>
+        <item>සඳුදා</item>
+        <item>අඟහරුවාදා</item>
+        <item>බදාදා</item>
+        <item>බ්‍රහස්පතින්දා</item>
+        <item>සිකුරාදා</item>
+        <item>සෙනසුරාදා</item>
+    </string-array>
+    <string-array name="color_week_day_short">
+        <item>ඉරිදා</item>
+        <item>සඳුදා</item>
+        <item>අඟහරුවාදා</item>
+        <item>බදාදා</item>
+        <item>බ්‍රහස්පතින්දා</item>
+        <item>සිකුරාදා</item>
+        <item>සෙන</item>
+    </string-array>
+    <string-array name="oppo_permissions_prompt">
+        <item>අමතන්න, ඔබ ඉඩ දෙන්නෙහිද?</item>
+        <item>ඇමතුම් ලොග් සටහන් කියවන්න, ඔබ ඉඩ දෙන්නෙහිද?</item>
+        <item>සබඳතා කියවන්න, ඔබ ඉඩ දෙන්නෙහිද?</item>
+        <item>SMS ලොග් සටහන් කියවන්න, ඔබ ඉඩ දෙන්නෙහිද?</item>
+        <item>SMS යවන්න, ඔබ ඉඩ දෙන්නෙහිද?</item>
+        <item>MMS යවන්න, ඔබ ඉඩ දෙන්නෙහිද?</item>
+        <item>දත්ත සම්බන්ධතාව සජීවනය/අජීවනය කරන්න, ඔබ ඉඩ දෙන්නෙහිද?</item>
+        <item>Wi-Fi සජීවනය/අජීවනය කරන්න, ඔබ ඉඩ දෙන්නෙහිද?</item>
+        <item>Bluetooth සජීවනය/අජීවනය කරන්න, ඔබ ඉඩ දෙන්නෙහිද?</item>
+        <item>GPS භාවිත කරන්න (යෙදුමට ඔබගේ පිහිටුම් තොරතුරු වෙනත් ආකාරවලින් ද අත් කර ගත හැකිය), ඔබ ඉඩ දෙන්නෙහිද?</item>
+        <item>කැමරාව භාවිත කරන්න, ඔබ ඉඩ දෙන්නෙහිද?</item>
+        <item>වාර්තාව සහ වාර්තා ඇමතුම්, ඔබ ඉඩ දෙන්නෙහිද?</item>
+        <item>NFC සජීවනය/අජීවනය කරන්න, ඔබ ඉඩ දෙන්නෙහිද?</item>
+        <item>ඇමතුම් ලොග් සටහන් ලිවීම හෝ මකා දැමීම කරන්න, ඔබ ඉඩ දෙන්නෙහිද?</item>
+        <item>සබඳතා ලිවීම හෝ මකා දැමීම කරන්න, ඔබ ඉඩ දෙන්නෙහිද?</item>
+        <item>SMS ලොග් සටහන් ලිවීම සහ මකා දැමීම කරන්න, ඔබ ඉඩ දෙන්නෙහිද?</item>
+        <item>MMS ලොග් සටහන් ලිවීම හෝ මකා දැමීම කරන්න, ඔබ ඉඩ දෙන්නෙහිද?</item>
+        <item>MMS ලොග් සටහන් කියවන්න, ඔබ ඉඩ දෙන්නෙහිද?</item>
+    </string-array>
+    <string-array name="oppo_time_picker_ampm">
+        <item>පෙ.ව.</item>
+        <item>ප.ව.</item>
+    </string-array>
+    <string-array name="oppo_data_not_enough_array">
+        <item>පිරිසිදු කිරීම කරා යන්න</item>
+        <item>SD කාඩ්පත මාරු කරන්න</item>
+        <item>අවලංගු කරන්න</item>
+    </string-array>
+    <string-array name="oppo_data_full_array">
+        <item>දුරකථනය පිරිසිදු කිරීම</item>
+        <item>යෙදුම් අස්ථාපනය කරන්න</item>
+        <item>අවලංගු කරන්න</item>
+    </string-array>
+    <string-array name="color_solor_mounth">
+        <item>ජනවාරි</item>
+        <item>පෙබරවාරි</item>
+        <item>මාර්තු</item>
+        <item>අප්‍රේල්</item>
+        <item>මැයි</item>
+        <item>ජූනි</item>
+        <item>ජූලි</item>
+        <item>අගෝස්තු</item>
+        <item>සැපතැම්බර්</item>
+        <item>ඔක්තෝබර්</item>
+        <item>නොවැම්බර්</item>
+        <item>දෙසැම්බර්</item>
+    </string-array>
+    <string-array name="color_resolver_target_pin">
+        <item>ඉහළ පින් කරන්න</item>
+        <item>යෙදුම් විස්තර පෙන්වන්න</item>
+    </string-array>
+    <string-array name="color_resolver_target_unpin">
+        <item>පින් ඉවත් කරන්න</item>
+        <item>යෙදුම් විස්තර පෙන්වන්න</item>
+    </string-array>
+</resources>

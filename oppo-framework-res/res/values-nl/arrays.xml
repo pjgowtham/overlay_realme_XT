@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="color_week_day_long">
+        <item>Zon</item>
+        <item>Maa</item>
+        <item>Din</item>
+        <item>Woe</item>
+        <item>Don</item>
+        <item>Vri</item>
+        <item>Zat</item>
+    </string-array>
+    <string-array name="color_week_day_short">
+        <item>Zon</item>
+        <item>Maandag</item>
+        <item>Dinsdag</item>
+        <item>Woensdag</item>
+        <item>Donderdag</item>
+        <item>Vrijdag</item>
+        <item>Zat</item>
+    </string-array>
+    <string-array name="oppo_permissions_prompt">
+        <item>opbellen. Staat u dit toe?</item>
+        <item>oproeplogboeken lezen. Staat u dit toe?</item>
+        <item>contacten lezen. Staat u dit toe?</item>
+        <item>sms-logboeken lezen. Staat u dit toe?</item>
+        <item>sms verzenden. Staat u dit toe?</item>
+        <item>mms verzenden. Staat u dit toe?</item>
+        <item>dataverbinding in-/uitschakelen. Staat u dit toe?</item>
+        <item>Wi-Fi in-/uitschakelen. Staat u dit toe?</item>
+        <item>Bluetooth in-/uitschakelen. Staat u dit toe?</item>
+        <item>gps gebruiken (de app kan uw locatiegegevens via een andere weg achterhalen). Staat u dit toe?</item>
+        <item>camera gebruiken. Staat u dit toe?</item>
+        <item>opnamen maken en oproepen opnemen. Staat u dit toe?</item>
+        <item>NFC in-/uitschakelen. Staat u dit toe?</item>
+        <item>oproeplogboeken schrijven of verwijderen. Staat u dit toe?</item>
+        <item>contacten schrijven en verwijderen. Staat u dit toe?</item>
+        <item>sms-logboeken schrijven en verwijderen. Staat u dit toe?</item>
+        <item>mms-logboeken schrijven of verwijderen. Staat u dit toe?</item>
+        <item>mms-logboeken lezen. Staat u dit toe?</item>
+    </string-array>
+    <string-array name="oppo_time_picker_ampm">
+        <item>a.m.</item>
+        <item>p.m.</item>
+    </string-array>
+    <string-array name="oppo_data_not_enough_array">
+        <item>Overgaan tot opschonen</item>
+        <item>Overzetten naar SD-kaart</item>
+        <item>Annuleren</item>
+    </string-array>
+    <string-array name="oppo_data_full_array">
+        <item>Opschonen telefoon</item>
+        <item>Apps verwijderen</item>
+        <item>Annuleren</item>
+    </string-array>
+    <string-array name="color_solor_mounth">
+        <item>Januari</item>
+        <item>Februari</item>
+        <item>Maart</item>
+        <item>April</item>
+        <item>Mei</item>
+        <item>Juni</item>
+        <item>Juli</item>
+        <item>Augustus</item>
+        <item>September</item>
+        <item>Oktober</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+    <string-array name="color_resolver_target_pin">
+        <item>Bovenaan vastzetten</item>
+        <item>App-details weergeven</item>
+    </string-array>
+    <string-array name="color_resolver_target_unpin">
+        <item>Losmaken</item>
+        <item>App-details weergeven</item>
+    </string-array>
+</resources>

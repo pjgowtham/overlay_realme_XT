@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<carrier_config_list>
+    <carrier_config>
+        <string-array name="roaming_operator_string_array" num="1">
+            <item value="53001"/>
+        </string-array>
+        <string name="default_vm_number_string">+64222022002</string>
+    </carrier_config>
+
+    <!-- #ifdef VENDOR_EDIT -->
+    <!-- chenguoyao@PSW.NW.CALL.2039118, 2019/05/21, Add VM parameters for NewZealand Warehouse.-->
+    <carrier_config imsi="^5302410.*$">
+        <string name="default_vm_number_string">+64284808808</string>
+    </carrier_config>
+    <!-- #endif VENDOR_EDIT -->
+
+</carrier_config_list>

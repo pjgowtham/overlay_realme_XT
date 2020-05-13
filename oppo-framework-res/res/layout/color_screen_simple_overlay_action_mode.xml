@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:fitsSystemWindows="true" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:id="@android:id/content" android:layout_width="fill_parent" android:layout_height="fill_parent" android:foreground="?android:windowContentOverlay" android:foregroundGravity="fill_horizontal|center|top" />
+    <ViewStub android:theme="?android:actionBarTheme" android:id="@android:id/aerr_report" android:layout="@layout/oppo_action_mode_bar" android:inflatedId="@android:id/aerr_mute" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+</FrameLayout>

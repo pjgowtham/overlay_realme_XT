@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="color_week_day_long">
+        <item>रवि</item>
+        <item>सोम</item>
+        <item>मंगल</item>
+        <item>बुध</item>
+        <item>गुरू</item>
+        <item>शुक्र</item>
+        <item>शनि</item>
+    </string-array>
+    <string-array name="color_week_day_short">
+        <item>रवि</item>
+        <item>सोमवार</item>
+        <item>मंगलवार</item>
+        <item>बुधवार</item>
+        <item>गुरुवार</item>
+        <item>शुक्रवार</item>
+        <item>शनि</item>
+    </string-array>
+    <string-array name="oppo_permissions_prompt">
+        <item>कॉल करें, क्या आप अनुमति देते हैं?</item>
+        <item>कॉल लॉग पढ़ें, क्या आप अनुमति देते हैं?</item>
+        <item>संपर्क पढ़ें, क्या आप अनुमति देते हैं?</item>
+        <item>SMS लॉग पढ़ें, क्या आप अनुमति देते हैं?</item>
+        <item>SMS भेजें, क्या आप अनुमति देते हैं?</item>
+        <item>MMS भेजें, क्या आप अनुमति देते हैं?</item>
+        <item>डेटा कनेक्‍शन को चालू/बंद करें, क्या आप अनुमति देते हैं?</item>
+        <item>Wi-Fi को चालू/बंद करें, क्या आप अनुमति देते हैं?</item>
+        <item>ब्लूटूथ को चालू/बंद करें, क्या आप अनुमति देते हैं?</item>
+        <item>GPS का उपयोग करें(ऐप अन्य माध्यम से भी आपकी स्थान जानकारी प्राप्त कर सकता है), क्या आप अनुमति देते हैं?</item>
+        <item>कैमरे का उपयोग करने की, क्या आप अनुमति देते हैं?</item>
+        <item>रिकॉर्ड और रिकॉर्ड कॉल, क्या आप अनुमति देते हैं?</item>
+        <item>NFC को चालू/बंद करें, क्या आप अनुमति देते हैं?</item>
+        <item>कॉल लॉग लिखें या हटाएँ, क्या आप अनुमति देते हैं?</item>
+        <item>संपर्क लिखें या हटाएँ, क्या आप अनुमति देते हैं?</item>
+        <item>SMS लॉग लिखें या हटाएँ, क्या आप अनुमति देते हैं?</item>
+        <item>MMS लॉग लिखें या हटाएँ, क्या आप अनुमति देते हैं?</item>
+        <item>MMS लॉग पढ़ें, क्या आप अनुमति देते हैं?</item>
+    </string-array>
+    <string-array name="oppo_time_picker_ampm">
+        <item>AM</item>
+        <item>PM</item>
+    </string-array>
+    <string-array name="oppo_data_not_enough_array">
+        <item>साफ करने के लिए आगे बढ़ें</item>
+        <item>SD कार्ड में स्थानांतरित करें</item>
+        <item>रद्द करें</item>
+    </string-array>
+    <string-array name="oppo_data_full_array">
+        <item>फ़ोन क्लीनअप</item>
+        <item>ऐप विस्थापित करें</item>
+        <item>रद्द करें</item>
+    </string-array>
+    <string-array name="color_solor_mounth">
+        <item>जनवरी</item>
+        <item>फ़रवरी</item>
+        <item>मार्च</item>
+        <item>अप्रैल</item>
+        <item>मई</item>
+        <item>जून</item>
+        <item>जुलाई</item>
+        <item>अगस्त</item>
+        <item>सितंबर</item>
+        <item>अक्टूबर</item>
+        <item>नवंबर</item>
+        <item>दिसंबर</item>
+    </string-array>
+    <string-array name="color_resolver_target_pin">
+        <item>शीर्ष पर पिन करें</item>
+        <item>ऐप विवरण देखें</item>
+    </string-array>
+    <string-array name="color_resolver_target_unpin">
+        <item>अनपिन करें</item>
+        <item>ऐप विवरण देखें</item>
+    </string-array>
+</resources>

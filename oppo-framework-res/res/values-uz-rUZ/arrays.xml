@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="color_week_day_long">
+        <item>Yak</item>
+        <item>Dush</item>
+        <item>Sesh</item>
+        <item>Chor</item>
+        <item>Pay</item>
+        <item>Jum</item>
+        <item>Shan</item>
+    </string-array>
+    <string-array name="color_week_day_short">
+        <item>Yak</item>
+        <item>Dushanba</item>
+        <item>Seshanba</item>
+        <item>Chorshanba</item>
+        <item>Payshanba</item>
+        <item>Juma</item>
+        <item>Shan</item>
+    </string-array>
+    <string-array name="oppo_permissions_prompt">
+        <item>qo‘ng‘iroq qilish, ruxsat berasizmi?</item>
+        <item>qo‘ng‘iroqlar jurnalini ko‘rish, ruxsat berasizmi?</item>
+        <item>kontaktlar ro‘yxatini ko‘rish, ruxsat berasizmi?</item>
+        <item>SMS xabarlar jurnalini ko‘rish, ruxsat berasizmi?</item>
+        <item>SMS yuborish, ruxsat berasizmi?</item>
+        <item>MMS yuborish, ruxsat berasizmi?</item>
+        <item>mobil internetni o‘chirib yoqish, ruxsat berasizmi?</item>
+        <item>Wi-Fi aloqasini o‘chirib yoqish, ruxsat berasizmi?</item>
+        <item>Bluetooth aloqasini o‘chirib yoqish, ruxsat berasizmi?</item>
+        <item>GPSdan foydalanish (ilova joylashuvingiz haqidagi ma’lumotlarni boshqa usulda ham olishi mumkin), ruxsat berasizmi?</item>
+        <item>kameradan foydalanish, ruxsat berasizmi?</item>
+        <item>ovoz va qo‘ng‘iroqlarni yozib olish, ruxsat berasizmi?</item>
+        <item>NFC aloqasini o‘chirib yoqish, ruxsat berasizmi?</item>
+        <item>qo‘ng‘iroqlar jurnalini tahrirlash yoki o‘chirish, ruxsat berasizmi?</item>
+        <item>kontaktlarni tahrirlash yoki o‘chirish, ruxsat berasizmi?</item>
+        <item>SMS xabarlar jurnalini tahrirlash yoki o‘chirish, ruxsat berasizmi?</item>
+        <item>MMS xabarlar jurnalini tahrirlash yoki o‘chirish, ruxsat berasizmi?</item>
+        <item>MMS xabarlar jurnalini ko‘rish, ruxsat berasizmi?</item>
+    </string-array>
+    <string-array name="oppo_time_picker_ampm">
+        <item>TO</item>
+        <item>TK</item>
+    </string-array>
+    <string-array name="oppo_data_not_enough_array">
+        <item>Tozalashda davom etish</item>
+        <item>SD kartaga nusxalash</item>
+        <item>Bekor qilish</item>
+    </string-array>
+    <string-array name="oppo_data_full_array">
+        <item>Telefon xotirasini tozalash</item>
+        <item>Ilovalarni oʻchirish</item>
+        <item>Bekor qilish</item>
+    </string-array>
+    <string-array name="color_solor_mounth">
+        <item>Yanvar</item>
+        <item>Fevral</item>
+        <item>Mart</item>
+        <item>Aprel</item>
+        <item>May</item>
+        <item>Iyun</item>
+        <item>Iyul</item>
+        <item>Avgust</item>
+        <item>Sentabr</item>
+        <item>Oktabr</item>
+        <item>Noyabr</item>
+        <item>Dekabr</item>
+    </string-array>
+    <string-array name="color_resolver_target_pin">
+        <item>Tepaga mahkamlash</item>
+        <item>Ilova tafsilotlarini ko‘rish</item>
+    </string-array>
+    <string-array name="color_resolver_target_unpin">
+        <item>Yechish</item>
+        <item>Ilova tafsilotlarini ko‘rish</item>
+    </string-array>
+</resources>

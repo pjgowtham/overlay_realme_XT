@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="color_week_day_long">
+        <item>أحد</item>
+        <item>اثنين</item>
+        <item>ثلاثاء</item>
+        <item>أربعاء</item>
+        <item>خميس</item>
+        <item>جمعة</item>
+        <item>سبت</item>
+    </string-array>
+    <string-array name="color_week_day_short">
+        <item>الأحد</item>
+        <item>الاثنين</item>
+        <item>الثلاثاء</item>
+        <item>الأربعاء</item>
+        <item>الخميس</item>
+        <item>الجمعة</item>
+        <item>السبت</item>
+    </string-array>
+    <string-array name="oppo_permissions_prompt">
+        <item>اتصال، هل تسمح بذلك؟</item>
+        <item>قراءة سجلات المكالمات، هل تسمح بذلك؟</item>
+        <item>قراءة جهات الاتصال، هل تسمح بذلك؟</item>
+        <item>قراءة سجلات SMS، هل تسمح بذلك؟</item>
+        <item>إرسال رسالة SMS، هل تسمح بذلك؟</item>
+        <item>إرسال رسالة MMS، هل تسمح بذلك؟</item>
+        <item>تشغيل/إيقاف اتصال البيانات، هل تسمح بذلك؟</item>
+        <item>تشغيل/إيقاف Wi-Fi، هل تسمح بذلك؟</item>
+        <item>تشغيل/إيقاف بلوتوث، هل تسمح بذلك؟</item>
+        <item>استخدام GPS (يمكن للتطبيق أيضًا الحصول على معلومات موقعك بوسائل أخرى)، هل تسمح بذلك؟</item>
+        <item>استخدام الكاميرا، هل تسمح بذلك؟</item>
+        <item>التسجيل وتسجيل المكالمات، هل تسمح بذلك؟</item>
+        <item>تشغيل/إيقاف NFC، هل تسمح بذلك؟</item>
+        <item>كتابة سجلات المكالمات أو حذفها، هل تسمح بذلك؟</item>
+        <item>كتابة جهات الاتصال وحذفها، هل تسمح بذلك؟</item>
+        <item>كتابة سجلات SMS وحذفها، هل تسمح بذلك؟</item>
+        <item>كتابة سجلات MMS أو حذفها، هل تسمح بذلك؟</item>
+        <item>قراءة سجلات MMS، هل تسمح بذلك؟</item>
+    </string-array>
+    <string-array name="oppo_time_picker_ampm">
+        <item>ص</item>
+        <item>م</item>
+    </string-array>
+    <string-array name="oppo_data_not_enough_array">
+        <item>المتابعة إلى التنظيف</item>
+        <item>النقل إلى بطاقة SD</item>
+        <item>إلغاء</item>
+    </string-array>
+    <string-array name="oppo_data_full_array">
+        <item>تنظيف الهاتف</item>
+        <item>إزالة تثبيت التطبيقات</item>
+        <item>إلغاء</item>
+    </string-array>
+    <string-array name="color_solor_mounth">
+        <item>يناير</item>
+        <item>فبراير</item>
+        <item>مارس</item>
+        <item>إبريل</item>
+        <item>مايو</item>
+        <item>يونيو</item>
+        <item>يوليو</item>
+        <item>أغسطس</item>
+        <item>سبتمبر</item>
+        <item>أكتوبر</item>
+        <item>نوفمبر</item>
+        <item>ديسمبر</item>
+    </string-array>
+    <string-array name="color_resolver_target_pin">
+        <item>تثبيت في المقدمة</item>
+        <item>عرض تفاصيل التطبيق</item>
+    </string-array>
+    <string-array name="color_resolver_target_unpin">
+        <item>إلغاء التثبيت</item>
+        <item>عرض تفاصيل التطبيق</item>
+    </string-array>
+</resources>

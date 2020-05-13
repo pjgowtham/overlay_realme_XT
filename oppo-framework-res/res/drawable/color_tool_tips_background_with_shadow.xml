@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/color_tool_tips_background_shadow" />
+    <item android:drawable="@drawable/color_tool_tips_background" />
+</layer-list>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="color_week_day_long">
+        <item>Sonndeg</item>
+        <item>Méindeg</item>
+        <item>Dënschdeg</item>
+        <item>Mëttwoch</item>
+        <item>Donneschdeg</item>
+        <item>Freideg</item>
+        <item>Samschdeg</item>
+    </string-array>
+    <string-array name="color_week_day_short">
+        <item>So</item>
+        <item>Méi</item>
+        <item>Dë</item>
+        <item>Më</item>
+        <item>Do</item>
+        <item>Fr</item>
+        <item>Sa</item>
+    </string-array>
+    <string-array name="oppo_permissions_prompt">
+        <item>Uruff, erlaben?</item>
+        <item>Protokoller liesen, erlaben?</item>
+        <item>Kontakter liesen, erlaben?</item>
+        <item>SMS-Protokoller liesen, erlaben?</item>
+        <item>SMS schécken, erlaben?</item>
+        <item>MMS schécken, erlaben?</item>
+        <item>Dateverbindung aktivéieren/desaktivéieren, erlaben?</item>
+        <item>Wi-Fi aktivéieren/desaktivéieren, erlaben?</item>
+        <item>Bluetooth aktivéieren/desaktivéieren, erlaben?</item>
+        <item>"GPS benotzen (d'App kann Är Standuertinformatiounen och anescht ofruffen), erlaben?"</item>
+        <item>Kamera benotzen, erlaben?</item>
+        <item>opzeechnen an Uriff opzeechnen, erlaben?</item>
+        <item>NFC aktivéieren/desaktivéieren, erlaben?</item>
+        <item>Uruffprotokoller schreiwen oder läschen, erlaben?</item>
+        <item>Kontakter schreiwen an läschen, erlaben?</item>
+        <item>SMS-Protokoller schreiwen an läschen, erlaben?</item>
+        <item>MMS-Protokoller schreiwen oder läschen, erlaben?</item>
+        <item>MMS-Protokoller liesen, erlaben?</item>
+    </string-array>
+    <string-array name="oppo_time_picker_ampm">
+        <item>AM</item>
+        <item>PM</item>
+    </string-array>
+    <string-array name="oppo_data_not_enough_array">
+        <item>Berengegung ufänken</item>
+        <item>Op SD-Kaart transferéieren</item>
+        <item>Ofbriechen</item>
+    </string-array>
+    <string-array name="oppo_data_full_array">
+        <item>Telefon berengegen</item>
+        <item>App desinstalléieren</item>
+        <item>Ofbriechen</item>
+    </string-array>
+    <string-array name="color_resolver_target_pin">
+        <item>Uewen uspéngelen</item>
+        <item>App-Detailer uweisen</item>
+    </string-array>
+    <string-array name="color_resolver_target_unpin">
+        <item>Lassléisen</item>
+        <item>App-Detailer uweisen</item>
+    </string-array>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/storage_monitor" android:padding="@dimen/M10" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:oppo="http://schemas.android.com/apk/res-auto">
+    <com.android.server.storage.ColorDataMonitorView android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    <ScrollView android:scrollbars="vertical" android:fadingEdge="vertical" android:layout_width="fill_parent" android:layout_height="120.0dip">
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:textSize="@dimen/TD05" android:textColor="?C20" android:id="@id/oppo_data_low_message_5_id" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="24.0dip" android:text="@string/oppo_data_low_message_5" />
+            <TextView android:textSize="@dimen/TD07" android:textColor="?C20" android:id="@id/oppo_data_low_full_message_4_id" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:text="@string/oppo_data_low_full_message_4" />
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="color_week_day_long">
+        <item>ಆದಿತ್ಯವಾರ</item>
+        <item>ಸೋಮವಾರ</item>
+        <item>ಮಂಗಳವಾರ</item>
+        <item>ಬುಧವಾರ</item>
+        <item>ಗುರುವಾರ</item>
+        <item>ಶುಕ್ರವಾರ</item>
+        <item>ಶನಿವಾರ</item>
+    </string-array>
+    <string-array name="color_week_day_short">
+        <item>ಆದಿತ್ಯ</item>
+        <item>ಸೋಮವಾರ</item>
+        <item>ಮಂಗಳ</item>
+        <item>ಬುಧವಾರ</item>
+        <item>ಗುರು</item>
+        <item>ಶುಕ್ರವಾರ</item>
+        <item>ಶನಿವಾರ</item>
+    </string-array>
+    <string-array name="oppo_permissions_prompt">
+        <item>ಕರೆ ಮಾಡುವುದು, ನೀವು ಅನುಮತಿಸುತ್ತೀರಾ?</item>
+        <item>ಕರೆ ಲಾಗ್‍ಗಳನ್ನು ಓದುವುದು, ನೀವು ಅನುಮತಿಸುತ್ತೀರಾ?</item>
+        <item>ಕಾಂಟ್ಯಾಕ್ಟ್ ಗಳನ್ನು ಓದುವುದು, ನೀವು ಅನುಮತಿಸುತ್ತೀರಾ?</item>
+        <item>SMS ಲಾಗ್‍ಗಳನ್ನು ಓದುವುದು, ನೀವು ಅನುಮತಿಸುತ್ತೀರಾ?</item>
+        <item>SMS ಕಳುಹಿಸುವುದು, ನೀವು ಅನುಮತಿಸುತ್ತೀರಾ?</item>
+        <item>MMS ಕಳುಹಿಸುವುದು, ನೀವು ಅನುಮತಿಸುತ್ತೀರಾ?</item>
+        <item>ಡೇಟಾ ಸಂಪರ್ಕ ಆನ್/ಆಫ್ ಮಾಡುವುದು, ನೀವು ಅನುಮತಿಸುತ್ತೀರಾ?</item>
+        <item>Wi-Fi ಆನ್/ಆಫ್ ಮಾಡುವುದು, ನೀವು ಅನುಮತಿಸುತ್ತೀರಾ?</item>
+        <item>ಬ್ಲೂಟೂತ್ ಆನ್/ಆಫ್ ಮಾಡುವುದು, ನೀವು ಅನುಮತಿಸುತ್ತೀರಾ?</item>
+        <item>ಜಿಪಿಎಸ್ (ಇತರ ವಿಧಾನಗಳ ಮೂಲಕ ಈ ಅಪ್ಲಿಕೇಶನ್ ನಿಮ್ಮ ಸ್ಥಳ ಮಾಹಿತಿಯನ್ನು ಸಹ ಪಡೆಯುತ್ತದೆ) ಬಳಸುವುದು, ನೀವು ಅನುಮತಿಸುತ್ತೀರಾ?</item>
+        <item>ಕ್ಯಾಮರಾ ಬಳಸುವುದು, ನೀವು ಅನುಮತಿಸುತ್ತೀರಾ?</item>
+        <item>ರೆಕಾರ್ಡ್ ಮಾಡುವುದು ಮತ್ತು ಕರೆಗಳನ್ನು ರೆಕಾರ್ಡ್ ಮಾಡುವುದು, ನೀವು ಅನುಮತಿಸುತ್ತೀರಾ?</item>
+        <item>ಎನ್ ಎಫ್ ಸಿ ಆನ್/ಆಫ್ ಮಾಡುವುದು, ನೀವು ಅನುಮತಿಸುತ್ತೀರಾ?</item>
+        <item>ಕರೆ ಲಾಗ್‍ಗಳನ್ನು ಬರೆಯುವುದು ಅಥವಾ ಅಳಿಸುವುದು, ನೀವು ಅನುಮತಿಸುತ್ತೀರಾ?</item>
+        <item>ಕಾಂಟ್ಯಾಕ್ಟ್ ಗಳನ್ನು ಬರೆಯುವುದು ಮತ್ತು ಅಳಿಸುವುದು, ನೀವು ಅನುಮತಿಸುತ್ತೀರಾ?</item>
+        <item>SMS ಲಾಗ್‍ಗಳನ್ನು ಬರೆಯುವುದು ಅಥವಾ ಅಳಿಸುವುದು, ನೀವು ಅನುಮತಿಸುತ್ತೀರಾ?</item>
+        <item>MMS ಲಾಗ್‍ಗಳನ್ನು ಬರೆಯುವುದು ಅಥವಾ ಅಳಿಸುವುದು, ನೀವು ಅನುಮತಿಸುತ್ತೀರಾ?</item>
+        <item>MMS ಲಾಗ್‍ಗಳನ್ನು ಓದುವುದು, ನೀವು ಅನುಮತಿಸುತ್ತೀರಾ?</item>
+    </string-array>
+    <string-array name="oppo_time_picker_ampm">
+        <item>AM</item>
+        <item>PM</item>
+    </string-array>
+    <string-array name="oppo_data_not_enough_array">
+        <item>ಸ್ವಚ್ಛಗೊಳಿಸಲು ಮುಂದುವರೆಯಿರಿ</item>
+        <item>SD ಕಾರ್ಡಿಗೆ ವರ್ಗಾಯಿಸಿ</item>
+        <item>ರದ್ದು</item>
+    </string-array>
+    <string-array name="oppo_data_full_array">
+        <item>ಫೋನ್ ಸ್ವಚ್ಛಗೊಳಿಸಿ</item>
+        <item>ಆ್ಯಪ್ ಅನ್‍ಇನ್‌ಸ್ಟಾಲ್ ಮಾಡಿ</item>
+        <item>ರದ್ದು</item>
+    </string-array>
+    <string-array name="color_solor_mounth">
+        <item>ಜನವರಿ</item>
+        <item>ಫೆಬ್ರವರಿ</item>
+        <item>ಮಾರ್ಚ್</item>
+        <item>ಏಪ್ರಿಲ್</item>
+        <item>ಮೇ</item>
+        <item>ಜೂನ್</item>
+        <item>ಜುಲೈ</item>
+        <item>ಆಗಸ್ಟ್</item>
+        <item>ಸೆಪ್ಟೆಂಬರ್</item>
+        <item>ಅಕ್ಟೋಬರ್</item>
+        <item>ನವೆಂಬರ್</item>
+        <item>ಡಿಸೆಂಬರ್</item>
+    </string-array>
+    <string-array name="color_resolver_target_pin">
+        <item>ಪಿನ್ ಆನ್ ಟಾಪ್</item>
+        <item>ಅಪ್ಲಿಕೇಶನ್‌ ವಿವರಗಳನ್ನು ವೀಕ್ಷಿಸಿ</item>
+    </string-array>
+    <string-array name="color_resolver_target_unpin">
+        <item>ಅನ್ ಪಿನ್</item>
+        <item>ಅಪ್ಲಿಕೇಶನ್‌ ವಿವರಗಳನ್ನು ವೀಕ್ಷಿಸಿ</item>
+    </string-array>
+</resources>

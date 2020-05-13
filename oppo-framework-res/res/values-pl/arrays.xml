@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="color_week_day_long">
+        <item>nie</item>
+        <item>pon</item>
+        <item>wto</item>
+        <item>śr</item>
+        <item>czw</item>
+        <item>pt</item>
+        <item>sob</item>
+    </string-array>
+    <string-array name="color_week_day_short">
+        <item>Niedziela</item>
+        <item>Poniedziałek</item>
+        <item>Wtorek</item>
+        <item>Środa</item>
+        <item>Czwartek</item>
+        <item>Piątek</item>
+        <item>Sobota</item>
+    </string-array>
+    <string-array name="oppo_permissions_prompt">
+        <item>połączenia, zezwalasz?</item>
+        <item>odczyt rejestrów połączeń, zezwalasz?</item>
+        <item>odczyt kontaktów, zezwalasz?</item>
+        <item>odczyt rejestrów wiadomości SMS, zezwalasz?</item>
+        <item>wysyłanie wiadomości SMS, zezwalasz?</item>
+        <item>wysyłanie wiadomości MMS, zezwalasz?</item>
+        <item>włączanie/wyłączanie połączenia danych, zezwalasz?</item>
+        <item>włączanie/wyłączanie połączenia Wi-Fi, zezwalasz?</item>
+        <item>włączanie/wyłączanie połączenia Bluetooth, zezwalasz?</item>
+        <item>użycie danych GPS (aplikacja może uzyskać informacje o lokalizacji także w inny sposób), zezwalasz?</item>
+        <item>użycie kamery, zezwalasz?</item>
+        <item>dostęp do rejestru i nagrywanie połączeń, zezwalasz?</item>
+        <item>włączanie/wyłączanie połączenia NFC, zezwalasz?</item>
+        <item>zapis lub usuwanie rejestrów połączeń, zezwalasz?</item>
+        <item>zapis i usuwanie kontaktów, zezwalasz?</item>
+        <item>zapis i usuwanie rejestrów wiadomości SMS, zezwalasz?</item>
+        <item>zapis lub usuwanie rejestrów wiadomości MMS, zezwalasz?</item>
+        <item>odczyt rejestrów wiadomości MMS, zezwalasz?</item>
+    </string-array>
+    <string-array name="oppo_time_picker_ampm">
+        <item>AM</item>
+        <item>PM</item>
+    </string-array>
+    <string-array name="oppo_data_not_enough_array">
+        <item>Przejdź do czyszczenia</item>
+        <item>Dokonaj transferu na kartę SD</item>
+        <item>Anuluj</item>
+    </string-array>
+    <string-array name="oppo_data_full_array">
+        <item>Czyszczenie telefonu</item>
+        <item>Odinstaluj aplikacje</item>
+        <item>Anuluj</item>
+    </string-array>
+    <string-array name="color_solor_mounth">
+        <item>Styczeń</item>
+        <item>Luty</item>
+        <item>Marzec</item>
+        <item>Kwiecień</item>
+        <item>Maj</item>
+        <item>Czerwiec</item>
+        <item>Lipiec</item>
+        <item>Sierpień</item>
+        <item>Wrzesień</item>
+        <item>Październik</item>
+        <item>Listopad</item>
+        <item>Grudzień</item>
+    </string-array>
+    <string-array name="color_resolver_target_pin">
+        <item>Przypnij na górze</item>
+        <item>Pokaż szczegóły aplikacji</item>
+    </string-array>
+    <string-array name="color_resolver_target_unpin">
+        <item>Odepnij</item>
+        <item>Pokaż szczegóły aplikacji</item>
+    </string-array>
+</resources>

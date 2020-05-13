@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<carrier_config_list>
+<carrier_config>
+<boolean name="supportHttpCharsetHeader" value="false" />
+<int name="maxImageHeight" value="1944" />
+<int name="maxMessageSize" value="614400" />
+<int name="maxImageWidth" value="2592" />
+<!--#ifdef VENDOR_EDIT-->
+<!--Jianwei.Wang@PSW.NW.CALL.1844182,2019/02/27-->
+<string name="default_vm_number_string">+33660660001</string>
+<!--#endif VENDOR_EDIT-->
+<!--#ifdef VENDOR_EDIT-->
+<!--Wensen.Luo@PSW.NW.SIM.2183627,2019/07/25-->
+<int name="vvm_port_number_int" value="5499" />
+<string name="vvm_destination_number_string">22344</string>
+<string name="vvm_type_string">vvm_type_omtp</string>
+<string name="carrier_vvm_package_name_string">fr.bouyguestelecom.vvmandroid</string>
+<!--#endif VENDOR_EDIT-->
+</carrier_config>
+</carrier_config_list>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="24.0dip" android:width="24.0dip" android:viewportWidth="72.0" android:viewportHeight="72.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:name="ring_default_group" android:scaleX="1.0" android:scaleY="1.0" android:translateX="36.0" android:translateY="36.0">
+        <path android:name="ring_default_path" android:pathData=" M0 -19 C10.49,-19 19,-10.49 19,0 C19,10.49 10.49,19 0,19 C-10.49,19 -19,10.49 -19,0 C-19,-10.49 -10.49,-19 0,-19c " android:strokeColor="#4d999999" android:strokeWidth="4.0" android:strokeLineCap="round" android:strokeLineJoin="round" />
+    </group>
+</vector>

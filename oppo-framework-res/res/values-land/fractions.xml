@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <fraction name="color_unlock_password_numeric_delete_keyWidth">17.499996%p</fraction>
+    <fraction name="color_unlock_password_numeric_left_horizontalGap">0.46880245%p</fraction>
+    <fraction name="color_unlock_password_numeric_middle_horizontalGap">0.31249523%p</fraction>
+    <fraction name="color_unlock_password_numeric_middle_keyWidth">20.937502%p</fraction>
+    <fraction name="color_unlock_password_numeric_special_horizontalGap">18.281305%p</fraction>
+</resources>

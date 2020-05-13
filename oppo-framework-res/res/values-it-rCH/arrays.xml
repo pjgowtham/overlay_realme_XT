@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="color_week_day_long">
+        <item>Dom</item>
+        <item>Lun</item>
+        <item>Mar</item>
+        <item>Mer</item>
+        <item>Gio</item>
+        <item>Ven</item>
+        <item>Sab</item>
+    </string-array>
+    <string-array name="color_week_day_short">
+        <item>Sole</item>
+        <item>Lunedì</item>
+        <item>Martedì</item>
+        <item>Mercoledì</item>
+        <item>Giovedì</item>
+        <item>Venerdì</item>
+        <item>Sabato</item>
+    </string-array>
+    <string-array name="oppo_permissions_prompt">
+        <item>chiamata, consenti?</item>
+        <item>lettura registri chiamate, consenti?</item>
+        <item>lettura contatti, consenti?</item>
+        <item>lettura registri SMS, consenti?</item>
+        <item>invio SMS, consenti?</item>
+        <item>invio MMS, consenti?</item>
+        <item>attivazione/disattivazione connessione dati, consenti?</item>
+        <item>attivazione/disattivazione Wi-Fi, consenti?</item>
+        <item>attivazione/disattivazione bluetooth, consenti?</item>
+        <item>utilizza GPS (la app può ottenere anche le informazioni della tua posizione con altri mezzi), consenti?</item>
+        <item>utilizzo fotocamera, consenti?</item>
+        <item>registra e registra chiamate, consenti?</item>
+        <item>attivazione/disattivazione NFC, consenti?</item>
+        <item>scrittura o eliminazione registri chiamate, consenti?</item>
+        <item>scrittura e eliminazione contatti, consenti?</item>
+        <item>scrittura e eliminazione registri SMS, consenti?</item>
+        <item>scrittura o eliminazione registri MMS, consenti?</item>
+        <item>lettura registri MMS, consenti?</item>
+    </string-array>
+    <string-array name="oppo_time_picker_ampm">
+        <item>AM</item>
+        <item>PM</item>
+    </string-array>
+    <string-array name="oppo_data_not_enough_array">
+        <item>Procedi alla pulizia</item>
+        <item>Trasferisci alla scheda SD</item>
+        <item>Annulla</item>
+    </string-array>
+    <string-array name="oppo_data_full_array">
+        <item>Pulizia memoria del telefono</item>
+        <item>Disinstalla app</item>
+        <item>Annulla</item>
+    </string-array>
+    <string-array name="color_solor_mounth">
+        <item>Gennaio</item>
+        <item>Febbraio</item>
+        <item>Marzo</item>
+        <item>Aprile</item>
+        <item>Maggio</item>
+        <item>Giugno</item>
+        <item>Luglio</item>
+        <item>Agosto</item>
+        <item>Settembre</item>
+        <item>Ottobre</item>
+        <item>Novembre</item>
+        <item>Dicembre</item>
+    </string-array>
+    <string-array name="color_resolver_target_pin">
+        <item>Aggiungi Sopra</item>
+        <item>Visualizza dettagli app</item>
+    </string-array>
+    <string-array name="color_resolver_target_unpin">
+        <item>Sblocca</item>
+        <item>Visualizza dettagli app</item>
+    </string-array>
+</resources>

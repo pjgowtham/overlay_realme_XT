@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<filter-conf>
+    <version>20171126</version>
+    <isOpen>1</isOpen>
+    <filter-name>safe_default_app_list</filter-name>
+    <default type="desktop" />
+    <default type="message">
+        <black>com.oppo.pcassistant</black>
+        <black>com.qihoo360.mobilesafe</black>
+    </default>
+    <default type="dialer" />
+    <default type="contacts" />
+    <default type="browser">
+        <black>com.taobao.taobao</black>
+        <black>com.coloros.lives</black>
+        <resolve>com.android.browser/.BrowserActivity</resolve>
+        <resolve>com.UCMobile/com.uc.browser.InnerUCMobile</resolve>
+    </default>
+    <default type="camera" />
+    <default type="gallery">
+        <black>cn.wps.moffice_eng</black>
+        <black>com.yixia.videoeditor</black>
+    </default>
+    <default type="music" />
+    <default type="email" />
+    <default type="video">
+        <black>com.qiyi.video</black>
+        <resolve>com.UCMobile/com.UCMobile.video</resolve>
+        <resolve>com.coloros.video/com.oppo.video.mycenter.MoviePlayerActivity</resolve>
+    </default>
+    <default type="txt">
+        <resolve>cn.wps.moffice_eng/cn.wps.moffice.documentmanager.PreStartActivity2</resolve>
+        <choose>com.tencent.mm/com.tencent.mm.ui.tools.AddFavoriteUI</choose>
+        <choose>com.taobao.taobao/com.taobao.search.mmd.SearchResultActivity</choose>
+    </default>
+    <default type="pdf" />
+    <default type="doc" />
+    <default type="xls" />
+    <default type="ppt" />
+</filter-conf>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<carrier_config>
+    <!--#ifdef VENDOR_EDIT-->
+    <!--Chunping.Chen@PSW.NW.CALL.2357480,2019/09/27 Add VM parameters for Lowi-->
+    <string name="default_vm_number_string">2211</string>
+    <!--#endif VENDOR_EDIT-->
+</carrier_config>

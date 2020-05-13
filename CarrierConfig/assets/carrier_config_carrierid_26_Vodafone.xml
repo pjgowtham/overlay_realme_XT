@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<carrier_config>
+    <boolean name="carrier_supports_ss_over_ut_bool" value="true"/>
+    <boolean name="show_4g_for_lte_data_icon_bool" value="true"/>
+    <boolean name="csp_enabled_bool" value="true"/>
+    <boolean name="carrier_volte_available_bool" value="true"/>
+<!-- ifdef VENDOR_EDIT -->
+<!-- Lei.Zheng@PSW.NW.CALL.1419495, 2018/07/05 -->
+<!-- Add default voicemail for vodafone ES -->
+    <string name="default_vm_number_string">22177</string>
+<!-- endif VENDOR_EDIT -->
+    <int name="volte_replacement_rat_int" value="3"/>
+</carrier_config>

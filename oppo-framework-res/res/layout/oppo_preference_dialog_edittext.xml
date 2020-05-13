@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="48.0dip" android:layout_marginBottom="48.0dip" android:overScrollMode="ifContentScrolls"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:layout_gravity="center_horizontal" android:orientation="vertical" android:id="@android:id/flagNoExtractUi" android:paddingTop="@dimen/color_alert_dialog_content_panel_padding_top" android:paddingBottom="@dimen/color_alert_dialog_editext_padding_bottom" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/color_preference_dialog_container_margin_start" android:layout_marginRight="@dimen/color_preference_dialog_container_margin_end">
+        <TextView android:id="@android:id/message" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/color_preference_dialog_edt_margin_bottom" style="?textAppearanceDialogLarge" />
+    </LinearLayout>
+</ScrollView>

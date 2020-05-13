@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.widget.ColorCheckedLinearLayout android:gravity="center_vertical" android:orientation="vertical" android:background="@drawable/color_group_list_selector_item" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="@dimen/color_preference_min_height"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <CheckedTextView android:ellipsize="marquee" android:gravity="center_vertical" android:id="@id/checkedtextview" android:paddingTop="12.0dip" android:paddingBottom="@dimen/color_preference_listview_item_padding_bottom" android:layout_width="fill_parent" android:layout_height="wrap_content" android:checkMark="?android:listChoiceIndicatorSingle" android:paddingStart="@dimen/color_preference_titel_padding_start" android:paddingEnd="@dimen/color_preference_listview_check_textview_margin_end" style="@style/PreferenceTitle" />
+    <ImageView android:gravity="bottom" android:id="@id/coloritemdiver" android:background="@drawable/color_divider_preference_default" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="0.0dip" />
+</android.widget.ColorCheckedLinearLayout>

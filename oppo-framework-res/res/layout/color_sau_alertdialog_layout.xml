@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="fill_parent" android:layout_height="fill_parent" android:overScrollMode="ifContentScrolls"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/color_update_alert_dialog_padding_left" android:layout_marginTop="@dimen/M2" android:layout_marginRight="@dimen/color_update_alert_dialog_padding_left" android:layout_marginBottom="@dimen/M4">
+        <TextView android:textSize="@dimen/TD07" android:textColor="?C20" android:id="@id/color_sau_dialog_network_prompt" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+        <TextView android:textSize="@dimen/TD07" android:textColor="?C20" android:id="@id/color_sau_dialog_vername" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/M11" android:text="@string/color_sau_dialog_vername" />
+        <TextView android:textSize="@dimen/TD07" android:textColor="?C20" android:id="@id/color_sau_dialog_size" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/M11" android:text="@string/color_sau_dialog_size" />
+        <TextView android:textSize="@dimen/TD07" android:textColor="?C20" android:id="@id/color_sau_dialog_descrpition_head" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/M11" android:text="@string/color_sau_dialog_description_head" />
+        <TextView android:textSize="@dimen/TD07" android:textColor="?C20" android:id="@id/color_sau_dialog_descrpition" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/M2" android:lineSpacingExtra="6.0dip" android:lineSpacingMultiplier="1.0" />
+    </LinearLayout>
+</ScrollView>

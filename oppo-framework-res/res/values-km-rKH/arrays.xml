@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="color_week_day_long">
+        <item>អាទិត្យ</item>
+        <item>ច័ន្ធ</item>
+        <item>អង្គារ</item>
+        <item>ពុធ</item>
+        <item>ព្រហស្បតិ៍</item>
+        <item>សុក្រ</item>
+        <item>សៅរ៍</item>
+    </string-array>
+    <string-array name="color_week_day_short">
+        <item>អាទិត្យ</item>
+        <item>ច័ន្ទ</item>
+        <item>អង្គារ</item>
+        <item>ពុធ</item>
+        <item>ព្រហស្បតិ៍</item>
+        <item>សុក្រ</item>
+        <item>សៅរ៍</item>
+    </string-array>
+    <string-array name="oppo_permissions_prompt">
+        <item>ហៅទូរស័ព្ទ តើអ្នកអនុញ្ញាតទេ?</item>
+        <item>អានកំណត់ហេតុនៃការហៅទូរស័ព្ទ តើអ្នកអនុញ្ញាតដែរឬទេ?</item>
+        <item>អានឈ្មោះទំនាក់ទំនង តើអ្នកអនុញ្ញាតដែរឬទេ?</item>
+        <item>អានកំណត់ហេតុ SMS តើអ្នកអនុញ្ញាតដែរឬទេ?</item>
+        <item>ផ្ញើ SMS តើអ្នកអនុញ្ញាតដែរឬទេ?</item>
+        <item>ផ្ញើ MMS តើអ្នកអនុញ្ញាតដែរឬទេ?</item>
+        <item>បិទ/បិទការភ្ចាប់ទិន្នន័យ​ តើអ្នកអនុញ្ញាតដែរឬទេ?</item>
+        <item>បើក /បិទ Wi-Fi តើអ្នកអនុញ្ញាតដែរឬទេ?</item>
+        <item>បើក/បិទប្ល៊ូធូស តើអ្នកអនុញ្ញាតដែរឬទេ?</item>
+        <item>ប្រើ GPS (កម្មវិធី​ក៏អាច​ទទួលយក​ព័ត៌មានទីតាំងរបស់អ្នកតាម​មធ្យោបាយ​ផ្សេងទៀតផងដែរ) តើអ្នកអនុញ្ញាតដែរឬទេ?</item>
+        <item>ប្រើកាមេរ៉ា តើអ្នកអនុញ្ញាតដែរឬទេ?</item>
+        <item>ថតសំឡេង និតថតសំឡេង​ការហៅទូរស័ព្ទ តើអ្នកអនុញ្ញាតដែរឬទេ?</item>
+        <item>បើក/បិទ​ NFC តើអ្នកអនុញ្ញាតដែរឬទេ?</item>
+        <item>សរសេរ ឬលុបកំណត់ហេតុនៃការហៅទូរស័ព្ទ តើអ្នកអនុញ្ញាតដែរឬទេ?</item>
+        <item>សរសេរ និងលុបឈ្មោះទំនាក់ទំនង តើអ្នកអនុញ្ញាតដែរឬទេ?</item>
+        <item>សរសេរ និងលុបកំណត់ហេតុ SMS តើអ្នកអនុញ្ញាតដែរឬទេ?</item>
+        <item>សរសេរ ឬលុបកំណត់ហេតុ MMS តើអ្នកអនុញ្ញាតដែរឬទេ ?</item>
+        <item>អានកំណត់ហេតុ MMS តើអ្នកអនុញ្ញាតដែរឬទេ?</item>
+    </string-array>
+    <string-array name="oppo_time_picker_ampm">
+        <item>ព្រឹក</item>
+        <item>រសៀល</item>
+    </string-array>
+    <string-array name="oppo_data_not_enough_array">
+        <item>បន្តដើម្បីសម្អាត</item>
+        <item>ផ្ទេរទៅក្នុង SD កាត</item>
+        <item>បោះបង់</item>
+    </string-array>
+    <string-array name="oppo_data_full_array">
+        <item>ការសម្អាតទូរស័ព្ទ</item>
+        <item>លុបកម្មវិធី</item>
+        <item>បោះបង់</item>
+    </string-array>
+    <string-array name="color_solor_mounth">
+        <item>ខែមករា</item>
+        <item>ខែកុម្ភៈ</item>
+        <item>ខែមិនា</item>
+        <item>ខែមេសា</item>
+        <item>ខែឧសភា</item>
+        <item>ខែមិថុនា</item>
+        <item>ខែកក្កដា</item>
+        <item>ខែសីហា</item>
+        <item>ខែកញ្ញា</item>
+        <item>ខែតុលា</item>
+        <item>ខែវិច្ឆិកា</item>
+        <item>ខែធ្នូ</item>
+    </string-array>
+    <string-array name="color_resolver_target_pin">
+        <item>ខ្ទាស់លើកំពូល</item>
+        <item>មើលព័ត៌មានលម្អិតអំពីកម្មវិធី</item>
+    </string-array>
+    <string-array name="color_resolver_target_unpin">
+        <item>ដកខ្ទាស់</item>
+        <item>មើលព័ត៌មានលម្អិតអំពីកម្មវិធី</item>
+    </string-array>
+</resources>

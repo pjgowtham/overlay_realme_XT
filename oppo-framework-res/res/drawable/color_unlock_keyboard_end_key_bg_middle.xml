@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true">
+        <nine-patch android:src="@drawable/color_unlock_keyboard_end_key_normal_middle" android:alpha="0.4" />
+    </item>
+    <item android:drawable="@drawable/color_unlock_keyboard_end_key_normal_middle" />
+</selector>

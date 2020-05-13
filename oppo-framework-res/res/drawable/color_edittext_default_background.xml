@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_focused="true" android:state_enabled="true">
+        <nine-patch android:src="@drawable/color_edittext_default_background_normal" android:tint="?colorTintControlNormal" />
+    </item>
+    <item android:state_enabled="true" android:state_pressed="true">
+        <nine-patch android:src="@drawable/color_edittext_default_background_normal" android:tint="?colorTintControlNormal" />
+    </item>
+    <item>
+        <nine-patch android:src="@drawable/color_edittext_default_background_normal" android:alpha="0.1" />
+    </item>
+</selector>

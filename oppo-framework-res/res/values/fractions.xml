@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <fraction name="color_lock_pattern_view_line_end_width">0.37037134%p</fraction>
+    <fraction name="color_unlock_keyboard_change_keyWidth">14.629698%p</fraction>
+    <fraction name="color_unlock_keyboard_symbol_keyWidth">29.722202%p</fraction>
+    <fraction name="color_unlock_password_numeric_delete_keyWidth">15.555596%p</fraction>
+    <fraction name="color_unlock_password_numeric_left_horizontalGap">0.83340406%p</fraction>
+    <fraction name="color_unlock_password_numeric_middle_horizontalGap">0.55559874%p</fraction>
+    <fraction name="color_unlock_password_numeric_middle_keyWidth">21.666706%p</fraction>
+    <fraction name="color_unlock_password_numeric_special_horizontalGap">16.944504%p</fraction>
+    <fraction name="oppo_dialog_min_width_major">52.999996%</fraction>
+    <fraction name="oppo_passwork_kbd_numeric_horizontalGap">0.09249449%p</fraction>
+    <fraction name="oppo_passwork_kbd_numeric_left_keywidth">33.148098%p</fraction>
+    <fraction name="oppo_passwork_kbd_numeric_middle_keywidth">33.518505%p</fraction>
+    <fraction name="oppo_passwork_kbd_numeric_right_keywidth">33.148098%p</fraction>
+    <fraction name="oppo_passwork_kbd_numeric_verticalGap">0.05208254%p</fraction>
+    <fraction name="oppo_unlock_kbd_qwerty_space_keyWidth">38.6112%p</fraction>
+    <fraction name="oppo_unlock_kbd_qwerty_top_keyWidth">9.537005%p</fraction>
+    <fraction name="oppo_unlock_keyboard_qwerty_left_bottom_horizontalGap">0.64810514%p</fraction>
+    <fraction name="oppo_unlock_keyboard_qwerty_left_horizontalGap">0.64810514%p</fraction>
+    <fraction name="oppo_unlock_keyboard_qwerty_left_special_horizontalGap">0.64810514%p</fraction>
+    <fraction name="oppo_unlock_keyboard_qwerty_middle_horizontalGap">0.37039518%p</fraction>
+    <fraction name="oppo_unlock_keyboard_qwerty_middle_special_horizontalGap">1.1111021%p</fraction>
+    <fraction name="oppo_unlock_keyboard_qwerty_symbol_special_width">13.425899%p</fraction>
+    <fraction name="oppo_unlock_qwerty_middle_row_left_horizontalGap">6.0184956%p</fraction>
+    <fraction name="oppo_unlock_sym_keybord_shift_keyWidth">13.796306%p</fraction>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:oppo="http://schemas.android.com/apk/res-auto">
+    <RelativeLayout android:layout_width="fill_parent" android:layout_height="@dimen/color_navigation_item_height">
+        <ImageView android:id="@id/navi_item_icon" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/color_navigation_icon_margin_top" android:adjustViewBounds="true" android:maxWidth="@dimen/color_navigation_icon_size" android:maxHeight="@dimen/color_navigation_icon_size" android:layout_centerHorizontal="true" />
+        <TextView android:ellipsize="end" android:gravity="center" android:id="@id/navi_item_text" android:paddingLeft="@dimen/color_navigation_icon_margin_top" android:paddingRight="@dimen/color_navigation_icon_margin_top" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="1" android:layout_below="@id/navi_item_icon" android:layout_centerHorizontal="true" android:fontFamily="sans-serif-medium" android:textDirection="locale" />
+        <com.color.widget.ColorHintRedDot android:id="@id/navi_item_tips" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/color_navigation_icon_margin_top" colorHintRedDotColor="@color/color_hint_red_dot_bg_color" colorHintRedDotTextColor="@color/color_hint_red_dot_text_color" colorHintTextSize="@dimen/color_navigation_tip_text_size" />
+    </RelativeLayout>
+</LinearLayout>

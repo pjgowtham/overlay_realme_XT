@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="color_week_day_long">
+        <item>રવિ</item>
+        <item>સોમ</item>
+        <item>મંગળ</item>
+        <item>બુધ</item>
+        <item>ગુરુ</item>
+        <item>શુક્ર</item>
+        <item>શનિ</item>
+    </string-array>
+    <string-array name="color_week_day_short">
+        <item>રવી</item>
+        <item>સોમવાર</item>
+        <item>મંગળવાર</item>
+        <item>બુધવાર</item>
+        <item>ગુરુવાર</item>
+        <item>શુક્રવાર</item>
+        <item>શની</item>
+    </string-array>
+    <string-array name="oppo_permissions_prompt">
+        <item>કૉલ, શું તમે મંજૂરી આપશો?</item>
+        <item>કૉલ લૉગ્સ વાંચો, શું તમે મંજૂરી આપશો?</item>
+        <item>સંપર્કો વાંચો, શું તમે મંજૂરી આપશો?</item>
+        <item>SMS લૉગ્સ વાંચો, શું તમે મંજૂરી આપશો?</item>
+        <item>SMS લૉગ્સ મોકલો, શું તમે મંજૂરી આપશો?</item>
+        <item>MMS લૉગ્સ મોકલો, શું તમે મંજૂરી આપશો?</item>
+        <item>ડેટા કનેક્શન ચાલુ/બંધ કરો, શું તમે મંજૂરી આપશો?</item>
+        <item>Wi-Fi ચાલુ/બંધ કરો, શું તમે મંજૂરી આપશો?</item>
+        <item>બ્લૂટૂથ ચાલુ/બંધ કરો, શું તમે મંજૂરી આપશો?</item>
+        <item>GPS નો ઉપયોગ કરો (એપ્લિકેશન અન્ય માધ્યમો દ્વારા તમારી સ્થાન માહિતી પણ મેળવી શકે છે) શું તમે મંજૂરી આપશો?</item>
+        <item>કૅમેરાનો ઉપયોગ કરો, શું તમે મંજૂરી આપશો?</item>
+        <item>રેકોર્ડ કરો અથવા કૉલ્સ રેકોર્ડે કરો, શું તમે મંજૂરી આપશો?</item>
+        <item>NFC ચાલુ/બંધ કરો, શું તમે મંજૂરી આપશો?</item>
+        <item>કૉલ લૉગ્સ લખો અથવા હટાવો, શું તમે મંજૂરી આપશો?</item>
+        <item>સંપર્કો લખો અથવા હટાવો, શું તમે મંજૂરી આપશો?</item>
+        <item>SMS લૉગ્સ લખો અથવા હટાવો, શું તમે મંજૂરી આપશો?</item>
+        <item>MMS લૉગ્સ લખો અથવા હટાવો, શું તમે મંજૂરી આપશો?</item>
+        <item>MMS લૉગ્સ વાંચો, શું તમે મંજૂરી આપશો?</item>
+    </string-array>
+    <string-array name="oppo_time_picker_ampm">
+        <item>AM</item>
+        <item>PM</item>
+    </string-array>
+    <string-array name="oppo_data_not_enough_array">
+        <item>સ્પષ્ટ સામગ્રી શોધો</item>
+        <item>SD કાર્ડ પર સ્થાનાંતરિત કરો</item>
+        <item>રદ કરો</item>
+    </string-array>
+    <string-array name="oppo_data_full_array">
+        <item>ફોન શોધો</item>
+        <item>એપ્સ અનઇન્સ્ટોલ કરો</item>
+        <item>રદ કરો</item>
+    </string-array>
+    <string-array name="color_solor_mounth">
+        <item>જાન્યુઆરી</item>
+        <item>ફેબ્રુઆરી</item>
+        <item>માર્ચ</item>
+        <item>એપ્રિલ</item>
+        <item>મે</item>
+        <item>જૂન</item>
+        <item>જુલાઈ</item>
+        <item>ઑગસ્ટ</item>
+        <item>સપ્ટેમ્બર</item>
+        <item>ઑક્ટોબર</item>
+        <item>નવેમ્બર</item>
+        <item>ડિસેમ્બર</item>
+    </string-array>
+    <string-array name="color_resolver_target_pin">
+        <item>ટોચ પર પિન કરો</item>
+        <item>એપ્લિકેશનની વિગતો જુઓ</item>
+    </string-array>
+    <string-array name="color_resolver_target_unpin">
+        <item>અનપિન કરો</item>
+        <item>એપ્લિકેશનની વિગતો જુઓ</item>
+    </string-array>
+</resources>

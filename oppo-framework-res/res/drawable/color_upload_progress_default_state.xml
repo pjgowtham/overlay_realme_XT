@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:oppo="http://schemas.android.com/apk/res/oppo">
+    <item android:drawable="@drawable/color_upload_progress_wait" color_state_fail="false" color_state_ing="false" color_state_wait="true" />
+    <item android:drawable="@drawable/color_upload_or_download_fail" color_state_fail="true" color_state_ing="false" color_state_wait="false" />
+    <item android:drawable="@drawable/color_downloading_or_uploading_progress" color_state_fail="false" color_state_ing="true" color_state_wait="false" />
+    <item android:drawable="@drawable/color_upload_progress_wait" color_state_fail="false" color_state_ing="false" color_state_wait="false" />
+</selector>

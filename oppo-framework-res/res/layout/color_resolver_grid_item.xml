@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:paddingTop="9.299988dip" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.color.widget.ColorFadeBackImageView android:layout_gravity="center_horizontal" android:id="@id/resolver_item_icon" android:layout_width="@dimen/resolve_dialog_icon_width" android:layout_height="@dimen/resolve_dialog_icon_height" />
+    <TextView android:textColor="@color/resolve_dialog_item_textcolor" android:ellipsize="end" android:gravity="center_horizontal" android:layout_gravity="center_horizontal" android:id="@id/resolver_item_name" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="6.0dip" android:lines="2" android:paddingStart="3.0dip" android:paddingEnd="3.0dip" />
+</LinearLayout>

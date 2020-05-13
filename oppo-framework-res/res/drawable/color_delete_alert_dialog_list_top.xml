@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector android:enterFadeDuration="@integer/color_alert_dialog_button_feedback_start_duration" android:exitFadeDuration="@integer/color_alert_dialog_button_feedback_end_duration"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_window_focused="false" android:state_enabled="true" android:drawable="@color/oppo_transparence" />
+    <item android:state_window_focused="false" android:state_enabled="false" android:drawable="@color/oppo_transparence" />
+    <item android:state_pressed="true" android:drawable="@drawable/color_delete_alert_dialog_top_pressed" />
+    <item android:state_focused="true" android:state_enabled="true" android:drawable="@color/oppo_transparence" />
+    <item android:state_enabled="true" android:drawable="@color/oppo_transparence" />
+    <item android:drawable="@color/oppo_transparence" />
+</selector>

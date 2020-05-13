@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:name="ft_avd_toarrow" android:height="18.0dip" android:width="18.0dip" android:viewportWidth="24.0" android:viewportHeight="24.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:name="carrot_3" android:translateX="12.0" android:translateY="12.0">
+        <group android:name="rectangle_3" android:rotation="45.0" android:translateX="-6.5">
+            <group android:name="rectangle_3_pivot" android:translateX="4.5">
+                <path android:name="rectangle_path_2" android:fillColor="#ffffffff" android:pathData="M -5.5,-1.0 l 11.0,0.0 c 0.0,0.0 0.0,0.0 0.0,0.0 l 0.0,2.0 c 0.0,0.0 0.0,0.0 0.0,0.0 l -11.0,0.0 c 0.0,0.0 0.0,0.0 0.0,0.0 l 0.0,-2.0 c 0.0,0.0 0.0,0.0 0.0,0.0 Z" android:fillAlpha="0.0" />
+            </group>
+        </group>
+        <group android:name="rectangle_2" android:translateX="-8.0">
+            <group android:name="rectangle_2_pivot" android:translateX="9.0">
+                <path android:name="rectangle_path_3" android:fillColor="#ffffffff" android:pathData="M -7.0,-1.0 l 14.0,0.0 c 0.0,0.0 0.0,0.0 0.0,0.0 l 0.0,2.0 c 0.0,0.0 0.0,0.0 0.0,0.0 l -14.0,0.0 c 0.0,0.0 0.0,0.0 0.0,0.0 l 0.0,-2.0 c 0.0,0.0 0.0,0.0 0.0,0.0 Z" android:fillAlpha="0.0" />
+            </group>
+        </group>
+        <group android:name="rectangle_1" android:rotation="-45.0" android:translateX="-6.5">
+            <group android:name="rectangle_1_pivot" android:translateX="4.5">
+                <path android:name="rectangle_path_1" android:fillColor="#ffffffff" android:pathData="M -5.5,-1.0 l 11.0,0.0 c 0.0,0.0 0.0,0.0 0.0,0.0 l 0.0,2.0 c 0.0,0.0 0.0,0.0 0.0,0.0 l -11.0,0.0 c 0.0,0.0 0.0,0.0 0.0,0.0 l 0.0,-2.0 c 0.0,0.0 0.0,0.0 0.0,0.0 Z" android:fillAlpha="0.0" />
+            </group>
+        </group>
+        <group android:name="rectangle_4" android:translateY="5.0">
+            <group android:name="rectangle_3_pivot_0">
+                <path android:name="rectangle_path_4" android:fillColor="#ffffffff" android:pathData="M 0.0,-2.0 l 0.0,0.0 c 1.1045694996,0.0 2.0,0.8954305004 2.0,2.0 l 0.0,0.0 c 0.0,1.1045694996 -0.8954305004,2.0 -2.0,2.0 l 0.0,0.0 c -1.1045694996,0.0 -2.0,-0.8954305004 -2.0,-2.0 l 0.0,0.0 c 0.0,-1.1045694996 0.8954305004,-2.0 2.0,-2.0 Z" android:fillAlpha="1.0" />
+            </group>
+        </group>
+        <group android:name="rectangle_6" android:translateY="-5.0">
+            <group android:name="rectangle_1_pivot_0">
+                <path android:name="rectangle_path_6" android:fillColor="#ffffffff" android:pathData="M 0.0,-2.0 l 0.0,0.0 c 1.1045694996,0.0 2.0,0.8954305004 2.0,2.0 l 0.0,0.0 c 0.0,1.1045694996 -0.8954305004,2.0 -2.0,2.0 l 0.0,0.0 c -1.1045694996,0.0 -2.0,-0.8954305004 -2.0,-2.0 l 0.0,0.0 c 0.0,-1.1045694996 0.8954305004,-2.0 2.0,-2.0 Z" android:fillAlpha="1.0" />
+            </group>
+        </group>
+    </group>
+</vector>

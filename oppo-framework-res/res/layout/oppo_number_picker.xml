@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageButton android:id="@id/decrement" android:background="@null" android:layout_width="@dimen/oppo_numberpicker_button_width" android:layout_height="@dimen/oppo_numberpicker_button_height" android:soundEffectsEnabled="false" android:contentDescription="@android:string/permlab_readCallLog" />
+    <view android:textAppearance="@android:style/TextAppearance.Suggestion" android:textSize="@dimen/TF13" android:gravity="center" android:id="@id/numberpicker_input" android:background="@null" android:layout_width="fill_parent" android:layout_height="wrap_content" android:singleLine="true" class="android.widget.NumberPicker$CustomEditText" />
+    <ImageButton android:id="@id/increment" android:background="@null" android:layout_width="@dimen/oppo_numberpicker_button_width" android:layout_height="@dimen/oppo_numberpicker_button_height" android:soundEffectsEnabled="false" android:contentDescription="@android:string/permlab_readCellBroadcasts" />
+</merge>

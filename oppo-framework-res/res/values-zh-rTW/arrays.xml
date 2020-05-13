@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="color_week_day_long">
+        <item>星期日</item>
+        <item>星期一</item>
+        <item>星期二</item>
+        <item>星期三</item>
+        <item>星期四</item>
+        <item>星期五</item>
+        <item>星期六</item>
+    </string-array>
+    <string-array name="color_week_day_short">
+        <item>週日</item>
+        <item>週一</item>
+        <item>週二</item>
+        <item>週三</item>
+        <item>週四</item>
+        <item>週五</item>
+        <item>週六</item>
+    </string-array>
+    <string-array name="color_number_keyboard_letters">
+        <item>ㄅㄆㄇㄈ</item>
+        <item>"ABC
+ㄉㄊㄋㄌ"</item>
+        <item>"DEF
+ㄍㄎㄏ"</item>
+        <item>"GHI
+ㄐㄑㄒ"</item>
+        <item>"JKL
+ㄓㄔㄕㄖ"</item>
+        <item>"MNO
+ㄗㄘㄙ"</item>
+        <item>"PQRS
+ㄚㄛㄜㄝ"</item>
+        <item>"TUV
+ㄞㄟㄠㄡ"</item>
+        <item>"WXYZ
+ㄢㄣㄤㄥㄦ"</item>
+        <item></item>
+        <item>"+
+一ㄨㄩ"</item>
+        <item></item>
+    </string-array>
+    <string-array name="oppo_permissions_prompt">
+        <item>撥打電話，您是否同意？</item>
+        <item>讀取通話記錄，您是否同意？</item>
+        <item>讀取聯絡人資訊，您是否同意？</item>
+        <item>讀取簡訊記錄，您是否同意？</item>
+        <item>發送簡訊，您是否同意？</item>
+        <item>發送多媒體訊息，您是否同意？</item>
+        <item>開啟或關閉數據網路，您是否同意？</item>
+        <item>開啟或關閉Wi-Fi，您是否同意？</item>
+        <item>開啟或關閉藍牙，您是否同意？</item>
+        <item>使用GPS定位（軟體還可以透過其他途徑取得位置資訊），您是否同意？</item>
+        <item>使用攝影鏡頭，您是否同意？</item>
+        <item>錄音或通話錄音，您是否同意？</item>
+        <item>開啟或關閉NFC，您是否同意？</item>
+        <item>寫入或刪除通話記錄，您是否同意？</item>
+        <item>寫入或刪除聯絡人資訊，您是否同意？</item>
+        <item>寫入或刪除簡訊記錄，您是否同意？</item>
+        <item>寫入或刪除多媒體訊息記錄，您是否同意？</item>
+        <item>讀取多媒體訊息記錄，您是否同意？</item>
+    </string-array>
+    <string-array name="oppo_time_picker_ampm">
+        <item>上午</item>
+        <item>下午</item>
+    </string-array>
+    <string-array name="oppo_oppotime_month_number_chinese">
+        <item>一月</item>
+        <item>二月</item>
+        <item>三月</item>
+        <item>四月</item>
+        <item>五月</item>
+        <item>六月</item>
+        <item>七月</item>
+        <item>八月</item>
+        <item>九月</item>
+        <item>十月</item>
+        <item>十一月</item>
+        <item>十二月</item>
+    </string-array>
+    <string-array name="oppo_oppotime_month_number_digit">
+        <item>1 月</item>
+        <item>2 月</item>
+        <item>3 月</item>
+        <item>4 月</item>
+        <item>5 月</item>
+        <item>6 月</item>
+        <item>7 月</item>
+        <item>8 月</item>
+        <item>9 月</item>
+        <item>10 月</item>
+        <item>11 月</item>
+        <item>12 月</item>
+    </string-array>
+    <string-array name="oppo_data_not_enough_array">
+        <item>前往清理</item>
+        <item>轉移到 SD 卡</item>
+        <item>取消</item>
+    </string-array>
+    <string-array name="oppo_data_full_array">
+        <item>清理手機</item>
+        <item>解除安裝應用程式</item>
+        <item>取消</item>
+    </string-array>
+    <string-array name="color_lunar_mounth">
+        <item>正月</item>
+        <item>二月</item>
+        <item>三月</item>
+        <item>四月</item>
+        <item>五月</item>
+        <item>六月</item>
+        <item>七月</item>
+        <item>八月</item>
+        <item>九月</item>
+        <item>十月</item>
+        <item>冬月</item>
+        <item>臘月</item>
+    </string-array>
+    <string-array name="color_solor_mounth">
+        <item>1月</item>
+        <item>2月</item>
+        <item>3月</item>
+        <item>4月</item>
+        <item>5月</item>
+        <item>6月</item>
+        <item>7月</item>
+        <item>8月</item>
+        <item>9月</item>
+        <item>10月</item>
+        <item>11月</item>
+        <item>12月</item>
+    </string-array>
+    <string-array name="color_resolver_target_pin">
+        <item>置頂顯示</item>
+        <item>檢視應用詳細資料</item>
+    </string-array>
+    <string-array name="color_resolver_target_unpin">
+        <item>取消置頂</item>
+        <item>檢視應用詳細資料</item>
+    </string-array>
+</resources>

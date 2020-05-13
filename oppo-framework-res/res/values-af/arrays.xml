@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="color_week_day_long">
+        <item>So.</item>
+        <item>Ma.</item>
+        <item>Di.</item>
+        <item>Wo.</item>
+        <item>Do.</item>
+        <item>Vr.</item>
+        <item>Sa.</item>
+    </string-array>
+    <string-array name="color_week_day_short">
+        <item>So.</item>
+        <item>Maandag</item>
+        <item>Dinsdag</item>
+        <item>Woensdag</item>
+        <item>Donderdag</item>
+        <item>Vrydag</item>
+        <item>Sa.</item>
+    </string-array>
+    <string-array name="oppo_permissions_prompt">
+        <item>oproep, laat jy dit toe?</item>
+        <item>lees oproeplogs, laat jy dit toe?</item>
+        <item>lees kontakte, laat jy dit toe?</item>
+        <item>lees SMS-logs, laat jy dit toe?</item>
+        <item>stuur SMS, laat jy dit toe?</item>
+        <item>stuur MMS, laat jy dit toe?</item>
+        <item>skakel dataverbinding aan/af, laat jy dit toe?</item>
+        <item>skakel Wi-Fi aan/af, laat jy dit toe?</item>
+        <item>skakel bluetooth aan/af, laat jy dit toe?</item>
+        <item>gebruik GPS (die toepassing kan ook jou ligginginligting op ander maniere verkry), laat jy dit toe?</item>
+        <item>gebruik kamera, laat jy dit toe?</item>
+        <item>neem op en neem oproepe op, laat jy dit toe?</item>
+        <item>skakel NFC aan/af, laat jy dit toe?</item>
+        <item>skryf of skrap oproeplogs, laat jy dit toe?</item>
+        <item>skryf en skrap kontakte, laat jy dit toe?</item>
+        <item>skryf en skrap SMS-logs, laat jy dit toe?</item>
+        <item>skryf of skrap MMS-logs, laat jy dit toe?</item>
+        <item>lees MMS-logs, laat jy dit toe?</item>
+    </string-array>
+    <string-array name="oppo_time_picker_ampm">
+        <item>VM</item>
+        <item>NM</item>
+    </string-array>
+    <string-array name="oppo_data_not_enough_array">
+        <item>Gaan na skoonmaak</item>
+        <item>Dra na SD-geheuekaart oor</item>
+        <item>Kanselleer</item>
+    </string-array>
+    <string-array name="oppo_data_full_array">
+        <item>Foonskoonmaak</item>
+        <item>Deïnstalleer Toepassings</item>
+        <item>Kanselleer</item>
+    </string-array>
+    <string-array name="color_solor_mounth">
+        <item>Januarie</item>
+        <item>Februarie</item>
+        <item>Maart</item>
+        <item>April</item>
+        <item>Mei</item>
+        <item>Junie</item>
+        <item>Julie</item>
+        <item>Augustus</item>
+        <item>September</item>
+        <item>Oktober</item>
+        <item>November</item>
+        <item>Desember</item>
+    </string-array>
+    <string-array name="color_resolver_target_pin">
+        <item>Speld bo vas</item>
+        <item>Sien Toepassingdetails</item>
+    </string-array>
+    <string-array name="color_resolver_target_unpin">
+        <item>Ontspeld</item>
+        <item>Sien Toepassingdetails</item>
+    </string-array>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.color.design.ColorCoordinatorLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:oppo="http://schemas.android.com/apk/res/oppo">
+    <ListView android:id="@id/color_preference_listview_list" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="@dimen/color_preference_listview_margin_top" android:divider="@null" />
+    <com.color.design.ColorAppBarLayout android:id="@id/color_preference_listview_abl" android:background="@android:color/transparent" android:layout_width="fill_parent" android:layout_height="wrap_content" elevation="0.0dip" layout_behavior="@string/color_appbarlayout_collapse_behavior">
+        <Toolbar android:id="@id/color_preference_listview_toolbar" android:background="@android:color/transparent" android:layout_width="fill_parent" android:layout_height="47.0dip" android:minHeight="45.0dip" layout_scrollFlags="scroll|exitUntilCollapsed" />
+    </com.color.design.ColorAppBarLayout>
+</com.color.design.ColorCoordinatorLayout>

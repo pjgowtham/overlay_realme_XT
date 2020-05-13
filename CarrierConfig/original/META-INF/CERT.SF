@@ -1,0 +1,900 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+SHA-256-Digest-Manifest: RqbVXOuG6HuWILfaaJhoUKQ8uqZt9NgcToWIyTxTBjM=
+X-Android-APK-Signed: 2, 3
+
+Name: AndroidManifest.xml
+SHA-256-Digest: fPmyG00MRZ06gIJIYtz1vv1JVBIuxeEZ0npaICTiuRU=
+
+Name: assets/carrier_config_001001.xml
+SHA-256-Digest: tXYHHi8dmpswf5A9/4fgJLYBgeZ1knFRvYhMdTnApQ8=
+
+Name: assets/carrier_config_00101.xml
+SHA-256-Digest: xNuva9oemr4imoD3uTvi2UbQN4h/Unf9UWII98+P/UE=
+
+Name: assets/carrier_config_001010.xml
+SHA-256-Digest: NkAqBayKewEzzLo5DaD2jao+2VQ/y+XUlQVArt5QygY=
+
+Name: assets/carrier_config_20404.xml
+SHA-256-Digest: fbrEPPEcfKZaPC37SsSt9y55j7z14to1YZv6T/JfqN8=
+
+Name: assets/carrier_config_21422.xml
+SHA-256-Digest: sYrI4T6fchI1kjeC4F0bjTwImEP/PDUVakt6Xqlo6w0=
+
+Name: assets/carrier_config_310410.xml
+SHA-256-Digest: i2t/7grjLgTqp6FC1bD10A1SuQiHb1E+lBzKCz+i6rI=
+
+Name: assets/carrier_config_311480.xml
+SHA-256-Digest: ANtqo7y0ixP0E/pcLFf2B9jBk6abCN5YjEgvV60f2bE=
+
+Name: assets/carrier_config_46002.xml
+SHA-256-Digest: 1wvnticXIFkz9q9C3m5iMJRKj9dR/klBvwRUbyp+XhI=
+
+Name: assets/carrier_config_46007.xml
+SHA-256-Digest: YeY4BY50HUSiJsFW3x6Vp47bi9V2Lt0pwwZJm9jscXM=
+
+Name: assets/carrier_config_46008.xml
+SHA-256-Digest: qE4WA7DwSvZVDXkeG1eoY7Ek0kkSKD8QM5p/+xDEY34=
+
+Name: assets/carrier_config_60202.xml
+SHA-256-Digest: Fu8RM7JzA5f3eGM2lGrZSYsfaerAQGGdI3DqrT8GkyQ=
+
+Name: assets/carrier_config_60203.xml
+SHA-256-Digest: RPeubx4eqfQwg+EYjWyQApr9Z7f/XL/Kys8duszo8jc=
+
+Name: assets/carrier_config_carrierid_1008_Société-Réunionnaise-du-
+ Radiotéléphone.xml
+SHA-256-Digest: Ogn4oI+vIPw3+Yta0qGM1zW+Mi03oejTbt4Cr5vUYFo=
+
+Name: assets/carrier_config_carrierid_1010_Telekom-Romania.xml
+SHA-256-Digest: z6jeOQUm1o0Jv/HvXFzki+1RmnMA/cNTF0+y1KRzifc=
+
+Name: assets/carrier_config_carrierid_1096_CAT-CDMA.xml
+SHA-256-Digest: 3f5swLqAgxd5jrnfAiwNrLshA4eXXEMxSlqF4bQYl/c=
+
+Name: assets/carrier_config_carrierid_1097_AIS-GSM.xml
+SHA-256-Digest: 9uFbzuzYgjJ8Ks5rhrWzmNgf9uKXbclRPKPdLnempyw=
+
+Name: assets/carrier_config_carrierid_1098_AIS.xml
+SHA-256-Digest: AWZyr9rvC/f7Z8WvqTBkzcVcdut8OCFFayTPSjy5d/0=
+
+Name: assets/carrier_config_carrierid_10_T-Mobile-ME.xml
+SHA-256-Digest: IJFaGquOQYo0KfA/XHkhlH/sWcz9QPWwLdkOlEQ6kdk=
+
+Name: assets/carrier_config_carrierid_1185_Cellular-Network-Partnershi
+ p-dba-Pioneer-Cellular.xml
+SHA-256-Digest: 4Zxf4/kL/UHzvRsE09aaxEK6sryZaAPTt1Vkk8j6m0o=
+
+Name: assets/carrier_config_carrierid_1187_AT&T.xml
+SHA-256-Digest: gxGnIcWGhR7+Zuo8b4gxtHUG6IPKRM0sxi4/Cvg6yMs=
+
+Name: assets/carrier_config_carrierid_1190_Cincinnati-Bell-Wireless-LL
+ C.xml
+SHA-256-Digest: BGtDG4nQjEWYKnSWdtGF1zEEVMaTrzATa8PVxNO3dHw=
+
+Name: assets/carrier_config_carrierid_1193_North-East-Cellular-Inc.xml
+SHA-256-Digest: MK8kZt1hAkBCk9oUmn+PIqWGm9X/nR8FASCT6Oxmzvo=
+
+Name: assets/carrier_config_carrierid_11_Slovak-Telekom.xml
+SHA-256-Digest: Wwyh30JTsI3M17Z5M0sz9UgN5nP1I8i6wC297ZJDdmI=
+
+Name: assets/carrier_config_carrierid_1243_Easterbrooke-Cellular-Corpo
+ ration.xml
+SHA-256-Digest: az/Oev8gIElWQT3rpqjB88OMGuSYfXvJ+sQgHQSPryM=
+
+Name: assets/carrier_config_carrierid_1246_Alltel-Communications-Inc.x
+ ml
+SHA-256-Digest: k2IUgCuk/yK29mciFULJgZhHxnUJbUgzCsPw+t6jsd4=
+
+Name: assets/carrier_config_carrierid_1263_Illinois-Valley-Cellular.xm
+ l
+SHA-256-Digest: DqG8VEhsCktqiWXJJ8+mNJqRHkNzuw8qSofIqCBwMYw=
+
+Name: assets/carrier_config_carrierid_1329_Vodafone-Albania.xml
+SHA-256-Digest: Bb5y8IShGQ0GwdrzoYWjIM1wqdEyrVa489XEMwIYKI4=
+
+Name: assets/carrier_config_carrierid_1344_Drei.xml
+SHA-256-Digest: 5VAwPpqw03wEAEy8tDqQ25R4/X6EIQFDAEN6uHKOSMs=
+
+Name: assets/carrier_config_carrierid_1345_Telstra.xml
+SHA-256-Digest: 4qI9jL6H9bXRjgJRUqs/rjgKuJx3IsP2yS1x119p2+k=
+
+Name: assets/carrier_config_carrierid_1358_MOBI'S-(Mobilina-Srpske).xm
+ l
+SHA-256-Digest: o3wcgcaRnI3vjUGfGjFYQv/IuTJhEfRW2fzWksxGTk4=
+
+Name: assets/carrier_config_carrierid_1366_Orange.xml
+SHA-256-Digest: iry+/GrMd9qItsjAjZ74JUCUXkgJx8+6+ceDsbv0dsY=
+
+Name: assets/carrier_config_carrierid_1383_Nextel.xml
+SHA-256-Digest: LtC1THF9Y4hfBc316u2MOnazhp+TzuiH0p15s7sdvjc=
+
+Name: assets/carrier_config_carrierid_1385_TIM.xml
+SHA-256-Digest: uzzCMDFI1FLs/Ji0qBGP56x+1gjKrymfZaR93BgogFE=
+
+Name: assets/carrier_config_carrierid_1389_Oi.xml
+SHA-256-Digest: Cna/AozrH3MFvxENt1r6kQrUk1iNO4UPvj2GTWMe1+4=
+
+Name: assets/carrier_config_carrierid_13_Mkedonski-Telecom-AD-Skopje.x
+ ml
+SHA-256-Digest: OL7gq90WYd0P7URHTBW6gyVs9LevH9ud38exi7vQpH0=
+
+Name: assets/carrier_config_carrierid_1403_Rogers.xml
+SHA-256-Digest: 0nUCIKpyjwWpzYCxiPeAkUkoQQxKX3yDH+tl1veSysI=
+
+Name: assets/carrier_config_carrierid_1404_TELUS-Mobility.xml
+SHA-256-Digest: LQDCYHdwTvGbpSA0n/yvd9XDeMkxOExtInHCZragSdY=
+
+Name: assets/carrier_config_carrierid_1428_Movistar.xml
+SHA-256-Digest: yvFuKb1tKq0VLVo2L6/RDCuE7XswHCcLLvQIPB5rkwQ=
+
+Name: assets/carrier_config_carrierid_1435_China-Mobile.xml
+SHA-256-Digest: m3ycNT9+7fx1ey4fW4ZBcJk3DXEA+SHL53uQgylgvOs=
+
+Name: assets/carrier_config_carrierid_1436_China-Unicom.xml
+SHA-256-Digest: XudhZH95wRpnpfFCUiW/9Wv7OPWrnY5Y+kcK6euOHnw=
+
+Name: assets/carrier_config_carrierid_1449_O2.xml
+SHA-256-Digest: bZSdgnb847hg2h0qVdzk5SzszF8d+95sM9d7u9GIOeo=
+
+Name: assets/carrier_config_carrierid_1452_Vodafone.xml
+SHA-256-Digest: ejgc/7hQC69jp9vKZltopZBgacrTq/+A/XPc4DmTlC0=
+
+Name: assets/carrier_config_carrierid_1453_Telefonica.xml
+SHA-256-Digest: OI+Tf4/A83KuHBmYtVqQKpWPj9MnPPUUYRWhYKCL8XU=
+
+Name: assets/carrier_config_carrierid_1454_o2.xml
+SHA-256-Digest: 1XiO3lyWOA0oJLuxianmECDREdC+WC1jIK7N9aHbYdk=
+
+Name: assets/carrier_config_carrierid_1464_Telenor.xml
+SHA-256-Digest: hUtxO3q8ogtIbRBXlQKnyH9AlhzNrOWv/qWWoKUDly4=
+
+Name: assets/carrier_config_carrierid_1466_3.xml
+SHA-256-Digest: zkoE53VL6ALPBPeUddrj7sUWwV/rhYgUsMZL82620rA=
+
+Name: assets/carrier_config_carrierid_1487_Bouygues-Telecom.xml
+SHA-256-Digest: NecAOhHQj2Ic74HLJgXLP08oRVZAvHQfM7EBQO8My20=
+
+Name: assets/carrier_config_carrierid_1492_O2.xml
+SHA-256-Digest: csTSYV4RjofY+izGhDkhxIIujPRvELeq49VzXWddkwU=
+
+Name: assets/carrier_config_carrierid_14_A1.xml
+SHA-256-Digest: d5L/xhhxymyMo1awmHJStFP1lf3q4QPteW1KQ4xVJa4=
+
+Name: assets/carrier_config_carrierid_1505_Three-Mobile.xml
+SHA-256-Digest: jXGUNfUomN0CDQPqDkwfYWLSpD0PZfhw+mYfKTKQ++I=
+
+Name: assets/carrier_config_carrierid_1507_Manx-Telecom.xml
+SHA-256-Digest: lNsRZEeJTEkKUdzM0vTPakf9zJmEfuNPVWRRdS4Pz5k=
+
+Name: assets/carrier_config_carrierid_1529_Tele2.xml
+SHA-256-Digest: Z1y6AiUEbaUR+s0+FQqHYmxxWiB9iYh+Cex31mJ888o=
+
+Name: assets/carrier_config_carrierid_1534_Telenor.xml
+SHA-256-Digest: y4Lg8Egb/6649qGSdduwiyrDR4/ZXISzCNabBY3izTE=
+
+Name: assets/carrier_config_carrierid_1535_Vodafone.xml
+SHA-256-Digest: YMmoN3YodbpesWJ/l66Pm8iAy6gVLLnI4CppA2EntHk=
+
+Name: assets/carrier_config_carrierid_1543_Reliance.xml
+SHA-256-Digest: 8liRwV6ZsIizQj3Pxe7SatVExlsFqMWTjzUrTnCbTU8=
+
+Name: assets/carrier_config_carrierid_1545_BPL-Mobile-Communications-L
+ td.xml
+SHA-256-Digest: s9arIHs9VQoMuCNsG2/84AHZ9QCGQWr/BNOBKrXx/2E=
+
+Name: assets/carrier_config_carrierid_1549_Bharat-Sanchar-Nigam-Ltd-(B
+ SNL).xml
+SHA-256-Digest: i6T6XxH5efMQmwArOcwfUIWhJZrbIxLAFjz0/eZ3byU=
+
+Name: assets/carrier_config_carrierid_1550_RPG-Cellular.xml
+SHA-256-Digest: ymsgwhq4PHtMRtkyj7V+cbfqmrHFSnycMYJrDMcDzJQ=
+
+Name: assets/carrier_config_carrierid_1551_Aircel-Ltd.xml
+SHA-256-Digest: 95WozP4JaLC0U/opNb9AVIxIrCFtrTgeRt/BmJ1FWYk=
+
+Name: assets/carrier_config_carrierid_1556_Mahanagar-Telephone-Nigam-L
+ td.xml
+SHA-256-Digest: d62GRPgkT1YeQYB/EdbxCsZB3ZdOcWCXePRSbCrK31I=
+
+Name: assets/carrier_config_carrierid_1557_Hexicom-India.xml
+SHA-256-Digest: fC/6OiO3eC0KntFKYvmw/FCa204oOzaSw+u/gKoMf/4=
+
+Name: assets/carrier_config_carrierid_1559_Reliable-Internet-Services-
+ Ltd.xml
+SHA-256-Digest: 8PjOjj1OHEDCR0vtCx9+U2px0n/99t+QMHYTAJHKb34=
+
+Name: assets/carrier_config_carrierid_1566_Tal-hf.xml
+SHA-256-Digest: vwSkyQ0hf6cfQipVt8V27dZGA5qPzcLB7tzvLPTkbDE=
+
+Name: assets/carrier_config_carrierid_1567_Islandssimi-GSM-ehf.xml
+SHA-256-Digest: F0Ek3Cu4NeTE2cq4euhGYw1RwFkQK3ck8ZzLkmQxj/c=
+
+Name: assets/carrier_config_carrierid_1581_au.xml
+SHA-256-Digest: Y7T3gp7kDitUEDNaHJikSRsXt0EZQGWNlH7FjOcHsNY=
+
+Name: assets/carrier_config_carrierid_15_Vodafone.xml
+SHA-256-Digest: tr6OAJoX9+fQlz/qIw8/TRWoFKNww6SxUEoUeS/37Y4=
+
+Name: assets/carrier_config_carrierid_1608_Cosmofon.xml
+SHA-256-Digest: aVuQbX5wMRzxnLq4qoDMg8S7U7PNYKxBgrtj9Q7Zr8M=
+
+Name: assets/carrier_config_carrierid_1609_Nov-Operator.xml
+SHA-256-Digest: s0mkvcgxzd8HTuUajsPE9TuLgXTizn9YaeiRqkt4L4w=
+
+Name: assets/carrier_config_carrierid_1644_KPNTelfort.xml
+SHA-256-Digest: ppHjna8onVGYcCh9fWtrUPCxmd9h2SDHSHtG+pTyw/E=
+
+Name: assets/carrier_config_carrierid_1651_Digicel-Ltd.xml
+SHA-256-Digest: o9FcRPclsQJ5g/w/wxBot4v3IsBa3oAByZ4et8s6G3E=
+
+Name: assets/carrier_config_carrierid_1658_Plus.xml
+SHA-256-Digest: qX2VRKOKQCpgeWhlXMlAbtg8rw5dfoXF+1fWDhMqqYA=
+
+Name: assets/carrier_config_carrierid_1659_Orange.xml
+SHA-256-Digest: /ONQceCFRGDVdlaeF5UcitJ7rlVtNZY6kpsottRP5eU=
+
+Name: assets/carrier_config_carrierid_1662_PLAY.xml
+SHA-256-Digest: GbvnBMjXo5Wm/9cKPRY8ERoalSRJE65o+J2ljXLR1l0=
+
+Name: assets/carrier_config_carrierid_1668_NOS.xml
+SHA-256-Digest: rvCkpQPNerSvti81jCe9e0UpakftLZHU7vFVqN6E39o=
+
+Name: assets/carrier_config_carrierid_1670_MEO.xml
+SHA-256-Digest: yXvMsdYODYAZxeHMfG4L/7eQFprReQOcslA0w7uGsqQ=
+
+Name: assets/carrier_config_carrierid_1690_Telia-Sonera-AB.xml
+SHA-256-Digest: lolblye9N0KWc7H8TbL5cdCfTp2ubr3br8WKcbtsySk=
+
+Name: assets/carrier_config_carrierid_1693_3G-Infrastructure-Services-
+ AB.xml
+SHA-256-Digest: Ta0aUYVHMFwt2il2nZWM4ijQLitREjogLR3bWeL8THo=
+
+Name: assets/carrier_config_carrierid_1695_Telenor-Sverige-AB.xml
+SHA-256-Digest: CPQ6uEGzW1+O7FRHCjmHzV+D9koGEIgRQZ1J9MSoll0=
+
+Name: assets/carrier_config_carrierid_1709_SI-Mobil.xml
+SHA-256-Digest: CbLIzv0By23ACR9d/HXYtoZ7h2KnVtbHcdefa1KeG+w=
+
+Name: assets/carrier_config_carrierid_1710_Telekom-Slovenije.xml
+SHA-256-Digest: JwaEWx2RBGZUGPoPmiUetakBO6zq9tS7FoBwalT00Jw=
+
+Name: assets/carrier_config_carrierid_1712_Tusmobil-doo.xml
+SHA-256-Digest: mYkVb1rgIAr8ZlMQuic49SOYPJF8wJbcT3tTypz1i/k=
+
+Name: assets/carrier_config_carrierid_1713_Orange.xml
+SHA-256-Digest: BwbYRRqeoLQoRWJiN/x2mGjVm5e/E4PAXTB1ugUBoGY=
+
+Name: assets/carrier_config_carrierid_1723_ACT-Mobile.xml
+SHA-256-Digest: IvBPP/c/MM9GfjI8qVCdMmciXOgzDBLqowTtnvZ4j6g=
+
+Name: assets/carrier_config_carrierid_1735_Paycell-Turkcell.xml
+SHA-256-Digest: LtiT7sH42+W1uh9iR82546Kdps/G/bCuqC6OpgvuNdY=
+
+Name: assets/carrier_config_carrierid_1737_Türk-Telekom.xml
+SHA-256-Digest: gzMW3b0apXadkbBsD8Jvh2PM1e6t/pdVPcJJYFu0+hg=
+
+Name: assets/carrier_config_carrierid_1776_MCI.xml
+SHA-256-Digest: 1iVPC9uP/F6iQHkv8lUVde5hJlKdh2Veajmzwx0ozvk=
+
+Name: assets/carrier_config_carrierid_1778_Mobile-Tel-Inc.xml
+SHA-256-Digest: RYZ/JeSVYyH4AotvSMdwAQrjCnbbZSd8xhW7NW8LyeE=
+
+Name: assets/carrier_config_carrierid_1779_Cricket-Wireless.xml
+SHA-256-Digest: unWrCKdzoHyFmUOyCBf7wMfBK9cFGsSs//VB5R0jtPQ=
+
+Name: assets/carrier_config_carrierid_1784_MTA-Communications-dba-MTA-
+ Wireless.xml
+SHA-256-Digest: 9PHUxdCSC45l1W1QaI2dK808JF4CkkI92V9PfcV6P1c=
+
+Name: assets/carrier_config_carrierid_1788_Sprint.xml
+SHA-256-Digest: V/gcaLp9r2HCBiYvV2M6mtB/dP0Jj5VoMqQRXwUUtxQ=
+
+Name: assets/carrier_config_carrierid_1789_Carolina-West-Wireless.xml
+SHA-256-Digest: D2Vf8US09XkC+x/UXdjnw4Q1pJWHVb2ruLDpjSNLkug=
+
+Name: assets/carrier_config_carrierid_1792_West-Central-Wireless.xml
+SHA-256-Digest: VuAXQsyKgIttfmkEOZ45miGr+zXIkSq8b2IOB0obhpU=
+
+Name: assets/carrier_config_carrierid_1802_New-Cell-Inc-dba-Cellcom.xm
+ l
+SHA-256-Digest: Nx4YYaxAUx2EMJODLcr7MHiTPbuC/UbrEXVAFYxYccw=
+
+Name: assets/carrier_config_carrierid_1813_East-Kentucky-Network-LLC-d
+ ba-Appalachian-Wireless.xml
+SHA-256-Digest: lEcm1+BE99uUCGrJFI23ViDZlYnULyPxJfx+/LaVRKA=
+
+Name: assets/carrier_config_carrierid_1815_Iowa-Wireless-Services-LLC-
+ dba-I-Wireless.xml
+SHA-256-Digest: R4TfdAcAfk9GsxMg9OJ6spCnpPnHCsexoIyocP15LCc=
+
+Name: assets/carrier_config_carrierid_1826_Rural-Cellular-Corporation.
+ xml
+SHA-256-Digest: N/+3W6KqKU7MWU3BkWdybKfZXSCIhl3SnTAtB97JtTc=
+
+Name: assets/carrier_config_carrierid_1828_Southern-IL-RSA-Partnership
+ -dba-First-Cellular-of-Southern-Illinois.xml
+SHA-256-Digest: nQ7g3xj/p8nFr8KPojyiduA0SpWKcr812f/pONk5oBs=
+
+Name: assets/carrier_config_carrierid_1829_James-Valley.xml
+SHA-256-Digest: 5m/4/q3voZ6bxIHT2PJm0ojnXiuHlE1htPF3yyDCWJc=
+
+Name: assets/carrier_config_carrierid_1836_C-Spire.xml
+SHA-256-Digest: xspvPy4DLfc2UxT/E/zPdmwLMuXx49CfCOOuc2Yo6zI=
+
+Name: assets/carrier_config_carrierid_1839_Verizon-Wireless.xml
+SHA-256-Digest: yf83kDKYIn81wTFinq9qb0J/6/zT/6HH98urqPxhatE=
+
+Name: assets/carrier_config_carrierid_1843_GCI-Communications-Corp.xml
+SHA-256-Digest: 7Cu14BNb5JmfFSXJmg55qmSHlrZg/bCirlG0nljpUn0=
+
+Name: assets/carrier_config_carrierid_1845_Midwest-Wireless-Holdings-L
+ LC.xml
+SHA-256-Digest: Cwprqoo8PbKeldHrjTMy9qvFFa1iutR9OSZK2nlbOJc=
+
+Name: assets/carrier_config_carrierid_1846_Iowa-RSA-No2-Ltd-Partnershi
+ p.xml
+SHA-256-Digest: 45JBI8rp33xB2Fv0khHWXPYgmk277EQWtuWj8lUAn8w=
+
+Name: assets/carrier_config_carrierid_1848_Chat-Mobility.xml
+SHA-256-Digest: cSfO0cYmKrLxOSQLG12f24AOXpgCM803IgunRZ0wIQE=
+
+Name: assets/carrier_config_carrierid_1849_Bluegrass-Cellular-LLC.xml
+SHA-256-Digest: acvzCsD/N2btHOliGWjKmMZwkcnmlx4QZ1VyFbezmGg=
+
+Name: assets/carrier_config_carrierid_1853_Virgin-Mobile.xml
+SHA-256-Digest: 3k/CtSDxjDswAZsUko68ZgcdrySFCK79wt8SpOGeekg=
+
+Name: assets/carrier_config_carrierid_1881_遠傳電信-Far-EasTone-Te
+ lecom.xml
+SHA-256-Digest: 6a7rUAT4Gs4U7Y8nb4wn5o8bbi9OLu2zKvkHRpLYkm0=
+
+Name: assets/carrier_config_carrierid_1882_亞太電信-Asia-Pacific-T
+ elecom.xml
+SHA-256-Digest: crpRowTn2gDaAAXaQs3lCx0hNUNSwcxNNSRt3XoWS0c=
+
+Name: assets/carrier_config_carrierid_1883_Tuntex-Telecom.xml
+SHA-256-Digest: 9bA/oEm+NxxNy96FmFxD8tFe5A0ycu9wVOoZMNTZ42w=
+
+Name: assets/carrier_config_carrierid_1884_中華電信_Chunghwa-Telec
+ om.xml
+SHA-256-Digest: 97hwMGJ32Uj8pA/DwMAJyYtfTFIQH6LdKw8S5NnIFac=
+
+Name: assets/carrier_config_carrierid_1886_台灣之星-T-Star.xml
+SHA-256-Digest: bTgu5wE/pJeSk4CNDIdKr/6fRRxASwTunysgovyCSNY=
+
+Name: assets/carrier_config_carrierid_1887_MobiTai-Communications.xml
+SHA-256-Digest: eg7cX3MVpcp3SDzKgOY2lnSvtfYp/n9AXL83MoofswM=
+
+Name: assets/carrier_config_carrierid_1888_台灣大哥大-Taiwan-Mobi
+ le-Telecom.xml
+SHA-256-Digest: GENqYRDHdxoCv3r0G+BMb6Qze1puIyVyy+PCSNz0XMc=
+
+Name: assets/carrier_config_carrierid_1889_TransAsia-Telecoms.xml
+SHA-256-Digest: AbQJ/o0m6Pj5qaxdVzODOHvGjIs574WTdryQvko/bNg=
+
+Name: assets/carrier_config_carrierid_1890_KT.xml
+SHA-256-Digest: YpOGn9cfYWk6KVsTNMC65ZUzcM4i+dq7XC897JOIOXk=
+
+Name: assets/carrier_config_carrierid_1891_SK-Telecom.xml
+SHA-256-Digest: sIqJlhodzCEqeE/s4AJ5ELZfMQmfS+UETw9rq679OPk=
+
+Name: assets/carrier_config_carrierid_1892_LG-U.xml
+SHA-256-Digest: CcAkMuwXXUDY/p7VYPtTk1bO88cULx6v7/CwvYadvJA=
+
+Name: assets/carrier_config_carrierid_1894_SoftBank.xml
+SHA-256-Digest: wlzcnz03m9NSF6iC+noODS+cVaXiBog6d/2hM67kvL4=
+
+Name: assets/carrier_config_carrierid_1895_Freedom-Mobile.xml
+SHA-256-Digest: g7/0hoMK8Nk8FGiwFBGS+v5G7f58aYX0EKSc7piJNrs=
+
+Name: assets/carrier_config_carrierid_1896_dtac.xml
+SHA-256-Digest: qQXRaM0Cwb7zmeDm1uWGfa2xeac0AKZogEtsxEm0hEc=
+
+Name: assets/carrier_config_carrierid_1897_dtac-.xml
+SHA-256-Digest: y49Fe1ApNROWOKoM6hPphvFRoWYMUKPMxv9s1x6BJic=
+
+Name: assets/carrier_config_carrierid_1898_True-Move.xml
+SHA-256-Digest: nH0SIrGb4LA5uey8ztQCQa2u3bZ1iYnm3NdyASHHTKk=
+
+Name: assets/carrier_config_carrierid_1909_Euskaltel.xml
+SHA-256-Digest: kgFdOWjyjE0bCSGagktY3KxQzkzeyUkCwJvurlhHa/g=
+
+Name: assets/carrier_config_carrierid_1911_Test-Network-Used-by-GSM-te
+ st-equipment.xml
+SHA-256-Digest: I9Fne0er8R3a6VTuL2kFoj7qdkUQ2Ku730LLqz7HgoI=
+
+Name: assets/carrier_config_carrierid_1912_AT&T-MX.xml
+SHA-256-Digest: lxQGoZzrSMO4VZuXcOIIcpTTIzIVh03/SoCUZGdFDyk=
+
+Name: assets/carrier_config_carrierid_1913_Telcel.xml
+SHA-256-Digest: MIWJTLdsNOIS9ns4PvozFHXc+k4MhR4rdnZ20iWAt1Y=
+
+Name: assets/carrier_config_carrierid_1915_AT&T-MX.xml
+SHA-256-Digest: DwXm/W0D75e2QOB3mZaXcpt+3Iny51P/+7ZIX8T8IpQ=
+
+Name: assets/carrier_config_carrierid_1917_eMobile.xml
+SHA-256-Digest: gk9ls8l2tTWhzwMgic4dAnKC+lUuhVYHQO7Oyr4RoV8=
+
+Name: assets/carrier_config_carrierid_1951_Boost-Mobile.xml
+SHA-256-Digest: ZSds0sz634c7DAnTfIq+m7FbBbSJgn2xfTWKl0QIt6A=
+
+Name: assets/carrier_config_carrierid_1952_US-Cellular.xml
+SHA-256-Digest: 1pDroTeDU5vvu3mtIgqvMBY+tSF2fCV5E1UsswCUNO8=
+
+Name: assets/carrier_config_carrierid_1955_Claro-PR.xml
+SHA-256-Digest: Tcl33hPgwyrRqVNIAXeYphwAevKNdoiuCwRR/hBGT+M=
+
+Name: assets/carrier_config_carrierid_1958_Free.xml
+SHA-256-Digest: VNqc1w7SlK3mHQBNR6daK+Q9g3IZ5Ft4OvUNmE2iCNk=
+
+Name: assets/carrier_config_carrierid_1961_Airtel.xml
+SHA-256-Digest: o++gl1bLoEWRcuHUiWN+fMSKRWm0ztE+VFjPTVZlLcI=
+
+Name: assets/carrier_config_carrierid_1962_Fido.xml
+SHA-256-Digest: yaIluTYTySxUKaWkXbG4HD2XNqT5MUHJAUWqvLKW7YE=
+
+Name: assets/carrier_config_carrierid_1963_Vodafone.xml
+SHA-256-Digest: c8Yg8AMiQddRm268NIlTJDBaZV0SNc5kSYmhgKKcnkc=
+
+Name: assets/carrier_config_carrierid_1964_Aio.xml
+SHA-256-Digest: rfNSw1uWKZ/I6wC9/6DHWWPR3HXacFAyjbaKcRBX7L4=
+
+Name: assets/carrier_config_carrierid_1969_Asia-Cell.xml
+SHA-256-Digest: Bid/tUY9GeCZHymhUHg/AGfurT7VHoI8QzE8oj1H9ws=
+
+Name: assets/carrier_config_carrierid_1971_Zain-Iraq.xml
+SHA-256-Digest: jtRk0cdeW0ofara4i9hQoMGFbK1BD/Eghn6RnZ42F7w=
+
+Name: assets/carrier_config_carrierid_1972_Zain-Saudi-Arabia.xml
+SHA-256-Digest: DYJhba4e0U+K9AMMtWzpp0RHchz8vrzFXzvJnbszvbM=
+
+Name: assets/carrier_config_carrierid_1974_Jazztel.xml
+SHA-256-Digest: OKvBOgFFqOyzl19ntIv6Z3ur+/+lBLWkYuBCpojEUcs=
+
+Name: assets/carrier_config_carrierid_1976_ONO.xml
+SHA-256-Digest: lMr5l843mojAsb8zExDBAEb+cdrhI+9doLEhVF1nUEQ=
+
+Name: assets/carrier_config_carrierid_1982_TATA-DOCOMO.xml
+SHA-256-Digest: JhXIwfHHfxFpXeoyx8RmUTG+HUOUofipat9vo2a/XWs=
+
+Name: assets/carrier_config_carrierid_1985_Inwi.xml
+SHA-256-Digest: immJMK4DZNFJVw7nJbFKLyrsOIgsG1rKrteb3ESBzFw=
+
+Name: assets/carrier_config_carrierid_1988_O2.xml
+SHA-256-Digest: rM0YYgiCSnq9ZaBS/jxsxTl8anjpOMZGRdv7iA7Z7os=
+
+Name: assets/carrier_config_carrierid_1989_Google-Fi.xml
+SHA-256-Digest: SM3Uf92U862ijiKDpuIMqYgnc/MH0/se/6bRRIEbbUk=
+
+Name: assets/carrier_config_carrierid_1990_Golan-Telecom.xml
+SHA-256-Digest: BdV/82JFC/uprdg1QJbLRYhT7KvWMZmdAZy4DkjXO2I=
+
+Name: assets/carrier_config_carrierid_1991_Hot-Mobile.xml
+SHA-256-Digest: c/qRAApmlobH3nBOFNRM+swcGSGWO439fS6zcbCzRjk=
+
+Name: assets/carrier_config_carrierid_1997_TrueMove-H-4G-LTE.xml
+SHA-256-Digest: Baz64MXt1RR2/oi86ECSm7Nijy1K8yLVuezCQ9EZ15s=
+
+Name: assets/carrier_config_carrierid_1_T-Mobile-US.xml
+SHA-256-Digest: M7VcUYFD9jwl/zoRZr7rDVFuWs6okIXXd3ehc5f+j20=
+
+Name: assets/carrier_config_carrierid_2002_Uninor.xml
+SHA-256-Digest: u7C+mr4T7XoZz8vbahgdezFDOe+TP0mKzkqBS8r07lw=
+
+Name: assets/carrier_config_carrierid_2005_NRJ-Mobile.xml
+SHA-256-Digest: 7DLyAEQEJ/1/LH7cAjC1o2KiI7oc1PgJdLs4lj0yaPw=
+
+Name: assets/carrier_config_carrierid_2008_Videotron.xml
+SHA-256-Digest: r/prT+a0ae4USsyXCGXkG0fQFjXzsEq4ID5VD9QwjfA=
+
+Name: assets/carrier_config_carrierid_2011_Inland-Cellular.xml
+SHA-256-Digest: 5mZKj4oVJNubHpK5SVQjYtcxtWvAMAEseYskKqDwgeE=
+
+Name: assets/carrier_config_carrierid_2018_Reliance-Jio.xml
+SHA-256-Digest: nK7fy3/0hcmtfcmnRxHgk6dhupYziSWxmo7WVqPRCDo=
+
+Name: assets/carrier_config_carrierid_2020_Koodo-Mobile.xml
+SHA-256-Digest: n81+8TpOXBc/5dAtamgzLozELF4HeM1kuvaPFcATwKk=
+
+Name: assets/carrier_config_carrierid_2021_Virgin-Mobile-Canada.xml
+SHA-256-Digest: ucSEPnfm1gVippinJokJgQKoAY+dQlaW17YW6UonOYM=
+
+Name: assets/carrier_config_carrierid_2032_XFINIY-Mobile.xml
+SHA-256-Digest: cY5vVobXm0VN/Fjd/t9x9IN1wEOdvttrrFX7j0WyyaI=
+
+Name: assets/carrier_config_carrierid_2043_UPC.xml
+SHA-256-Digest: jK2cJsQsoR1q1zWLRWLJlRYl15qt5YJkAILW4Wa28xQ=
+
+Name: assets/carrier_config_carrierid_2055_Chatr-Mobile.xml
+SHA-256-Digest: 2nUowCUfr4EnSKQjndmc/QZiROOZPRkYRYVT+0i623E=
+
+Name: assets/carrier_config_carrierid_2088_Crnogorski-Telekom.xml
+SHA-256-Digest: sU4UM71qCTA7/w4OPJRgszwa+BmQkLcrgoaze6NgzY8=
+
+Name: assets/carrier_config_carrierid_2093_Tesco.xml
+SHA-256-Digest: IrD7qTeXos6sg3gdoVNDczDFcZGOyS/LmZOLqhpVwxk=
+
+Name: assets/carrier_config_carrierid_20_Vodafone.xml
+SHA-256-Digest: YJvhPqGC3uhQ97mvsr1rq9QDvkI7gThAy2L//vU4LKE=
+
+Name: assets/carrier_config_carrierid_2101_BT.xml
+SHA-256-Digest: nDpjA6zMtuH/osaZxjaq+APOxaDAOeq9lCcKL4TYq5Y=
+
+Name: assets/carrier_config_carrierid_2103_BT-One-Phone.xml
+SHA-256-Digest: jX+FrLDZkwEf7i4saUpLYqGJaCYUimT8WuG8NGKRJIU=
+
+Name: assets/carrier_config_carrierid_2105_Skinny.xml
+SHA-256-Digest: eOTso1NwElGthMDxznBFR3EATZ9qIpWQ7+Ijp9atCTk=
+
+Name: assets/carrier_config_carrierid_2106_IIJmio.xml
+SHA-256-Digest: zKHp22JApHcf/U116pl14hJgzUpTwa/2SeBmgcqImPc=
+
+Name: assets/carrier_config_carrierid_2109_Rakuten-Mobile.xml
+SHA-256-Digest: MXveTAX+gV6QfcbOsY6hhV2WFrE3Sdr4Ky9/kAf/FpU=
+
+Name: assets/carrier_config_carrierid_2112_Telecable.xml
+SHA-256-Digest: TvriGNfzkP7+aDNm0/l3HXfn6qBsvg6nfsGVaz83OrY=
+
+Name: assets/carrier_config_carrierid_2113_mobilR.xml
+SHA-256-Digest: MxdrIhpS0gRoubjulIi/hm/Apk4I6s87FymA3FVx85I=
+
+Name: assets/carrier_config_carrierid_2118_giffgaff.xml
+SHA-256-Digest: RXNKGNs8HveJQXb3n09E3fn20whG+gWkT8Qe7PoSnkc=
+
+Name: assets/carrier_config_carrierid_2119_FirstNet.xml
+SHA-256-Digest: 6qxUIOiVbpVbXaU5BYNOVVz6snK3Jl6JtHrpPQhGGvM=
+
+Name: assets/carrier_config_carrierid_2124_Iliad.xml
+SHA-256-Digest: Kn7mlg9A1yfoZFlLlJrts7Ue+J3OnrwpTMosXjyh44s=
+
+Name: assets/carrier_config_carrierid_2125_Simyo.xml
+SHA-256-Digest: zcCUPFY25O8uvpIv8C0sTx5Gwa45Tm5cIGWcBlRlIbs=
+
+Name: assets/carrier_config_carrierid_2127_free_re.xml
+SHA-256-Digest: +owQMRQTwcRf2VT+MUl7MhO4E/SwPZLa2Lq5QH5ps/g=
+
+Name: assets/carrier_config_carrierid_2130_ALIV_BS.xml
+SHA-256-Digest: lzMnfdjREPkMCsG5Z2VvsjaFMV59DE5Qos8bHfaK3v4=
+
+Name: assets/carrier_config_carrierid_2131_Altecom.xml
+SHA-256-Digest: 31JDgDM2fhNood1Wp5/Sh0d+SVQymQjhqx+/Zgyv9Co=
+
+Name: assets/carrier_config_carrierid_2135_Coriolis.xml
+SHA-256-Digest: u8kQ/abK/Qz6bZ/XFYeurxW7/aebDZAh1YppeGleojg=
+
+Name: assets/carrier_config_carrierid_2137_Gamma.xml
+SHA-256-Digest: mrhfx3REVkgFsEAejL3a9VX01SasmxLZmMCUCBvaAik=
+
+Name: assets/carrier_config_carrierid_2138_jump.xml
+SHA-256-Digest: bBXh+SzBC6G55/uDqn8Mrl1aplarEGvxQ5SN97fyWx4=
+
+Name: assets/carrier_config_carrierid_2139_sky.xml
+SHA-256-Digest: kp5eFCS8KJ+TJ5mo0+lLfTdztLprGsaxMiUPI5qzvrY=
+
+Name: assets/carrier_config_carrierid_2150_Telenet.xml
+SHA-256-Digest: H0VRRFJzClItinekQL57JouRpxpMCq/ce4H0TWqWqKQ=
+
+Name: assets/carrier_config_carrierid_2152_Lycamobile.xml
+SHA-256-Digest: zZTrR+4OVjmSyW2eVaG7NTLwwdv2tC/rByrTCSQQMmM=
+
+Name: assets/carrier_config_carrierid_2153_Unité.xml
+SHA-256-Digest: yP3CFWrN5bXfjQP7Ea3zA5V3eiUQ/PtDxfvwqVBeasQ=
+
+Name: assets/carrier_config_carrierid_2169_Alon-Cellular-Ltd.xml
+SHA-256-Digest: MD5T5SPUtpJJ+jfnKvjmR7Glry9cuxem5HZRQKeK+o8=
+
+Name: assets/carrier_config_carrierid_2170_Home-Cellular.xml
+SHA-256-Digest: PA3PagJpHrTpoe1NbkUSRRtqghWE9VXUqRn9uhvhfYY=
+
+Name: assets/carrier_config_carrierid_2171_Rami-Levy.xml
+SHA-256-Digest: GCAsmVWF86VzOVnm0CAcrK4IgXhPHRmwkYcQ6VpkFKA=
+
+Name: assets/carrier_config_carrierid_2216_VTR-Banda-Ancha-SA.xml
+SHA-256-Digest: 32e6K6i0X8BpF6KjeBrlQ00amdEVuZRHy+sRegXi9dM=
+
+Name: assets/carrier_config_carrierid_2237_China-Telecom.xml
+SHA-256-Digest: V7IZNik9SJNpEaVazQRBg/ppbPFRhKJzazEGN74erZA=
+
+Name: assets/carrier_config_carrierid_2250_ArgentinaNuestro.xml
+SHA-256-Digest: JDGeR/hyLIv+9koJqIRGwp3fXv96vdTQVhpIneUPTP0=
+
+Name: assets/carrier_config_carrierid_2252_EastLink.xml
+SHA-256-Digest: NEVuZzPw1HWJ3NgSQlQswyQrMQxFfTuF6610l/bzV18=
+
+Name: assets/carrier_config_carrierid_2253_ALU-Test-SIM.xml
+SHA-256-Digest: oBlKnoQWxzh8WXY5L6ZI1noaBjR0iGQXkTOS0TT2vms=
+
+Name: assets/carrier_config_carrierid_2255_NexTech-Wireless.xml
+SHA-256-Digest: GhO77p62x+t3u/hlLPjRDqJyc26jjJWBRkXoeE9yQ78=
+
+Name: assets/carrier_config_carrierid_2264_Videocon.xml
+SHA-256-Digest: Htc0OaumddBkC/oh2Ql5z1kSIrxS/+3TqP+6/fI0Tbc=
+
+Name: assets/carrier_config_carrierid_2265_STEL.xml
+SHA-256-Digest: IxfktEUKRIUeMI08aU6gh5sxxzv1dAvNnwA8g1e1Ibo=
+
+Name: assets/carrier_config_carrierid_2266_Cheers.xml
+SHA-256-Digest: DWGxcsg/C9IJeRic/DVYQt1yTDoaQdkmuus1cW5r9+4=
+
+Name: assets/carrier_config_carrierid_2279_Lowi.xml
+SHA-256-Digest: HsjiAVyGocZGE/LMMq5qCxn0nbnnITOeSXbfxvgDd10=
+
+Name: assets/carrier_config_carrierid_2288_GSC.xml
+SHA-256-Digest: ODxdwh+tMgbT9c+b/ErulkwPqTgYBy1w7qMySdA6UNM=
+
+Name: assets/carrier_config_carrierid_2310_Debitel.xml
+SHA-256-Digest: WaQqK3STfLYHi36aX9hoOo3oV/GFtyvm6cq51Rl2xPk=
+
+Name: assets/carrier_config_carrierid_2378_Vodafone.xml
+SHA-256-Digest: pPan5Am3Ub5wmzx57rRWhOgHBXGWtfkTkjxeH5s+dHo=
+
+Name: assets/carrier_config_carrierid_2386_T-Mobile.xml
+SHA-256-Digest: MbqGPHRXptpBbBFZfUYEel8ryEQLV12NvcGa/qCd3x8=
+
+Name: assets/carrier_config_carrierid_2395_Telekom.xml
+SHA-256-Digest: KUCruft5qk4v23OEVGjTQE8xUv8aIY7KI3SCfFpNQ/g=
+
+Name: assets/carrier_config_carrierid_2408_Vmax-Telecom.xml
+SHA-256-Digest: Kywpj43FtKP3qkya/nPsfcl28pxgvV7fhMxQqO7uMaY=
+
+Name: assets/carrier_config_carrierid_2409_Dishnet-Wireless.xml
+SHA-256-Digest: v92iqaZXbhH9zL58QBnvx/LTXrt8c3lPGWe5sHj0t0E=
+
+Name: assets/carrier_config_carrierid_2411_Wireless-City-Planning.xml
+SHA-256-Digest: PCM8yjqDa9xx8WhIlbSiYFSuSu8kfFsN8jj/FmkWXWw=
+
+Name: assets/carrier_config_carrierid_2412_ACeS.xml
+SHA-256-Digest: rtTpHimXPz2QqWElmABdYpAyFJaDi4upGRNATvTbFlc=
+
+Name: assets/carrier_config_carrierid_2413_TOT.xml
+SHA-256-Digest: xYTciSrwavNVXq+XZRpKmd6KaswplDPFDYPkRIFc8tI=
+
+Name: assets/carrier_config_carrierid_2414_Airtel-Wireless.xml
+SHA-256-Digest: 8vCATwDE1mESe6fOeiQIqToX9KBM41pXm8xWSV6UkD8=
+
+Name: assets/carrier_config_carrierid_2415_Fonyou-Telecom.xml
+SHA-256-Digest: rfIHGvbdWSUwtSrrAF8Wyj0hI/6Nc9O77fNtLRSmc6I=
+
+Name: assets/carrier_config_carrierid_2416_Fastweb-SpA.xml
+SHA-256-Digest: FPuzv2a/SmJ2DT9HMxATAol7h9duuGssZWT3wTA+Sog=
+
+Name: assets/carrier_config_carrierid_2417_Fizz.xml
+SHA-256-Digest: clujzHrxDMmenLtvHHSlaKtXbCRKenttxg/w3tV125Y=
+
+Name: assets/carrier_config_carrierid_25_Vodafone.xml
+SHA-256-Digest: bhMQJbVKlFF+4zJNkjQD7ciEUA1PuDROysi/UO7n12E=
+
+Name: assets/carrier_config_carrierid_26_Vodafone.xml
+SHA-256-Digest: iI2BEQyWJv/PxD17eFp2H8cPLVKjReZZviEPThtP4gU=
+
+Name: assets/carrier_config_carrierid_27_SFR.xml
+SHA-256-Digest: F/uxzUWVyg/NzdjGOtxjHL0RfjafBqO17XNUWySjO6k=
+
+Name: assets/carrier_config_carrierid_28_Vodafone.xml
+SHA-256-Digest: Bm+CW7mSrrpTyboCEE1++Ee+rBS/O2o877VftqMHyAY=
+
+Name: assets/carrier_config_carrierid_29_Vodafone.xml
+SHA-256-Digest: XP+aY82Tgar2sF5wSI7jLCZ4n/2NPWpSuZ75McHCIiU=
+
+Name: assets/carrier_config_carrierid_2_EE.xml
+SHA-256-Digest: Alol7jiTq0AL50VqVzvdtCLh3sdHvHrC0AStHggQ2w4=
+
+Name: assets/carrier_config_carrierid_30_Optus.xml
+SHA-256-Digest: m0HTSLX1bEcIwyJDdfd6OX03JZbiEy+Gc5INDuN7CX0=
+
+Name: assets/carrier_config_carrierid_32_Orange.xml
+SHA-256-Digest: 3C9t3zGdr6p9SROSVRRQkdF7yCvkiuBIOtuoNfv4P3Y=
+
+Name: assets/carrier_config_carrierid_33_TIM.xml
+SHA-256-Digest: 0+KLsJ24mYVdCpwqsfee5ePXhiTg/mT5I+R0xkVHoi8=
+
+Name: assets/carrier_config_carrierid_34_Movistar.xml
+SHA-256-Digest: 8n//Zbq1kmnzE7RUSWNC5CGBmlU3vCkisuZVRp2Snl4=
+
+Name: assets/carrier_config_carrierid_3_Telekom.xml
+SHA-256-Digest: rUS5Xs9iIqumz9vlVAtaxNI0Z7kiEKBjAgrIEjOqRt4=
+
+Name: assets/carrier_config_carrierid_4_T-Mobiletelering.xml
+SHA-256-Digest: rPf+25CBjDMW0L9DYywWSNCYAcwxtOLRAJ89Jt+4U9o=
+
+Name: assets/carrier_config_carrierid_529_Claro-BR.xml
+SHA-256-Digest: 6/DEC8+o84RER01DjRs3p8dWOaCe7UxvlOjR5kpVnk8=
+
+Name: assets/carrier_config_carrierid_530_Vivo.xml
+SHA-256-Digest: F3PJfCmXwJzAhw0qoFmId9WHRd/2Cgebs0Wi7TLhjgo=
+
+Name: assets/carrier_config_carrierid_540_Brasil-Telecom-GSM.xml
+SHA-256-Digest: XHJ6hPkYZpQxwvUJcPWgWrtcFX3yPlDNTsdXy8iemFQ=
+
+Name: assets/carrier_config_carrierid_576_Bell-Mobility.xml
+SHA-256-Digest: vnrj7GMjkGOg34avLkllOWsiUx2Ce4+Tq4V3nOu7s1E=
+
+Name: assets/carrier_config_carrierid_578_MTS-Mobility.xml
+SHA-256-Digest: e0onTyFxiRJ4iFHXpSBprBHzWU+QCNdby48V8AZtBmo=
+
+Name: assets/carrier_config_carrierid_580_Sask-Tel-Mobility.xml
+SHA-256-Digest: ai8JXPS5298AZdtCqWN2vGywcnuixnv3DqzF5ivt3QY=
+
+Name: assets/carrier_config_carrierid_5_T-Mobile.xml
+SHA-256-Digest: 5Sg62EBxN8jj1X9i9tpr3NU/LVOjOioyo6+nBIdrPYs=
+
+Name: assets/carrier_config_carrierid_678_Orange.xml
+SHA-256-Digest: uA5PvjmnmITSXSIABEeDBRZ5RsYJz4tGY+J0kL15J78=
+
+Name: assets/carrier_config_carrierid_679_Yoigo.xml
+SHA-256-Digest: 1oeFBdwqkrl30XC4CWAnBf++N8Ej+8qI4xzgEiVNzfg=
+
+Name: assets/carrier_config_carrierid_6_T-Mobile.xml
+SHA-256-Digest: LSUek6Yy60Y+c5Rq6ZLfBaMbob/H6U6MmfvdfNQdQF8=
+
+Name: assets/carrier_config_carrierid_717_Virgin.xml
+SHA-256-Digest: qD0LiW9HTzZJspKRFbRL6qzLh3Vtg+I3eutPOwoQMBc=
+
+Name: assets/carrier_config_carrierid_718_EE.xml
+SHA-256-Digest: aosg8Q+zuijJ+WKE11gsOlC7AGpoh9Mn23tV2mLBkVk=
+
+Name: assets/carrier_config_carrierid_742_Orange-Caraïbe-Mobiles.xml
+SHA-256-Digest: lIrnKOl6B770IJezMXjb+2Ceg+8s/3KledqzHfrXYEE=
+
+Name: assets/carrier_config_carrierid_767_中國移動香港-China-Mob
+ ile-HK.xml
+SHA-256-Digest: ypH911WKfjWh9x1cCenge/FXqICpye9KdHzBRIShrIQ=
+
+Name: assets/carrier_config_carrierid_789_Indosat-M3.xml
+SHA-256-Digest: tI8rjjEg/HZEeVLK9NANOYNdvLLys5/UegtDBoXW6Nk=
+
+Name: assets/carrier_config_carrierid_796_Partner-Communications-Co-Lt
+ d.xml
+SHA-256-Digest: UHWtVgsJQL6F6GS+bM1P7X1YljZQ0x1UBVq+x20Qgwo=
+
+Name: assets/carrier_config_carrierid_7_T-Mobile.xml
+SHA-256-Digest: Nn1ZjPqAPP5YWRLcqucw9RuHKepiHcHJA4LSmfL+U3Q=
+
+Name: assets/carrier_config_carrierid_802_Idea.xml
+SHA-256-Digest: kqduq2M/Lr3E+fUd/uNiu/XKiXxjrRKkhNvwG/+FxyE=
+
+Name: assets/carrier_config_carrierid_850_NTT_DOCOMO.xml
+SHA-256-Digest: xRhFTLRU+1CN4iKg7Qq2aZnofXsBR9PpAtbBCzcRoGY=
+
+Name: assets/carrier_config_carrierid_897_Orange.xml
+SHA-256-Digest: x/H19t9kpa8zlZ7UjuLlYd0yU9cGG9579oastJq/l4A=
+
+Name: assets/carrier_config_carrierid_8_Magyar-Telekom.xml
+SHA-256-Digest: P3Qw3dlkhToKH3bE/ew9+azFk5g658hMvRPErkiTG6Q=
+
+Name: assets/carrier_config_carrierid_902_Méditélécom.xml
+SHA-256-Digest: fumPfx/ZP1vXHQrCOvRiDkcmvL11bdPzVMWkd16Vzzc=
+
+Name: assets/carrier_config_carrierid_958_Telenor.xml
+SHA-256-Digest: 11T1np1PtN8fai1ycMboik7pgcl3nwDCgNBOWT+K0w0=
+
+Name: assets/carrier_config_carrierid_959_Telia.xml
+SHA-256-Digest: XCtb0h+OWBLgm0oEmndqpp/QD1OxMwErHD12rpAKe1U=
+
+Name: assets/carrier_config_carrierid_968_Spark-NZ.xml
+SHA-256-Digest: yBkpha2755TSnOjR8mA1OYInBZRyEwjzSria5kEkZr0=
+
+Name: assets/carrier_config_carrierid_969_2degrees.xml
+SHA-256-Digest: cHMuieyedO8Es+b5/Ezs0Wq/FYlwLQU7KpCqDeaHzUU=
+
+Name: assets/carrier_config_carrierid_9_Hrvaski-Telekom.xml
+SHA-256-Digest: HkcsCOxTDcTexZ4FbaA+mAOqdKOCmtE1oRmDZcbkUyY=
+
+Name: assets/carrier_config_mccmnc_001001.xml
+SHA-256-Digest: D0kD2u3A24Khl27qVNMwU107Zc2RBDQD5wcEEH19uLc=
+
+Name: assets/carrier_config_mccmnc_00101.xml
+SHA-256-Digest: CdnbD1SfF7pwPKuDoO4PRbKcLvked8p2/4n4RhZK+mw=
+
+Name: assets/carrier_config_mccmnc_001010.xml
+SHA-256-Digest: NYRFKOkkr64CrLJILx8KsZ7loW5Gjj52+zWU8nGO0Uk=
+
+Name: assets/carrier_config_mccmnc_20820.xml
+SHA-256-Digest: zC3QUv48N2REwoH/03zfiBZ1pzvgBegeISJNpbAFRws=
+
+Name: assets/carrier_config_mccmnc_21406.xml
+SHA-256-Digest: 4M48Pr2/dhSlaVVSPS+NYJqhzhZGDhQzH1Gcv96OKKA=
+
+Name: assets/carrier_config_mccmnc_21409.xml
+SHA-256-Digest: AttTeSMfbjhbStF5L197zYUTrN6pnkr/V0cGrB6+7qE=
+
+Name: assets/carrier_config_mccmnc_21410.xml
+SHA-256-Digest: SQ4x+2Q8DOTJpsWU3Fp40DaeCDDZwnDT1l2sS0fWxMQ=
+
+Name: assets/carrier_config_mccmnc_21411.xml
+SHA-256-Digest: 5b5RLQR+Rv1T2zj453qw4c/BTLcrl839N91TdLpN6c0=
+
+Name: assets/carrier_config_mccmnc_21415.xml
+SHA-256-Digest: +gETSlro4VnvT481fduMP1uxn6H/TBJ6ZPQ9pPxsqhg=
+
+Name: assets/carrier_config_mccmnc_21417.xml
+SHA-256-Digest: i/jrf5UburRNLwi6Wpx72bfioYn+HqWqKytEeP6m2bs=
+
+Name: assets/carrier_config_mccmnc_21422.xml
+SHA-256-Digest: ugsk6hiaQN1Ji51c3ZxI697jM2EedDC9+EyMVPYRqno=
+
+Name: assets/carrier_config_mccmnc_23207.xml
+SHA-256-Digest: JVfORyumnBrTFx4vfSQf+Sz/3FvM7QbLsFExwizGd+4=
+
+Name: assets/carrier_config_mccmnc_23427.xml
+SHA-256-Digest: R29d2OvfK3c9LLa6YE9c3BaYQpOYvQ+NgBIhXY4YW0Y=
+
+Name: assets/carrier_config_mccmnc_23431.xml
+SHA-256-Digest: 3wHt8E0/T1ZbHCahuIoU/BON/Xn3NmQxSCjG/zm2n68=
+
+Name: assets/carrier_config_mccmnc_23432.xml
+SHA-256-Digest: kL90yrF7VkdbisH7gv7d1DN0Qlia0eyFcNbZgMwfT/I=
+
+Name: assets/carrier_config_mccmnc_23434.xml
+SHA-256-Digest: 4QvjJTe5dH48SGh2AihBDrVtPOrx9VMQmrd5XJk1rUI=
+
+Name: assets/carrier_config_mccmnc_24024.xml
+SHA-256-Digest: lhH5VW5ajGUq13T9DzDfG9+vKOTxxR05ZV1RAXTcQSs=
+
+Name: assets/carrier_config_mccmnc_246081.xml
+SHA-256-Digest: 9MmPkvC6vArqa+8Gxwf7y3DhoOpmJUz+EaxBO3rCbno=
+
+Name: assets/carrier_config_mccmnc_26801.xml
+SHA-256-Digest: FyeaMedf4PVIzDud8wcvUlGVjAe5Sjsu3/OmtfJQmm0=
+
+Name: assets/carrier_config_mccmnc_310980.xml
+SHA-256-Digest: 2GF1KkhFB+Xfnjpex6ntYrx14lRNYFV3HqvS6/LzQ3k=
+
+Name: assets/carrier_config_mccmnc_311012.xml
+SHA-256-Digest: 8JLE7A8++9XZ2K+yDhqhxlkJi6GWeRzuKaCtfNZ8jIo=
+
+Name: assets/carrier_config_mccmnc_311480.xml
+SHA-256-Digest: EDY+PuD2uEWn+ElNQTxIu/gqCHyCs7ier8ZYv1Z7Bxg=
+
+Name: assets/carrier_config_mccmnc_44120.xml
+SHA-256-Digest: jNTvKFuICZ0jmEwbInrBX9CzEF4+t18Lx3WN01yArTc=
+
+Name: assets/carrier_config_mccmnc_45000.xml
+SHA-256-Digest: 7+fESLhzyPMdsaJ9zVtfqZg/aA9lZ0x7zAMqT34relw=
+
+Name: assets/carrier_config_mccmnc_46610.xml
+SHA-256-Digest: GoZXnAsnD6Bmd+ZH7dXsoLLyfsoor+lVYqUNFfJ2jsI=
+
+Name: assets/carrier_config_mccmnc_46656.xml
+SHA-256-Digest: sKBXq48WXMrR7IagT7ID/4CaNAsVl3sD4HV+MJyUAbY=
+
+Name: assets/carrier_config_mccmnc_46668.xml
+SHA-256-Digest: m0lAQpb+m8/wjJCFn7SLWUoKkrIdwLhLWK7GTphAncU=
+
+Name: assets/carrier_config_mccmnc_50501.xml
+SHA-256-Digest: IcMEYDULSol+czhNIdeFov/boI54dX+PKiYPRFyhhfw=
+
+Name: assets/carrier_config_mccmnc_50571.xml
+SHA-256-Digest: AX7ytBeSkk6jD8srSOK+Ehn4KNN2klv3EhrgjWNkiRo=
+
+Name: assets/carrier_config_mccmnc_50572.xml
+SHA-256-Digest: M94scTPt2V8En+wNSZw7/ZPGuqDRmFO7DTqitCxfwRk=
+
+Name: assets/carrier_config_mccmnc_52023.xml
+SHA-256-Digest: xEBgq3VCG4gUO/eat8uEe1BbP5hhD+KWPopl7s787Rc=
+
+Name: assets/carrier_config_mccmnc_52025.xml
+SHA-256-Digest: 7iYR0I6agioShF8J/woEGmaGCpei7xZwgy1tQW9ulkA=
+
+Name: assets/carrier_config_mccmnc_53024.xml
+SHA-256-Digest: LpIDnt42m5JXgVTP44G7Zn8HeWyVtMXLcYgG8BaZiyQ=
+
+Name: classes.dex
+SHA-256-Digest: F9pvF2LLr/xByMUyARoPNesmXsGJmYEl5dMxfxLkeBw=
+
+Name: res/xml/coloros_carrier_config_common.xml
+SHA-256-Digest: +FKGKOI9/aV10mVPdqGvJurXKT3cWtMoHII7JPup1X8=
+
+Name: res/xml/vendor.xml
+SHA-256-Digest: OXEOvOxpma01honSul9LNPhIdMD2Un/mYWOgMDLi6+8=
+
+Name: res/xml/vendor_oppo.xml
+SHA-256-Digest: PBsFT2N91B7Y54grn7wQdTtkR8HNOOuQUqjYPmSagBs=
+
+Name: res/xml/vendor_oppo_test.xml
+SHA-256-Digest: vEMjxSDEcB8Qv6zG2t4TafjXO0h845eQtr3SvcN7u5A=
+
+Name: resources.arsc
+SHA-256-Digest: PTZSRTVV3BHXFObX9cL8I5H6+BuFpQSjBqai7LLYksk=
+

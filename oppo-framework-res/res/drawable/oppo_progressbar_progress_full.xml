@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nine-patch android:src="@drawable/oppo_progressbar_progress_full_raw" android:tint="?colorTintControlNormal"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

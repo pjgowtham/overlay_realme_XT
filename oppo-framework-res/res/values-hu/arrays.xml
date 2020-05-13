@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="color_week_day_long">
+        <item>Vas</item>
+        <item>Hét</item>
+        <item>Ked</item>
+        <item>Sze</item>
+        <item>Csü</item>
+        <item>Pén</item>
+        <item>Szo</item>
+    </string-array>
+    <string-array name="color_week_day_short">
+        <item>Vas</item>
+        <item>Hétfő</item>
+        <item>Kedd</item>
+        <item>Szerda</item>
+        <item>Csütörtök</item>
+        <item>Péntek</item>
+        <item>Szo</item>
+    </string-array>
+    <string-array name="oppo_permissions_prompt">
+        <item>hívás, engedélyezi?</item>
+        <item>hívásnaplók olvasása, engedélyezi?</item>
+        <item>kapcsolattartók olvasása, engedélyezi?</item>
+        <item>SMS-listák olvasása, engedélyezi?</item>
+        <item>SMS küldése, engedélyezi?</item>
+        <item>MMS küldése, engedélyezi?</item>
+        <item>adatkapcsolat be-/kikapcsolása, engedélyezi?</item>
+        <item>Wi-Fi be-/kikapcsolása, engedélyezi?</item>
+        <item>Bluetooth be-/kikapcsolása, engedélyezi?</item>
+        <item>GPS használata (az alkalmazás más módon is hozzáférhet a helyinformációihoz), engedélyezi?</item>
+        <item>kamera használata, engedélyezi?</item>
+        <item>rögzítés és hívások rögzítése, engedélyezi?</item>
+        <item>NFC be-/kikapcsolása, engedélyezi?</item>
+        <item>hívásnaplók írása vagy törlése, engedélyezi?</item>
+        <item>kapcsolattartók írása és törlése, engedélyezi?</item>
+        <item>SMS-listák írása és törlése, engedélyezi?</item>
+        <item>MMS-listák írása vagy törlése, engedélyezi?</item>
+        <item>MMS-listák olvasása, engedélyezi?</item>
+    </string-array>
+    <string-array name="oppo_time_picker_ampm">
+        <item>DE</item>
+        <item>DU</item>
+    </string-array>
+    <string-array name="oppo_data_not_enough_array">
+        <item>Folytatás tisztítással</item>
+        <item>Átvitel SD-kártyára</item>
+        <item>Mégsem</item>
+    </string-array>
+    <string-array name="oppo_data_full_array">
+        <item>Telefon tárhely tisztítás</item>
+        <item>Alkalmazások eltávolítása</item>
+        <item>Mégsem</item>
+    </string-array>
+    <string-array name="color_solor_mounth">
+        <item>Január</item>
+        <item>Február</item>
+        <item>Március</item>
+        <item>Április</item>
+        <item>Május</item>
+        <item>Június</item>
+        <item>Július</item>
+        <item>Augusztus</item>
+        <item>Szeptember</item>
+        <item>Október</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+    <string-array name="color_resolver_target_pin">
+        <item>Kitűzés felülre</item>
+        <item>Alkalmazásinformációk megtekintése</item>
+    </string-array>
+    <string-array name="color_resolver_target_unpin">
+        <item>Rögzítés feloldása</item>
+        <item>Alkalmazásinformációk megtekintése</item>
+    </string-array>
+</resources>

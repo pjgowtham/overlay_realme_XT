@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="color_week_day_long">
+        <item>Domingo</item>
+        <item>Luns</item>
+        <item>Martes</item>
+        <item>Mércores</item>
+        <item>Xoves</item>
+        <item>Venres</item>
+        <item>Sábado</item>
+    </string-array>
+    <string-array name="color_week_day_short">
+        <item>Dom</item>
+        <item>Lun</item>
+        <item>Mar</item>
+        <item>Mér</item>
+        <item>Xov</item>
+        <item>Ven</item>
+        <item>Sáb</item>
+    </string-array>
+    <string-array name="oppo_permissions_prompt">
+        <item>chamar, permítelo?</item>
+        <item>ler rexist. cham., permítelo?</item>
+        <item>ler contactos, permítelo?</item>
+        <item>ler rexist. SMS, permítelo?</item>
+        <item>ler SMS, permítelo?</item>
+        <item>enviar SMS, permítelo?</item>
+        <item>act./desact. conex. datos, permítelo?</item>
+        <item>act./desact. Wi-Fi, permítelo?</item>
+        <item>acti./desact. bluetooth, permítelo?</item>
+        <item>usar GPS (a ap. tamén pode obter a túa info de localizac. doutra forma), permítelo?</item>
+        <item>usar cámara, permítelo?</item>
+        <item>gravar e rexistrar chamad., permítelo?</item>
+        <item>activ./desact. NFC, permítelo?</item>
+        <item>escr. ou elim. rexist. cham., permítelo?</item>
+        <item>escrib. e elimim. contactos, permítelo?</item>
+        <item>escr. ou elim. rexist. SMS, permítelo?</item>
+        <item>escr. ou elim. rexist. MMS, permítelo?</item>
+        <item>ler rexist. MMS, permítelo?</item>
+    </string-array>
+    <string-array name="oppo_time_picker_ampm">
+        <item>a.m.</item>
+        <item>p.m.</item>
+    </string-array>
+    <string-array name="oppo_data_not_enough_array">
+        <item>Realizar unha limpeza</item>
+        <item>Transferir á tarxeta SD</item>
+        <item>Cancelar</item>
+    </string-array>
+    <string-array name="oppo_data_full_array">
+        <item>Limpeza do tel.</item>
+        <item>Desinstal. apl.</item>
+        <item>Cancelar</item>
+    </string-array>
+    <string-array name="color_solor_mounth">
+        <item>xaneiro</item>
+        <item>febreiro</item>
+        <item>marzo</item>
+        <item>abril</item>
+        <item>maio</item>
+        <item>xuño</item>
+        <item>xullo</item>
+        <item>agosto</item>
+        <item>setembro</item>
+        <item>outubro</item>
+        <item>novembro</item>
+        <item>decembro</item>
+    </string-array>
+    <string-array name="color_resolver_target_pin">
+        <item>Anco. arr.</item>
+        <item>Ver datos ap.</item>
+    </string-array>
+    <string-array name="color_resolver_target_unpin">
+        <item>Desanc.</item>
+        <item>Ver datos ap.</item>
+    </string-array>
+</resources>

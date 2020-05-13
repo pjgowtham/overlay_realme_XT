@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@android:id/typeTouchExplorationGestureEnd" android:background="@drawable/oppo_notification_bg_divider" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:internal="http://schemas.android.com/apk/prv/res/android">
+    <ImageView android:layout_gravity="bottom" android:id="@android:id/button_holder" android:layout_width="fill_parent" android:layout_height="192.0dip" android:layout_marginTop="64.0dip" android:scaleType="centerCrop" />
+    <include android:layout_width="fill_parent" android:layout_height="wrap_content" layout="@layout/oppo_notification_template_base" />
+    <FrameLayout android:layout_gravity="bottom" android:background="#99111111" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="219.0dip" android:paddingStart="52.0dip">
+        <include android:layout_gravity="end|bottom|center" android:id="@android:id/aerr_wait" android:layout_width="fill_parent" android:layout_height="37.0dip" layout="@layout/oppo_notification_action_list" />
+    </FrameLayout>
+</FrameLayout>

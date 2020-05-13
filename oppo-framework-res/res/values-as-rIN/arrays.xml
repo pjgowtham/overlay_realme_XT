@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="color_week_day_long">
+        <item>সূর্য</item>
+        <item>সোম</item>
+        <item>মঙল</item>
+        <item>বুধ</item>
+        <item>বৃহস্পতি</item>
+        <item>শুক্র</item>
+        <item>শনি</item>
+    </string-array>
+    <string-array name="color_week_day_short">
+        <item>দেও</item>
+        <item>সোমবাৰ</item>
+        <item>মঙলবাৰ</item>
+        <item>বুধবাৰ</item>
+        <item>বৃহস্পতিবাৰ</item>
+        <item>শুক্রবাৰ</item>
+        <item>শনি</item>
+    </string-array>
+    <string-array name="oppo_permissions_prompt">
+        <item>কল, আপুনি অনুমতি দিবনে?</item>
+        <item>কল লগ পঢ়ক, আপুনি অনুমতি দিবনে?</item>
+        <item>সম্পৰ্কসমূহ পঢ়ক, আপুনি অনুমতি দিবনে?</item>
+        <item>SMS লগ পঢ়ক, আপুনি অনুমতি দিবনে?</item>
+        <item>SMS প্ৰেৰণ কৰক, আপুনি অনুমতি দিবনে?</item>
+        <item>MMS প্ৰেৰণ কৰক, আপুনি অনুমতি দিবনে?</item>
+        <item>ডাটা সংযোগ অন/অফ কৰক, আপুনি অনুমতি দিবনে?</item>
+        <item>Wi-Fi অন/অফ কৰক, আপুনি অনুমতি দিবনে?</item>
+        <item>bluetooth অন/অফ কৰক, আপুনি অনুমতি দিবনে?</item>
+        <item>GPS ব্যৱহাৰ কৰক (এপ্পটোৱেও অন্য মাধ্যমেৰে আপোনাৰ অৱস্থান তথ্য লাভ কৰিব পাৰে), আপুনি অনুমতি দিবনে?</item>
+        <item>কেমেৰা ব্যৱহাৰ কৰক, আপুনি অনুমতি দিবনে?</item>
+        <item>ৰেকৰ্ড কৰক আৰু কলসমূহ ৰেকৰ্ড কৰক, আপুনি অনুমতি দিবনে?</item>
+        <item>NFC অন/অফ কৰক, আপুনি অনুমতি দিবনে?</item>
+        <item>কল লগসমূহ লিখক বা বিলোপ কৰক, আপুনি অনুমতি দিবনে?</item>
+        <item>সম্পৰ্কসমূহ লিখক আৰু বিলোপ কৰক, আপুনি অনুমতি দিবনে?</item>
+        <item>SMS লগসমূহ লিখক আৰু বিলোপ কৰক, আপুনি অনুমতি দিবনে?</item>
+        <item>MMS লগসমূহ লিখক আৰু বিলোপ কৰক, আপুনি অনুমতি দিবনে?</item>
+        <item>MMS লগ পঢ়ক, আপুনি অনুমতি দিবনে?</item>
+    </string-array>
+    <string-array name="oppo_time_picker_ampm">
+        <item>পূৰ্বাহ্ন</item>
+        <item>মধ্যাহ্ন</item>
+    </string-array>
+    <string-array name="oppo_data_not_enough_array">
+        <item>পৰিষ্কাৰ কৰিবলৈ আগবাঢ়ক</item>
+        <item>SD কার্ডলৈ ট্ৰান্সফাৰ কৰক</item>
+        <item>বাতিল কৰক</item>
+    </string-array>
+    <string-array name="oppo_data_full_array">
+        <item>ফোন পৰিষ্কাৰ</item>
+        <item>এপ্প্‌সমূহ আনইনষ্টল কৰক</item>
+        <item>বাতিল কৰক</item>
+    </string-array>
+    <string-array name="color_solor_mounth">
+        <item>জানুৱাৰি</item>
+        <item>ফেব্রৱাৰী</item>
+        <item>মার্চ</item>
+        <item>এপ্রিল</item>
+        <item>মে</item>
+        <item>জুন</item>
+        <item>জুলাই</item>
+        <item>আগস্ত</item>
+        <item>চেপ্তেম্বৰ</item>
+        <item>অক্টোবৰ</item>
+        <item>নবেম্বৰ</item>
+        <item>ডিচেম্বৰ</item>
+    </string-array>
+    <string-array name="color_resolver_target_pin">
+        <item>শীৰ্ষত পিন কৰক</item>
+        <item>এপ্পৰ বিশদ-বিৱৰণ দৰ্শন কৰক</item>
+    </string-array>
+    <string-array name="color_resolver_target_unpin">
+        <item>আনপিন</item>
+        <item>এপ্পৰ বিশদ-বিৱৰণ দৰ্শন কৰক</item>
+    </string-array>
+</resources>

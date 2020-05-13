@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="color_week_day_long">
+        <item>Paz</item>
+        <item>Pzt</item>
+        <item>Sal</item>
+        <item>Çar</item>
+        <item>Per</item>
+        <item>Cum</item>
+        <item>Cmt</item>
+    </string-array>
+    <string-array name="color_week_day_short">
+        <item>Paz</item>
+        <item>Pazartesi</item>
+        <item>Salı</item>
+        <item>Çarşamba</item>
+        <item>Perşembe</item>
+        <item>Cuma</item>
+        <item>Cmt</item>
+    </string-array>
+    <string-array name="oppo_permissions_prompt">
+        <item>çağrı, izin veriyor musunuz?</item>
+        <item>çağrı kayıtlarını oku, izin veriyor musunuz?</item>
+        <item>kişileri oku, izin veriyor musunuz?</item>
+        <item>SMS kayıtlarını oku, izin veriyor musunuz?</item>
+        <item>SMS gönder, izin veriyor musunuz?</item>
+        <item>MMS gönder, izin veriyor musunuz?</item>
+        <item>veri bağlantısını aç/kapat, izin veriyor musunuz?</item>
+        <item>Wi-Fi bağlantısını aç/kapat, izin veriyor musunuz?</item>
+        <item>bluetooth bağlantısını aç/kapat, izin veriyor musunuz?</item>
+        <item>GPS kullan (uygulama konum bilginizi başka yollarla da elde edebilir), izin veriyor musunuz?</item>
+        <item>kamera kullan, izin veriyor musunuz?</item>
+        <item>kaydet ve çağrıları kaydet, izin veriyor musunuz?</item>
+        <item>NFC bağlantısını aç/kapat, izin veriyor musunuz?</item>
+        <item>çağrı kayıtlarını yaz ya da sil, izin veriyor musunuz?</item>
+        <item>kişileri yaz ve sil, izin veriyor musunuz?</item>
+        <item>SMS kayıtlarını yaz ve sil, izin veriyor musunuz?</item>
+        <item>MMS kayıtlarını yaz ya da sil, izin veriyor musunuz?</item>
+        <item>MMS kayıtlarını oku, izin veriyor musunuz?</item>
+    </string-array>
+    <string-array name="oppo_time_picker_ampm">
+        <item>ÖÖ</item>
+        <item>ÖS</item>
+    </string-array>
+    <string-array name="oppo_data_not_enough_array">
+        <item>Temizlemeye Geç</item>
+        <item>SD Karta Transfer Et</item>
+        <item>Vazgeç</item>
+    </string-array>
+    <string-array name="oppo_data_full_array">
+        <item>Telefon Temizleme</item>
+        <item>Uygulamaları Kaldır</item>
+        <item>Vazgeç</item>
+    </string-array>
+    <string-array name="color_solor_mounth">
+        <item>Ocak</item>
+        <item>Şubat</item>
+        <item>Mart</item>
+        <item>Nisan</item>
+        <item>Mayıs</item>
+        <item>Haziran</item>
+        <item>Temmuz</item>
+        <item>Ağustos</item>
+        <item>Eylül</item>
+        <item>Ekim</item>
+        <item>Kasım</item>
+        <item>Aralık</item>
+    </string-array>
+    <string-array name="color_resolver_target_pin">
+        <item>En Üstte Tut</item>
+        <item>Uygulama Detaylarını Görüntüle</item>
+    </string-array>
+    <string-array name="color_resolver_target_unpin">
+        <item>İliştirmeyi kaldır</item>
+        <item>Uygulama Detaylarını Görüntüle</item>
+    </string-array>
+</resources>

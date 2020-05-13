@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="color_week_day_long">
+        <item>ທິດ</item>
+        <item>ຈັນ</item>
+        <item>ຄານ</item>
+        <item>ພຸດ</item>
+        <item>ພະຫັດ</item>
+        <item>ສຸກ</item>
+        <item>ເສົາ</item>
+    </string-array>
+    <string-array name="color_week_day_short">
+        <item>ວັນອາທິດ</item>
+        <item>ວັນຈັນ</item>
+        <item>ວັນອັງຄານ</item>
+        <item>ວັນພຸດ</item>
+        <item>ວັນພະຫັດ</item>
+        <item>ວັນສຸກ</item>
+        <item>ວັນເສົາ</item>
+    </string-array>
+    <string-array name="oppo_permissions_prompt">
+        <item>ທໍາການໂທ, ທ່ານອະນຸຍາດບໍ?</item>
+        <item>ອ່ານບັນທຶກການໂທ, ທ່ານອະນຸຍາດບໍ?</item>
+        <item>ອ່ານລາຍຊື່, ທ່ານອະນຸຍາດບໍ?</item>
+        <item>ອ່ານບັນທຶກ SMS, ທ່ານອະນຸຍາດບໍ?</item>
+        <item>ສົ່ງ SMS , ທ່ານອະນຸຍາດບໍ?</item>
+        <item>ສົ່ງ MMS, ທ່ານອະນຸຍາດບໍ?</item>
+        <item>ທໍາການເປີດ/ປິດ ການເຊື່ອມຕໍ່ຂໍ້ມູນ, ທ່ານອະນຸຍາດບໍ?</item>
+        <item>ທໍາການເປີດ/ປິດ Wi-Fi, ທ່ານອະນຸຍາດບໍ?</item>
+        <item>ທໍາການເປີດ/ປິດ Bluetooth, ທ່ານອະນຸຍາດບໍ?</item>
+        <item>ໃຊ້ງານ GPS (ແອັບຍັງສາມາດຮັບເອົາຂໍ້ມູນທີ່ຕັ້ງຂອງທ່ານດ້ວຍວິທີການອື່ນໆໄດ້ອີກ), ທ່ານອະນຸຍາດບໍ?</item>
+        <item>ໃຊ້ງານກ້ອງຖ່າຍຮູບ, ທ່ານອະນຸຍາດບໍ?</item>
+        <item>ອັດບັນທຶກ ແລະ ບັນທຶກການໂທ, ທ່ານອະນຸຍາດບໍ?</item>
+        <item>ທໍາການເປີດ/ປິດ NFC, ທ່ານອະນຸຍາດບໍ?</item>
+        <item>ຂຽນ ຫຼື ລຶບບັນທຶກການໂທ, ທ່ານອະນຸຍາດບໍ?</item>
+        <item>ຂຽນ ແລະ ລຶບລາຍຊື່, ທ່ານອະນຸຍາດບໍ?</item>
+        <item>ຂຽນ ແລະ ລຶບບັນທຶກ SMS, ທ່ານອະນຸຍາດບໍ?</item>
+        <item>ຂຽນ ຫຼື ລຶບບັນທຶກ MMS, ທ່ານອະນຸຍາດບໍ?</item>
+        <item>ອ່ານບັນທຶກ MMS, ທ່ານອະນຸຍາດບໍ?</item>
+    </string-array>
+    <string-array name="oppo_time_picker_ampm">
+        <item>ໂມງເຊົ້າ</item>
+        <item>ໂມງແລງ</item>
+    </string-array>
+    <string-array name="oppo_data_not_enough_array">
+        <item>​ດຳ​ເນີນ​ການ​ເພື່ອ​ອະ​ນາ​ໄມ</item>
+        <item>ໂອນຍ້າຍໄປໃສ່ແຜ່ນຄວາມ​ຈຳ SD</item>
+        <item>ຍົກເລີກ</item>
+    </string-array>
+    <string-array name="oppo_data_full_array">
+        <item>ການອະນາໄມໂທລະສັບ</item>
+        <item>ຖອນຕິດຕັ້ງແອັບ</item>
+        <item>ຍົກເລີກ</item>
+    </string-array>
+    <string-array name="color_solor_mounth">
+        <item>ມັງກອນ</item>
+        <item>ກຸມພາ</item>
+        <item>ມີນາ</item>
+        <item>ເມສາ</item>
+        <item>ພຶດສະພາ</item>
+        <item>ມິຖຸນາ</item>
+        <item>ກໍລະກົດ</item>
+        <item>ສິງຫາ</item>
+        <item>ກັນຍາ</item>
+        <item>ຕຸລາ</item>
+        <item>ພະຈິກ</item>
+        <item>ທັນວາ</item>
+    </string-array>
+    <string-array name="color_resolver_target_pin">
+        <item>ປັກໝູດໃສ່ສ່ວນເທິງ</item>
+        <item>ເບິ່ງລາຍລະອຽດຂອງແອັບ</item>
+    </string-array>
+    <string-array name="color_resolver_target_unpin">
+        <item>ຖອນປັກໝຸດ</item>
+        <item>ເບິ່ງລາຍລະອຽດຂອງແອັບ</item>
+    </string-array>
+</resources>

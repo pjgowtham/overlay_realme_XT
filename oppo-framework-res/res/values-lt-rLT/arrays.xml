@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="color_week_day_long">
+        <item>Sekmadienis</item>
+        <item>Pirmadienis</item>
+        <item>Antradienis</item>
+        <item>Trečiadienis</item>
+        <item>Ketvirtadienis</item>
+        <item>Penktadienis</item>
+        <item>Šeštadienis</item>
+    </string-array>
+    <string-array name="color_week_day_short">
+        <item>Sek</item>
+        <item>Pir</item>
+        <item>Ant</item>
+        <item>Tre</item>
+        <item>Ket</item>
+        <item>Pen</item>
+        <item>Šeš</item>
+    </string-array>
+    <string-array name="oppo_permissions_prompt">
+        <item>skambinti, ar leidžiate?</item>
+        <item>skaityti skambučių žurnalus, ar leidžiate?</item>
+        <item>skaityti adresatus, ar leidžiate?</item>
+        <item>skaityti SMS žinučių žurnalus, ar leidžiate?</item>
+        <item>siųsti SMS žinutes, ar leidžiate?</item>
+        <item>siųsti MMS žinutes, ar leidžiate?</item>
+        <item>įjungti / išjungti duomenų ryšį, ar leidžiate?</item>
+        <item>įjungti / išjungti „Wi-Fi“, ar leidžiate?</item>
+        <item>įjungti / išjungti „bluetooth“, ar leidžiate?</item>
+        <item>naudoti GPS (programa taip pat gali gauti jūsų buvimo vietos informaciją kitomis priemonėmis), ar leidžiate?</item>
+        <item>naudoti fotoaparatą, ar leidžiate?</item>
+        <item>įrašyti ir įrašyti skambučius, ar leidžiate?</item>
+        <item>įjungti / išjungti NFC, ar leidžiate?</item>
+        <item>įrašyti arba ištrinti skambučių žurnalus, ar leidžiate?</item>
+        <item>įrašyti ir ištrinti adresatus, ar leidžiate?</item>
+        <item>įrašyti ir ištrinti SMS žinučių žurnalus, ar leidžiate?</item>
+        <item>įrašyti arba ištrinti MMS žinučių žurnalus, ar leidžiate?</item>
+        <item>skaityti MMS žinučių žurnalus, ar leidžiate?</item>
+    </string-array>
+    <string-array name="oppo_data_not_enough_array">
+        <item>Pereiti prie valymo</item>
+        <item>Perkelti į SD kortelę</item>
+        <item>Atšaukti</item>
+    </string-array>
+    <string-array name="oppo_data_full_array">
+        <item>Telefono valymas</item>
+        <item>Pašalinti programą</item>
+        <item>Atšaukti</item>
+    </string-array>
+    <string-array name="color_solor_mounth">
+        <item>Sausis</item>
+        <item>Vasaris</item>
+        <item>Kovas</item>
+        <item>Balandis</item>
+        <item>Gegužė</item>
+        <item>Birželis</item>
+        <item>Liepa</item>
+        <item>Rugpjūtis</item>
+        <item>Rugsėjis</item>
+        <item>Spalis</item>
+        <item>Lapkritis</item>
+        <item>Gruodis</item>
+    </string-array>
+    <string-array name="color_resolver_target_pin">
+        <item>Prisegti viršuje</item>
+        <item>Peržiūrėti programos informaciją</item>
+    </string-array>
+    <string-array name="color_resolver_target_unpin">
+        <item>Atsegti</item>
+        <item>Peržiūrėti programos informaciją</item>
+    </string-array>
+</resources>

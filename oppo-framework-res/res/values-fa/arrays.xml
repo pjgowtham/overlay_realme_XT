@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="color_week_day_long">
+        <item>یکش.</item>
+        <item>دوش.</item>
+        <item>سه‌ش.</item>
+        <item>چها.</item>
+        <item>پنج.</item>
+        <item>جمع.</item>
+        <item>شنب.</item>
+    </string-array>
+    <string-array name="color_week_day_short">
+        <item>یکشنبه</item>
+        <item>دوشنبه</item>
+        <item>سه‌شنبه</item>
+        <item>چهارشنبه</item>
+        <item>پنج‌شنبه</item>
+        <item>جمعه</item>
+        <item>شنبه</item>
+    </string-array>
+    <string-array name="oppo_permissions_prompt">
+        <item>تماس، آیا اجازه می‌دهید؟</item>
+        <item>خواندن گزارش‌های تماس، آیا اجازه می‌دهید؟</item>
+        <item>خواندن مخاطبین، آیا اجازه می‌دهید؟</item>
+        <item>خواندن گزارش‌های پیامک، آیا اجازه می‌دهید؟</item>
+        <item>ارسال پیامک، آیا اجازه می‌دهید؟</item>
+        <item>ارسال پیام چندرسانه‌ای، آیا اجازه می‌دهید؟</item>
+        <item>خاموش/روشن کردن اتصال داده، آیا اجازه می‌دهید؟</item>
+        <item>خاموش/روشن کردن Wi-Fi، آیا اجازه می‌دهید؟</item>
+        <item>خاموش/روشن کردن بلوتوث، آیا اجازه می‌دهید؟</item>
+        <item>استفاده از GPS (برنامه همچنین می‌تواند اطلاعات موقعیت مکانی شما را با روش‌های دیگری به‌دست آورد)، آیا اجازه می‌دهید؟</item>
+        <item>استفاده از دوربین، آیا اجازه می‌دهید؟</item>
+        <item>ضبط و ضبط تماس‌ها، آیا اجازه می‌دهید؟</item>
+        <item>خاموش/روشن کردن NFC، آیا اجازه می‌دهید؟</item>
+        <item>نوشتن یا حذف گزارش‌های تماس، آیا اجازه می‌دهید؟</item>
+        <item>نوشتن یا حذف مخاطبین، آیا اجازه می‌دهید؟</item>
+        <item>نوشتن و حذف گزارش‌های پیامک، آیا اجازه می‌دهید؟</item>
+        <item>نوشتن یا حذف گزارش‌های پیام چندرسانه‌ای، آیا اجازه می‌دهید؟</item>
+        <item>خواندن گزارش‌های پیام چندرسانه‌ای، آیا اجازه می‌دهید؟</item>
+    </string-array>
+    <string-array name="oppo_time_picker_ampm">
+        <item>ق.ظ</item>
+        <item>ب.ظ</item>
+    </string-array>
+    <string-array name="oppo_data_not_enough_array">
+        <item>ادامه دادن برای تمیزکردن</item>
+        <item>انتقال به کارت SD</item>
+        <item>لغو</item>
+    </string-array>
+    <string-array name="oppo_data_full_array">
+        <item>پاکسازی تلفن</item>
+        <item>حذف برنامه‌ها</item>
+        <item>لغو</item>
+    </string-array>
+    <string-array name="color_solor_mounth">
+        <item>ژانویه</item>
+        <item>فوریه</item>
+        <item>مارس</item>
+        <item>آوریل</item>
+        <item>می</item>
+        <item>ژوئن</item>
+        <item>جولای</item>
+        <item>آگوست</item>
+        <item>سپتامبر</item>
+        <item>اکتبر</item>
+        <item>نوامبر</item>
+        <item>دسامبر</item>
+    </string-array>
+    <string-array name="color_resolver_target_pin">
+        <item>الصاق در بالای صفحه</item>
+        <item>مشاهده جزییات برنامه</item>
+    </string-array>
+    <string-array name="color_resolver_target_unpin">
+        <item>جداکردن</item>
+        <item>مشاهده جزییات برنامه</item>
+    </string-array>
+</resources>

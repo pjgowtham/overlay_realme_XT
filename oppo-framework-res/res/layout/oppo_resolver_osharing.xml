@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:paddingTop="@dimen/color_resolve_dialog_oshareing_panel_padding_top_and_bottom" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="@dimen/TD05" android:textColor="@color/color_resolve_dialog_oshare_click_pic_text_color" android:layout_gravity="center_horizontal" android:id="@id/resolver_oshareing_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="6.0dip" android:text="@string/color_oshare_click_pic" />
+    <com.android.internal.widget.RecyclerView android:id="@id/resolver_oshareing_RecyclerView" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    <ImageView android:background="@color/color_resolver_oshare_divider" android:layout_width="fill_parent" android:layout_height="2.0px" android:layout_marginTop="@dimen/color_resolve_dialog_oshareing_panel_padding_top_and_bottom" android:layout_marginStart="20.0dip" android:layout_marginEnd="20.0dip" android:forceDarkAllowed="false" />
+</LinearLayout>

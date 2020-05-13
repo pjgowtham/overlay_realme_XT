@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_gravity="center_vertical" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="3.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <CheckBox android:textSize="@dimen/TF05" android:textColor="?C17" android:layout_gravity="start|center" android:id="@id/oppo_resolver_checkbox_option" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="@string/oppo_resolver_ask_no_more" android:maxLines="2" android:layout_weight="1.0" android:layout_marginStart="@dimen/M7" />
+    <LinearLayout android:layout_gravity="end|center" android:orientation="horizontal" android:id="@id/oppo_resolver_market_jump" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginStart="16.0dip">
+        <TextView android:textSize="@dimen/TF05" android:textColor="?C05" android:ellipsize="end" android:gravity="center_vertical" android:layout_width="wrap_content" android:layout_height="fill_parent" android:maxWidth="130.0dip" android:text="@string/oppo_resolver_message" android:singleLine="true" />
+        <ImageView android:gravity="center_vertical" android:layout_width="wrap_content" android:layout_height="fill_parent" android:src="@drawable/color_resolver_jump_to_market_next" android:layout_marginStart="1.0dip" android:layout_marginEnd="@dimen/M7" />
+    </LinearLayout>
+</LinearLayout>

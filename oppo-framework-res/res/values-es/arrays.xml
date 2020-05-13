@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="color_week_day_long">
+        <item>Dom</item>
+        <item>Lun</item>
+        <item>Mar</item>
+        <item>Mié</item>
+        <item>Jue</item>
+        <item>Vie</item>
+        <item>Sáb</item>
+    </string-array>
+    <string-array name="color_week_day_short">
+        <item>Domingo</item>
+        <item>Lunes</item>
+        <item>Martes</item>
+        <item>Miércoles</item>
+        <item>Jueves</item>
+        <item>Viernes</item>
+        <item>Sábado</item>
+    </string-array>
+    <string-array name="oppo_permissions_prompt">
+        <item>llamadas, ¿las permite?</item>
+        <item>leer registros de llamada, ¿lo permite?</item>
+        <item>leer contactos, ¿lo permite?</item>
+        <item>leer registros de SMS, ¿lo permite?</item>
+        <item>enviar SMS, ¿lo permite?</item>
+        <item>enviar MMS, ¿lo permite?</item>
+        <item>activar/desactivar conexión de datos, ¿lo permite?</item>
+        <item>activar/desactivar Wi-Fi, ¿lo permite?</item>
+        <item>activar/desactivar Bluetooth, ¿lo permite?</item>
+        <item>utilizar GPS (la app también puede obtener la información sobre su ubicación por otros medios), ¿lo permite?</item>
+        <item>usar la cámara, ¿lo permite?</item>
+        <item>grabación y grabar llamadas, ¿lo permite?</item>
+        <item>activar/desactivar NFC, ¿lo permite?</item>
+        <item>escribir o borrar registros de llamada, ¿lo permite?</item>
+        <item>añadir y borrar contactos, ¿lo permite?</item>
+        <item>escribir y borrar registros de SMS, ¿lo permite?</item>
+        <item>escribir o borrar registros de MMS, ¿lo permite?</item>
+        <item>leer registros de MMS, ¿lo permite?</item>
+    </string-array>
+    <string-array name="oppo_time_picker_ampm">
+        <item>a. m.</item>
+        <item>p. m.</item>
+    </string-array>
+    <string-array name="oppo_data_not_enough_array">
+        <item>Empezar a limpiar</item>
+        <item>Transferir a la tarjeta SD</item>
+        <item>Cancelar</item>
+    </string-array>
+    <string-array name="oppo_data_full_array">
+        <item>Limpieza del teléfono</item>
+        <item>Desinstalar aplicaciones</item>
+        <item>Cancelar</item>
+    </string-array>
+    <string-array name="color_solor_mounth">
+        <item>Enero</item>
+        <item>Febrero</item>
+        <item>Marzo</item>
+        <item>Abril</item>
+        <item>Mayo</item>
+        <item>Junio</item>
+        <item>Julio</item>
+        <item>Agosto</item>
+        <item>Septiembre</item>
+        <item>Octubre</item>
+        <item>Noviembre</item>
+        <item>Diciembre</item>
+    </string-array>
+    <string-array name="color_resolver_target_pin">
+        <item>Fijar arriba</item>
+        <item>Ver detalles de la aplicación</item>
+    </string-array>
+    <string-array name="color_resolver_target_unpin">
+        <item>Desanclar</item>
+        <item>Ver detalles de la aplicación</item>
+    </string-array>
+</resources>

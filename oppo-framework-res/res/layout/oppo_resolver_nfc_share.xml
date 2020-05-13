@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="horizontal" android:paddingTop="16.0dip" android:paddingBottom="23.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="75.0dip">
+        <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/oppo_resolver_nfc_icon" android:layout_marginStart="@dimen/color_resolve_dialog_oshare_icon_margin_start" android:layout_marginEnd="@dimen/color_resolve_dialog_oshare_icon_margin_end" />
+        <TextView android:textSize="@dimen/TD07" android:textColor="?C21" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/oppo_resolver_nfc" android:layout_marginEnd="@dimen/color_resolve_dialog_oshare_icon_margin_end" />
+    </LinearLayout>
+    <ImageView android:background="@color/color_resolver_oshare_divider" android:layout_width="fill_parent" android:layout_height="2.0px" android:layout_marginStart="20.0dip" android:layout_marginEnd="20.0dip" android:forceDarkAllowed="false" />
+</LinearLayout>

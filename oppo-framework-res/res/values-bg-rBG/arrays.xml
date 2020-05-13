@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="color_week_day_long">
+        <item>Нед</item>
+        <item>Пон</item>
+        <item>Вто</item>
+        <item>Сря</item>
+        <item>Чет</item>
+        <item>Пет</item>
+        <item>Съб</item>
+    </string-array>
+    <string-array name="color_week_day_short">
+        <item>Нед</item>
+        <item>Пон</item>
+        <item>Вто</item>
+        <item>Сря</item>
+        <item>Чет</item>
+        <item>Пет</item>
+        <item>Съб</item>
+    </string-array>
+    <string-array name="oppo_permissions_prompt">
+        <item>call, do you allow?</item>
+        <item>read call logs, do you allow?</item>
+        <item>read contacts, do you allow?</item>
+        <item>read SMS logs, do you allow?</item>
+        <item>send SMS , do you allow?</item>
+        <item>send MMS, do you allow?</item>
+        <item>turn data connection on/off, do you allow?</item>
+        <item>turn Wi-Fi on/off, do you allow?</item>
+        <item>turn bluetooth on/off, do you allow?</item>
+        <item>use GPS (the app can also obtain your location information by other means), do you allow?</item>
+        <item>use camera, do you allow?</item>
+        <item>record and record calls, do you allow?</item>
+        <item>turn NFC on/off, do you allow?</item>
+        <item>write or delete call logs, do you allow?</item>
+        <item>write and delete contacts, do you allow?</item>
+        <item>write and delete SMS logs, do you allow?</item>
+        <item>write or delete MMS logs, do you allow ?</item>
+        <item>read MMS logs, do you allow?</item>
+    </string-array>
+    <string-array name="oppo_time_picker_ampm">
+        <item>AM</item>
+        <item>PM</item>
+    </string-array>
+    <string-array name="oppo_data_not_enough_array">
+        <item>Продължаване към изчистването</item>
+        <item>Прехвърляне в SD картата</item>
+        <item>Отмяна</item>
+    </string-array>
+    <string-array name="oppo_data_full_array">
+        <item>Изчистване на телефона</item>
+        <item>Деинсталиране на приложение</item>
+        <item>Отмяна</item>
+    </string-array>
+    <string-array name="color_solor_mounth">
+        <item>Януари</item>
+        <item>Февруари</item>
+        <item>Март</item>
+        <item>Април</item>
+        <item>Май</item>
+        <item>Юни</item>
+        <item>Юли</item>
+        <item>Август</item>
+        <item>Септември</item>
+        <item>Октомври</item>
+        <item>Ноември</item>
+        <item>Декември</item>
+    </string-array>
+    <string-array name="color_resolver_target_pin">
+        <item>Закачване в началото</item>
+        <item>Преглед на подробности за приложението</item>
+    </string-array>
+    <string-array name="color_resolver_target_unpin">
+        <item>Откачване</item>
+        <item>Преглед на подробности за приложението</item>
+    </string-array>
+</resources>

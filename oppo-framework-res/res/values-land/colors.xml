@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color_security_password_numeric_line_color">#ff717175</color>
+    <color name="color_unlock_password_numeric_line_color">#1affffff</color>
+</resources>

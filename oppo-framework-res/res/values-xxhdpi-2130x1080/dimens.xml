@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="color_global_action_autodown_rect_height">296.0dip</dimen>
+    <dimen name="color_global_action_shutdown_text_start">115.0dip</dimen>
+    <dimen name="color_global_action_shutdown_text_end">175.0dip</dimen>
+    <dimen name="color_global_action_shutdown_bg_start">112.0dip</dimen>
+    <dimen name="color_global_action_shutdown_bg_end">174.0dip</dimen>
+    <dimen name="color_global_action_cancel_text_end">64.0dip</dimen>
+    <dimen name="color_global_action_cancel_bg_start">23.0dip</dimen>
+    <dimen name="color_global_action_cancel_bg_end">67.0dip</dimen>
+    <dimen name="color_global_action_cancel_text_start">20.0dip</dimen>
+</resources>

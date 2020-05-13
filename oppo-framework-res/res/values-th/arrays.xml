@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="color_week_day_long">
+        <item>อา.</item>
+        <item>จ.</item>
+        <item>อ.</item>
+        <item>พ.</item>
+        <item>พฤ.</item>
+        <item>ศ.</item>
+        <item>ส.</item>
+    </string-array>
+    <string-array name="color_week_day_short">
+        <item>อา.</item>
+        <item>วันจันทร์</item>
+        <item>วันอังคาร</item>
+        <item>วันพุธ</item>
+        <item>วันพฤหัสบดี</item>
+        <item>วันศุกร์</item>
+        <item>ส.</item>
+    </string-array>
+    <string-array name="color_number_keyboard_letters">
+        <item>ก-ฅ</item>
+        <item>"ABC
+ฆ-ฉ"</item>
+        <item>"DEF
+ช-ญ"</item>
+        <item>"GHI
+ฎ-ณ"</item>
+        <item>"JKL
+ด-ธ"</item>
+        <item>"MNO
+น-ฝ"</item>
+        <item>"PQRS
+พ-ย"</item>
+        <item>"TUV
+ร-ษ"</item>
+        <item>"WXYZ
+ส-ฮ"</item>
+        <item></item>
+        <item>เโะ</item>
+        <item></item>
+    </string-array>
+    <string-array name="oppo_permissions_prompt">
+        <item>คุณอนุญาตให้โทรไหม</item>
+        <item>คุณอนุญาตให้อ่านบันทึกการโทรไหม</item>
+        <item>คุณอนุญาตให้อ่านรายชื่อผู้ติดต่อไหม</item>
+        <item>คุณอนุญาตให้อ่านบันทึก SMS ไหม</item>
+        <item>คุณอนุญาตให้ส่ง SMS ไหม</item>
+        <item>คุณอนุญาตให้ส่ง MMS ไหม</item>
+        <item>คุณอนุญาตให้เปิด/ปิดการเชื่อมต่อข้อมูลไหม</item>
+        <item>คุณอนุญาตให้เปิด/ปิด Wi-Fi ไหม</item>
+        <item>คุณอนุญาตให้เปิด/ปิดบลูทูธไหม</item>
+        <item>คุณอนุญาตให้ใช้ GPS ไหม (แอพนี้สามารถรับข้อมูลตำแหน่งของคุณในทางอื่นด้วย)</item>
+        <item>คุณอนุญาตให้ใช้กล้องถ่ายรูปไหม</item>
+        <item>คุณอนุญาตให้บันทึกเสียงและบันทึกการโทรไหม</item>
+        <item>คุณอนุญาตให้เปิด/ปิด NFC ไหม</item>
+        <item>คุณอนุญาตให้เขียนหรือลบบันทึกการโทรไหม</item>
+        <item>คุณอนุญาตให้เขียนหรือลบผู้ติดต่อไหม</item>
+        <item>คุณอนุญาตให้เขียนหรือลบบันทึก SMS ไหม</item>
+        <item>คุณอนุญาตให้เขียนหรือลบบันทึก MMS ไหม</item>
+        <item>คุณอนุญาตให้อ่านบันทึก MMS ไหม</item>
+    </string-array>
+    <string-array name="oppo_time_picker_ampm">
+        <item>AM</item>
+        <item>PM</item>
+    </string-array>
+    <string-array name="oppo_data_not_enough_array">
+        <item>ล้างข้อมูลต่อไป</item>
+        <item>โอนย้ายไปยังการ์ด SD</item>
+        <item>ยกเลิก</item>
+    </string-array>
+    <string-array name="oppo_data_full_array">
+        <item>การลบข้อมูลที่ไม่ต้องการบนโทรศัพท์</item>
+        <item>ถอนการติดตั้งแอพ</item>
+        <item>ยกเลิก</item>
+    </string-array>
+    <string-array name="color_solor_mounth">
+        <item>มกราคม</item>
+        <item>กุมภาพันธ์</item>
+        <item>มีนาคม</item>
+        <item>เมษายน</item>
+        <item>พฤษภาคม</item>
+        <item>มิถุนายน</item>
+        <item>กรกฎาคม</item>
+        <item>สิงหาคม</item>
+        <item>กันยายน</item>
+        <item>ตุลาคม</item>
+        <item>พฤศจิกายน</item>
+        <item>ธันวาคม</item>
+    </string-array>
+    <string-array name="color_resolver_target_pin">
+        <item>ปักหมุดไว้ด้านบน</item>
+        <item>ดูรายละเอียดของแอป</item>
+    </string-array>
+    <string-array name="color_resolver_target_unpin">
+        <item>ถอนหมุด</item>
+        <item>ดูรายละเอียดของแอป</item>
+    </string-array>
+</resources>

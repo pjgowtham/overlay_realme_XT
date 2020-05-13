@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="color_week_day_long">
+        <item>Søn</item>
+        <item>Man</item>
+        <item>Tir</item>
+        <item>Ons</item>
+        <item>Tor</item>
+        <item>Fre</item>
+        <item>Lør</item>
+    </string-array>
+    <string-array name="color_week_day_short">
+        <item>Søn</item>
+        <item>Man</item>
+        <item>Tir</item>
+        <item>Ons</item>
+        <item>Tor</item>
+        <item>Fre</item>
+        <item>Lør</item>
+    </string-array>
+    <string-array name="oppo_permissions_prompt">
+        <item>opkald</item>
+        <item>læsning af opkaldsliste</item>
+        <item>læsning af kontaktoplysninger</item>
+        <item>læsning af SMS</item>
+        <item>afsendelse af SMS</item>
+        <item>afsendelse af MMS</item>
+        <item>aktivering og deaktivering af mobildata</item>
+        <item>aktivering og deaktivering af Wi-Fi</item>
+        <item>aktivering og deaktivering af Bluetooth</item>
+        <item>brug af GPS (appen kan også hente din placering på andre måder)</item>
+        <item>brug af kameraet</item>
+        <item>optagelse af lyd og opkald?</item>
+        <item>aktivering og deaktivering af NFC</item>
+        <item>redigering af opkaldslisten</item>
+        <item>redigering af kontakter</item>
+        <item>redigering af SMS-beskeder</item>
+        <item>redigering af MMS-beskeder</item>
+        <item>læsning af MMS-beskeder</item>
+    </string-array>
+    <string-array name="oppo_time_picker_ampm">
+        <item>AM</item>
+        <item>PM</item>
+    </string-array>
+    <string-array name="oppo_data_not_enough_array">
+        <item>Fortsæt til oprydning</item>
+        <item>Overførsel til SD-kort</item>
+        <item>Annuller</item>
+    </string-array>
+</resources>

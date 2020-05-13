@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_vertical" android:focusable="true" android:clickable="true" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:oppo="http://schemas.android.com/apk/res/oppo">
+    <com.color.widget.ColorLoadingView android:id="@id/colorProgressbarWidget" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@null" android:layout_marginStart="@dimen/color_preference_switch_loading_margin_start" android:layout_marginEnd="16.0dip" colorLoadingViewColor="@color/color_circle_loading_paintcolor_inlist" style="?colorLoadingViewStyle" />
+    <com.color.widget.ColorSwitch android:layout_gravity="center_vertical" android:id="@id/colorswitchWidget" android:focusable="true" android:clickable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginStart="@dimen/android_preference_switch_margin_left" android:layout_marginEnd="@dimen/android_preference_switch_margin_right" />
+</LinearLayout>

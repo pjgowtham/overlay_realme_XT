@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="color_week_day_long">
+        <item>တနဂၤေႏြ</item>
+        <item>တနလၤာ</item>
+        <item>အဂၤါ</item>
+        <item>ဗုဒၶဟူး</item>
+        <item>ၾကာသပေတး</item>
+        <item>ေသာၾကာ</item>
+        <item>စေန</item>
+    </string-array>
+    <string-array name="color_week_day_short">
+        <item>ေႏြ</item>
+        <item>တနလၤာ</item>
+        <item>အဂၤါ</item>
+        <item>ဗုဒၶဟူး</item>
+        <item>ေတး</item>
+        <item>ေသာၾကာ</item>
+        <item>စေန</item>
+    </string-array>
+    <string-array name="oppo_permissions_prompt">
+        <item>ဖုန္းေခၚဆိုရန္ ခြင့္ျပဳမလား။</item>
+        <item>ဖုန္းေခၚမွတ္တမ္းဖတ္ရန္ ခြင့္ျပဳမလား။</item>
+        <item>အဆက္အသြယ္မ်ားဖတ္ရန္ ခြင့္ျပဳမလား။</item>
+        <item>SMS မွတ္တမ္းဖတ္ရန္ ခြင့္ျပဳမလား။</item>
+        <item>SMS ပို႔ရန္ရန္ ခြင့္ျပဳမလား။</item>
+        <item>MMS ပို႔ရန္ရန္ ခြင့္ျပဳမလား။</item>
+        <item>ေဒတာ ခ်ိတ္ဆက္မႈ ဖြင့္/ပိတ္ရန္ ခြင့္ျပဳမလား။</item>
+        <item>Wi-Fi ဖြင့္/ပိတ္ရန္ ခြင့္ျပဳမလား။</item>
+        <item>ဘလူးတုသ္ ဖြင့္/ပိတ္ရန္ ခြင့္ျပဳမလား။</item>
+        <item>GPS (ထိုအက္ပ္က အျခားနည္းျဖင့္လည္း သင့္တည္ေနရာအခ်က္အလက္ကို ရယူႏိုင္) သံုးရန္ ခြင့္ျပဳမလား။</item>
+        <item>ကင္မရာသံုးရန္ ခြင့္ျပဳမလား။</item>
+        <item>မွတ္တမ္းမ်ားႏွင့္ ဖုန္းေခၚမွတ္တမ္းဖတ္ရန္ ခြင့္ျပဳမလား။</item>
+        <item>NFC ဖြင့္/ပိတ္ရန္ ခြင့္ျပဳမလား။</item>
+        <item>ဖုန္းေခၚမွတ္တမ္းမ်ား ေရး (သို႔) ဖ်က္ရန္ ခြင့္ျပဳမလား။</item>
+        <item>ဖုန္းအဆက္အသြယ္မ်ားကို ေရးရန္၊ဖ်က္ရန္ ခြင့္ျပဳမလား။</item>
+        <item>SMS မွတ္တမ္းမ်ား ေရးရန္-ဖ်က္ရန္ ခြင့္ျပဳမလား။</item>
+        <item>MMS မွတ္တမ္းမ်ား ေရး (သို႔) ဖ်က္ရန္ ခြင့္ျပဳမလား။</item>
+        <item>MMS မွတ္တမ္းဖတ္ရန္ ခြင့္ျပဳမလား။</item>
+    </string-array>
+    <string-array name="oppo_time_picker_ampm">
+        <item>နံနက္</item>
+        <item>ညေန</item>
+    </string-array>
+    <string-array name="oppo_data_not_enough_array">
+        <item>ရွင္းလင္းမႈကို ဆက္လုပ္ပါ</item>
+        <item>SD ကတ္သို႔ လႊဲေျပာင္းရန္</item>
+        <item>ပယ္ဖ်က္ရန္</item>
+    </string-array>
+    <string-array name="oppo_data_full_array">
+        <item>ဖုန္း သန္႔ရွင္းေရး</item>
+        <item>အက္ပ္မ်ား ျဖဳတ္ရန္</item>
+        <item>မလုပ္ေတာ့</item>
+    </string-array>
+    <string-array name="color_solor_mounth">
+        <item>ဇန္နဝါရီ</item>
+        <item>ေဖေဖာ္ဝါရီ</item>
+        <item>မတ္</item>
+        <item>ဧၿပီ</item>
+        <item>ေမ</item>
+        <item>ဇြန္</item>
+        <item>ဇူလိုင္</item>
+        <item>ၾသဂုတ္</item>
+        <item>စက္တင္ဘာ</item>
+        <item>ေအာက္တုိဘာ</item>
+        <item>ႏိုဝင္ဘာ</item>
+        <item>ဒီဇင္ဘာ</item>
+    </string-array>
+    <string-array name="color_resolver_target_pin">
+        <item>ထိပ္ဘက္တြင္ တြဲပါ</item>
+        <item>အက္ပ္အေသးစိတ္ ၾကည့္ရန္</item>
+    </string-array>
+    <string-array name="color_resolver_target_unpin">
+        <item>ပင္ျဖဳတ္</item>
+        <item>အက္ပ္အေသးစိတ္ ၾကည့္ရန္</item>
+    </string-array>
+</resources>

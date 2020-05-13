@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+
+Name: AndroidManifest.xml
+SHA-256-Digest: /UAjAWeB08AEEV+XuNfXp1WT0al8bKBB76fV7d4iHW8=
+
+Name: res/xml/vendor_oppo.xml
+SHA-256-Digest: 8ZZt1GjZi9hjhFItK/aBZGuZkIhROPtIFWGq4g1aLIA=
+
+Name: resources.arsc
+SHA-256-Digest: QarX8dy3ie8kjKufZzPFzeQiJYyuNGrycJLCeYXRmOA=
+

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="oppo_rename_dialog_title">Rename</string>
+    <string name="oppo_rename_dialog_btn_ok">OK</string>
+    <string name="oppo_rename_dialog_btn_cancel">Cancel</string>
+    <string name="action_mode_done">Done</string>
+    <string name="color_numeric_date_template" formatted="false">%s/%s/%s</string>
+    <string name="oppo_alwaysUse">Use this as default option</string>
+    <string name="oppo_lunar_calendar_text">Lunar calendar</string>
+    <string name="oppo_solar_calendar_text">Solar calendar</string>
+    <string name="oppo_statusbar_key_swmgr">Program manager</string>
+    <string name="oppo_selecttext">Select</string>
+    <string name="oppo_usb_charge">Only Charging</string>
+    <string name="oppo_usb_storage">Storage device</string>
+    <string name="oppo_usb_selection">Please select to change USB setting</string>
+    <string name="oppo_usb_mtp">Media device (MTP)</string>
+    <string name="oppo_modify_pkg_perms">Modify permissions</string>
+    <string name="oppo_modify_pkg_perms_detail">Goto Settings→Normal→ManageApplication, modify permissions!</string>
+    <string name="oppo_whichApplication">Complete action using</string>
+</resources>

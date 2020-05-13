@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="color_week_day_long">
+        <item>Søn</item>
+        <item>Man</item>
+        <item>Tirs</item>
+        <item>Ons</item>
+        <item>Tors</item>
+        <item>Fre</item>
+        <item>Lør</item>
+    </string-array>
+    <string-array name="color_week_day_short">
+        <item>Søn</item>
+        <item>Mandag</item>
+        <item>Tirsdag</item>
+        <item>Onsdag</item>
+        <item>Torsdag</item>
+        <item>Fredag</item>
+        <item>Lør</item>
+    </string-array>
+    <string-array name="oppo_permissions_prompt">
+        <item>ringe, tillater du?</item>
+        <item>lese samtalelogger, tillater du?</item>
+        <item>lese kontakter, tillater du?</item>
+        <item>lese SMS-logger, tillater du?</item>
+        <item>sende SMS, tillater du?</item>
+        <item>sende MMS, tillater du?</item>
+        <item>slå dataforbindelse på/av, tillater du?</item>
+        <item>slå Wi-Fi på/av, tillater du?</item>
+        <item>slå Bluetooth på/av, tillater du?</item>
+        <item>bruke GPS (appen kan også finne posisjonen din på andre måter), tillater du?</item>
+        <item>bruke kameraet, tillater du?</item>
+        <item>ta opp lyd og samtaler, tillater du?</item>
+        <item>slå NFC på/av, tillater du?</item>
+        <item>skrive eller slette anropslogger, tillater du?</item>
+        <item>skrive og slette kontanter, tillater du?</item>
+        <item>skrive eller slette SMS-logger, tillater du?</item>
+        <item>skrive eller slette MMS-logger, tillater du?</item>
+        <item>lese MMS-logger, tillater du?</item>
+    </string-array>
+    <string-array name="oppo_time_picker_ampm">
+        <item>AM</item>
+        <item>PM</item>
+    </string-array>
+    <string-array name="oppo_data_not_enough_array">
+        <item>Gå til opprydding</item>
+        <item>Overfør til SD-kort</item>
+        <item>Avbryt</item>
+    </string-array>
+    <string-array name="oppo_data_full_array">
+        <item>Telefonopprydding</item>
+        <item>Avinstaller apper</item>
+        <item>Avbryt</item>
+    </string-array>
+    <string-array name="color_solor_mounth">
+        <item>januar</item>
+        <item>februar</item>
+        <item>mars</item>
+        <item>april</item>
+        <item>mai</item>
+        <item>juni</item>
+        <item>juli</item>
+        <item>august</item>
+        <item>september</item>
+        <item>oktober</item>
+        <item>november</item>
+        <item>desember</item>
+    </string-array>
+    <string-array name="color_resolver_target_pin">
+        <item>Fest på toppen</item>
+        <item>Vis appdetaljer</item>
+    </string-array>
+    <string-array name="color_resolver_target_unpin">
+        <item>Løsne</item>
+        <item>Vis appdetaljer</item>
+    </string-array>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.color.widget.ColorAlertLinearLayout android:layout_gravity="center" android:orientation="vertical" android:id="@android:id/runtime" android:layout_width="fill_parent" android:layout_height="wrap_content" app:alertCornerRadius="@dimen/alert_dialog_center_corner_radius" app:alertShadowDrawable="@drawable/color_center_alert_dialog_bg_with_shadow" app:alertBackgroundDrawable="@drawable/color_center_alert_dialog_bg_no_orientation"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.color.widget.ColorMaxLinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" app:portraitMaxHeight="@dimen/oppo_dialog_max_height" app:landscapeMaxHeight="@dimen/oppo_dialog_max_height_landscape">
+        <LinearLayout android:orientation="vertical" android:id="@android:id/zoom_page_overview" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@android:id/yes" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/color_alert_dialog_message_padding_left" android:layout_marginTop="@dimen/color_alert_dialog_title_margin_top" android:layout_marginRight="@dimen/color_alert_dialog_message_padding_left" android:layout_marginBottom="@dimen/color_alert_dialog_title_margin_bottom" android:layout_weight="1.0">
+                <ImageView android:layout_gravity="top" android:id="@android:id/icon" android:paddingTop="0.0dip" android:paddingRight="0.0dip" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@android:drawable/ic_dialog_info" />
+                <com.android.internal.widget.DialogTitle android:ellipsize="end" android:gravity="center" android:id="@android:id/ampm_layout" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="22.0dip" style="@style/OppoDialogTextAppearance.Title" />
+            </LinearLayout>
+        </LinearLayout>
+        <LinearLayout android:orientation="vertical" android:id="@android:id/deleteButton" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_weight="1.0">
+            <view android:scrollbarThumbVertical="@drawable/alert_dialog_list_scrollbar" android:scrollbarStyle="insideOverlay" android:id="@android:id/stateUnchanged" android:paddingTop="3.0dip" android:paddingBottom="3.0dip" android:fadingEdgeLength="30.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:overScrollMode="ifContentScrolls" android:requiresFadingEdge="vertical" class="com.android.internal.app.ColorAlertController$FadingScrollView">
+                <TextView android:textSize="@dimen/TD07" android:textColor="@color/oppo_alert_dialog_content_text_color" android:id="@android:id/message" android:layout_width="fill_parent" android:layout_height="wrap_content" android:lineSpacingMultiplier="1.2" android:paddingStart="@dimen/color_alert_dialog_message_padding_left" android:paddingEnd="@dimen/color_alert_dialog_message_padding_left" />
+            </view>
+        </LinearLayout>
+        <FrameLayout android:id="@android:id/expires_on_header" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_weight="1.0">
+            <FrameLayout android:gravity="center" android:id="@android:id/custom" android:paddingTop="0.0dip" android:paddingBottom="0.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+        </FrameLayout>
+        <ImageView android:id="@id/iv_button_content_divider" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="@dimen/color_delete_alert_dialog_divider_height" android:layout_marginLeft="@dimen/color_alert_dialog_message_padding_left" android:layout_marginTop="@dimen/M8" android:layout_marginRight="@dimen/color_alert_dialog_message_padding_left" android:layout_marginBottom="@dimen/color_alert_dialog_divider_margin_top" android:src="@color/oppo_dialog_button_divider_color" />
+        <ViewStub android:id="@id/button_view_stub" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+        <View android:id="@id/alert_dialog_bottom_space" android:layout_width="fill_parent" android:layout_height="0.0dip" />
+    </com.color.widget.ColorMaxLinearLayout>
+</com.color.widget.ColorAlertLinearLayout>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="color_week_day_long">
+        <item>nedjelja</item>
+        <item>ponedjeljak</item>
+        <item>utorak</item>
+        <item>srijeda</item>
+        <item>četvrtak</item>
+        <item>petak</item>
+        <item>subota</item>
+    </string-array>
+    <string-array name="color_week_day_short">
+        <item>Ned</item>
+        <item>Pon</item>
+        <item>Uto</item>
+        <item>Sri</item>
+        <item>Čet</item>
+        <item>Pet</item>
+        <item>Sub</item>
+    </string-array>
+    <string-array name="oppo_permissions_prompt">
+        <item>poziv, dopuštate li?</item>
+        <item>očitanje zapisnika poziva, dopuštate li?</item>
+        <item>očitanje kontakata, dopuštate li?</item>
+        <item>očitanje zapisnika SMS-a, dopuštate li?</item>
+        <item>slanje SMS-a, dopuštate li?</item>
+        <item>slanje MMS-a, dopuštate li?</item>
+        <item>uključivanje/isključivanje podatkovne veze, dopuštate li?</item>
+        <item>uključivanje/isključivanje Wi-Fi veze, dopuštate li?</item>
+        <item>uključivanje/isključivanje Bluetooth veze, dopuštate li?</item>
+        <item>upotrijebiti GPS (aplikacija do informacija o lokaciji može i na drugi način), dopuštate li?</item>
+        <item>upotrijebiti kameru, dopuštate li?</item>
+        <item>snimati i snimati pozive, dopuštate li?</item>
+        <item>uključivanje/isključivanje NFC-a, dopuštate li?</item>
+        <item>zapisivanje ili brisanje zapisnika poziva, dopuštate li?</item>
+        <item>zapisivanje i brisanje kontakata, dopuštate li?</item>
+        <item>zapisivanje i brisanje zapisnika SMS-a, dopuštate li?</item>
+        <item>zapisivanje ili brisanje zapisnika MMS-a, dopuštate li?</item>
+        <item>očitanje zapisnika MMS-a, dopuštate li?</item>
+    </string-array>
+    <string-array name="oppo_data_not_enough_array">
+        <item>Prijeđi na čišćenje</item>
+        <item>Prenesi na SD karticu</item>
+        <item>Otkaži</item>
+    </string-array>
+    <string-array name="oppo_data_full_array">
+        <item>Čišćenje telefona</item>
+        <item>Deinstaliraj aplikaciju</item>
+        <item>Otkaži</item>
+    </string-array>
+    <string-array name="color_solor_mounth">
+        <item>Siječanj</item>
+        <item>Veljača</item>
+        <item>Ožujak</item>
+        <item>Travanj</item>
+        <item>Svibanj</item>
+        <item>Lipanj</item>
+        <item>Srpanj</item>
+        <item>Kolovoz</item>
+        <item>Rujan</item>
+        <item>Listopad</item>
+        <item>Studeni</item>
+        <item>Prosinac</item>
+    </string-array>
+    <string-array name="color_resolver_target_pin">
+        <item>Prikvači na vrh</item>
+        <item>Prikaz podataka aplikacije</item>
+    </string-array>
+    <string-array name="color_resolver_target_unpin">
+        <item>Otkvači</item>
+        <item>Prikaz podataka aplikacije</item>
+    </string-array>
+</resources>

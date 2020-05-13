@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="color_week_day_long">
+        <item>اتوار</item>
+        <item>پیر</item>
+        <item>منگل</item>
+        <item>بدھ</item>
+        <item>جمعرات</item>
+        <item>جمعہ</item>
+        <item>ہفتہ</item>
+    </string-array>
+    <string-array name="color_week_day_short">
+        <item>اتوار</item>
+        <item>پیر</item>
+        <item>منگل</item>
+        <item>بدھ</item>
+        <item>جمعرات</item>
+        <item>جمعہ</item>
+        <item>ہفتہ</item>
+    </string-array>
+    <string-array name="oppo_permissions_prompt">
+        <item>کال کرے، کیا آپ اجازت دیتے ہیں؟</item>
+        <item>کال لاگز پڑھے، کیا آپ اجازت دیتے ہیں؟</item>
+        <item>رابطے پڑھے، کیا آپ اجازت دیتے ہیں؟</item>
+        <item>SMS لاگز پڑھے، کیا آپ اجازت دیتے ہیں؟</item>
+        <item>SMS بھیجے، کیا آپ اجازت دیتے ہیں؟</item>
+        <item>MMS بھیجے، کیا آپ اجازت دیتے ہیں؟</item>
+        <item>ڈیٹا کنکشن آن/آف کرے، کیا آپ اجازت دیتے ہیں؟</item>
+        <item>Wi-Fi کنکشن آن/آف کرے، کیا آپ اجازت دیتے ہیں؟</item>
+        <item>Bluetooth آن/آف کرے، کیا آپ اجازت دیتے ہیں؟</item>
+        <item>GPS استعمال کرے (یہ ایپ دیگر ذرائع سے بھی آپ کے محل وقوع کی معلومات اکٹھی کر سکتی ہے)، کیا آپ اجازت دیتے ہیں؟</item>
+        <item>کیمرہ استعمال کرے، کیا آپ اجازت دیتے ہیں؟</item>
+        <item>ریکارڈ اور کالیں ریکارڈ کرے، کیا آپ اجازت دیتے ہیں؟</item>
+        <item>NFC کنکشن آن/آف کرے، کیا آپ اجازت دیتے ہیں؟</item>
+        <item>کال لاگز تحریر یا حذف کرے، کیا آپ اجازت دیتے ہیں؟</item>
+        <item>رابطے تحریر اور حذف کرے، کیا آپ اجازت دیتے ہیں؟</item>
+        <item>SMS لاگز تحریر اور حذف کرے، کیا آپ اجازت دیتے ہیں؟</item>
+        <item>MMS لاگز تحریر یا حذف کرے، کیا آپ اجازت دیتے ہیں؟</item>
+        <item>MMS لاگز پڑھے، کیا آپ اجازت دیتے ہیں؟</item>
+    </string-array>
+    <string-array name="oppo_time_picker_ampm">
+        <item>صبح</item>
+        <item>شام</item>
+    </string-array>
+    <string-array name="oppo_data_not_enough_array">
+        <item>صاف کرنے کے لیے پیش رفت کریں</item>
+        <item>SD کارڈ پر منتقل کریں</item>
+        <item>منسوخ کریں</item>
+    </string-array>
+    <string-array name="oppo_data_full_array">
+        <item>فون کی صفائی</item>
+        <item>ایپس کی انسٹالیشن ختم کریں</item>
+        <item>منسوخ کیجیے</item>
+    </string-array>
+    <string-array name="color_solor_mounth">
+        <item>جنوری</item>
+        <item>فروری</item>
+        <item>مارچ</item>
+        <item>اپریل</item>
+        <item>مئی</item>
+        <item>جون</item>
+        <item>جولائی</item>
+        <item>اگست</item>
+        <item>ستمبر</item>
+        <item>اکتوبر</item>
+        <item>نومبر</item>
+        <item>دسمبر</item>
+    </string-array>
+    <string-array name="color_resolver_target_pin">
+        <item>سب سے اوپر پِن کریں</item>
+        <item>ایپ کی تفصیلات دیکھیں</item>
+    </string-array>
+    <string-array name="color_resolver_target_unpin">
+        <item>غیر پن کریں</item>
+        <item>ایپ کی تفصیلات دیکھیں</item>
+    </string-array>
+</resources>

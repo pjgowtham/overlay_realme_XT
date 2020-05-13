@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<carrier_config>
+    <boolean name="show_4g_for_lte_data_icon_bool" value="true"/>
+    <boolean name="supportMmsContentDisposition" value="false"/>
+    <int name="maxImageHeight" value="1944"/>
+    <int name="maxMessageSize" value="614400"/>
+    <int name="maxImageWidth" value="2592"/>
+    <!-- #ifdef VENDOR_EDIT -->
+    <!-- Lei.Zheng@PSW.NW.CALL.1900271, 2019/01/17, Add VM parameters for NewZealand Spark.-->
+    <string name="default_vm_number_string">+6483083210</string>
+    <!-- #endif VENDOR_EDIT -->
+</carrier_config>

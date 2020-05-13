@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="color_week_day_long">
+        <item>Lu</item>
+        <item>Ma</item>
+        <item>Mi</item>
+        <item>Jo</item>
+        <item>Vi</item>
+        <item>Sa</item>
+        <item>Du</item>
+    </string-array>
+    <string-array name="color_week_day_short">
+        <item>Dum</item>
+        <item>Luni</item>
+        <item>Marți</item>
+        <item>Miercuri</item>
+        <item>Joi</item>
+        <item>Vineri</item>
+        <item>Sâm</item>
+    </string-array>
+    <string-array name="oppo_permissions_prompt">
+        <item>apelare, permiteți?</item>
+        <item>citire jurnale de apeluri, permiteți?</item>
+        <item>citire contacte, permiteți?</item>
+        <item>citire jurnale SMS, permiteți?</item>
+        <item>trimitere SMS, permiteți?</item>
+        <item>trimitere MMS, permiteți?</item>
+        <item>activare/dezactivare conexiune de date, permiteți?</item>
+        <item>activare/dezactivare Wi-Fi, permiteți?</item>
+        <item>activare/dezactivare Bluetooth, permiteți?</item>
+        <item>utilizare GPS (aplicația poate obține și în alte moduri informații despre locația dvs.), permiteți?</item>
+        <item>utilizare cameră foto, permiteți?</item>
+        <item>înregistrare și înregistrare apeluri, permiteți?</item>
+        <item>activare/dezactivare NFC, permiteți?</item>
+        <item>scriere sau ștergere jurnale de apeluri, permiteți?</item>
+        <item>scriere și ștergere contacte, permiteți?</item>
+        <item>scriere și ștergere jurnale SMS, permiteți?</item>
+        <item>scriere sau ștergere jurnale MMS, permiteți?</item>
+        <item>citire jurnale MMS, permiteți?</item>
+    </string-array>
+    <string-array name="oppo_time_picker_ampm">
+        <item>AM</item>
+        <item>PM</item>
+    </string-array>
+    <string-array name="oppo_data_not_enough_array">
+        <item>Continuați cu curățarea</item>
+        <item>Transferați pe cardul SD</item>
+        <item>Anulați</item>
+    </string-array>
+    <string-array name="oppo_data_full_array">
+        <item>Golire telefon</item>
+        <item>Dezinstalare aplicații</item>
+        <item>Anulați</item>
+    </string-array>
+    <string-array name="color_solor_mounth">
+        <item>Ianuarie</item>
+        <item>Februarie</item>
+        <item>Martie</item>
+        <item>Aprilie</item>
+        <item>Mai</item>
+        <item>Iunie</item>
+        <item>Iulie</item>
+        <item>August</item>
+        <item>Septembrie</item>
+        <item>Octombrie</item>
+        <item>Noiembrie</item>
+        <item>Decembrie</item>
+    </string-array>
+    <string-array name="color_resolver_target_pin">
+        <item>Fixare deasupra</item>
+        <item>Afișați detalii aplicații</item>
+    </string-array>
+    <string-array name="color_resolver_target_unpin">
+        <item>Anulare fixare</item>
+        <item>Afișați detalii aplicații</item>
+    </string-array>
+</resources>

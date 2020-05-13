@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="oppo_rename_dialog_btn_ok">ok</string>
+    <string name="oppo_rename_dialog_btn_cancel">Cancel</string>
+    <string name="action_mode_done">Kwenziwe</string>
+    <string name="color_search_view_text">Cancel</string>
+    <string name="oppo_power_cancel_text">Cancel</string>
+    <string name="oppo_cancel_button_text">Cancel</string>
+    <string name="color_sau_dialog_upgrade_later">Cancel</string>
+    <string name="oppo_clear_data_cancel">Cancel</string>
+    <string name="color_hour">hour</string>
+</resources>

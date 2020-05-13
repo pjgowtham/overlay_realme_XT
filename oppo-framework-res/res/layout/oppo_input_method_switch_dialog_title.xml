@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.android.internal.widget.DialogTitle android:ellipsize="end" android:gravity="center" android:id="@android:id/ampm_layout" android:paddingLeft="@dimen/color_alert_dialog_message_padding_left" android:paddingTop="@dimen/color_alert_dialog_title_margin_top" android:paddingRight="@dimen/color_alert_dialog_message_padding_left" android:paddingBottom="@dimen/color_alert_dialog_title_margin_bottom" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="@dimen/oppo_dialog_title_min_height" android:text="@string/color_select_input_method" android:singleLine="true" style="@style/OppoDialogTextAppearance.Title" />
+    <LinearLayout android:orientation="vertical" android:id="@android:id/insideInset" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <LinearLayout android:ellipsize="marquee" android:gravity="center_vertical" android:orientation="vertical" android:background="?android:selectableItemBackground" android:paddingLeft="16.0dip" android:paddingTop="5.0dip" android:paddingRight="0.0dip" android:paddingBottom="5.0dip" android:layout_width="0.0dip" android:layout_height="wrap_content" android:minHeight="?android:listPreferredItemHeightSmall" android:layout_weight="1.0">
+                <TextView android:textAppearance="?android:textAppearanceMedium" android:textColor="?android:textColorAlertDialogListItem" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@android:string/lockscreen_access_pattern_detected" android:singleLine="true" />
+                <TextView android:textAppearance="?android:textAppearanceSmall" android:textColor="?android:textColorAlertDialogListItem" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@android:string/zen_mode_forever_dnd" android:singleLine="true" />
+            </LinearLayout>
+            <Switch android:layout_gravity="center_vertical" android:id="@android:id/insideOverlay" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="12.0dip" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

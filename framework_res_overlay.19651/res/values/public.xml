@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="dimen" name="status_bar_height_portrait" id="0x7f010000" />
+    <public type="string" name="config_mainBuiltInDisplayCutout" id="0x7f020000" />
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="oppo_data_not_enough_array">
+        <item>Ipproċedi għat-Tindif</item>
+        <item>Ittrasferixxi fuq l-SD Card</item>
+        <item>Ikkanċella</item>
+    </string-array>
+    <string-array name="oppo_data_full_array">
+        <item>Tindif tal-Mowbajl</item>
+        <item>Iddiżinstalla Applikazzjonijiet</item>
+        <item>Ikkanċella</item>
+    </string-array>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<carrier_config>
+    <!-- #ifdef VENDOR_EDIT -->
+    <!-- Lei.Zheng@PSW.NW.CALL.1900271, 2019/01/17, Add VM parameters for NewZealand Skinny.-->
+    <string name="default_vm_number_string">+64204864236</string>
+    <!-- #endif VENDOR_EDIT -->
+</carrier_config>

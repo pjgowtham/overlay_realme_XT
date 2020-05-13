@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="color_week_day_long">
+        <item>ഞായർ</item>
+        <item>തിങ്കൾ</item>
+        <item>ചൊവ്വ</item>
+        <item>ബുധൻ</item>
+        <item>വ്യാഴം</item>
+        <item>വെള്ളി</item>
+        <item>ശനി</item>
+    </string-array>
+    <string-array name="color_week_day_short">
+        <item>ഞായർ</item>
+        <item>തിങ്കൾ</item>
+        <item>ചൊവ്വ</item>
+        <item>ബുധൻ</item>
+        <item>വ്യാഴം</item>
+        <item>വെള്ളി</item>
+        <item>ശനി</item>
+    </string-array>
+    <string-array name="oppo_permissions_prompt">
+        <item>കോൾ ചെയ്യുന്നത് നിങ്ങൾ അനുവദിക്കുമോ?</item>
+        <item>കോൾ ലോഗുകൾ വായിക്കുന്നത് നിങ്ങൾക്ക് അനുവദിക്കണമോ?</item>
+        <item>സമ്പർക്കങ്ങളെ വായിക്കുന്നത് നിങ്ങൾ അനുവദിക്കുമോ?</item>
+        <item>SMS ലോഗുകളെ വായിക്കുന്നതിനെ നിങ്ങൾ അനുവദിക്കുമോ?</item>
+        <item>SMS അയയ്ക്കുന്നത് നിങ്ങൾ അനുവദിക്കുമോ?</item>
+        <item>MMS അയയ്ക്കുന്നത് നിങ്ങൾ അനുവദിക്കുമോ?</item>
+        <item>ഡാറ്റ കണക്ഷൻ ഓൺ/ഓഫ് ചെയ്യുന്നത് നിങ്ങൾ അനുവദിക്കുമോ?</item>
+        <item>Wi-Fi ഓൺ/ഓഫ് ചെയ്യുന്നത് നിങ്ങൾ അനുവദിക്കുമോ?</item>
+        <item>bluetooth ഓൺ/ഓഫ് ചെയ്യുന്നത് നിങ്ങൾ അനുവദിക്കുമോ?</item>
+        <item>GPS ഉപയോഗിക്കുന്നത് (നിങ്ങളുടെ ലോക്കേഷൻ വിവരം ആപിന് മറ്റ് മാർഗ്ഗത്തിലൂടെയും ലഭിക്കാം) നിങ്ങൾ അനുവദിക്കുമോ?</item>
+        <item>ക്യാമറ ഉപയോഗിക്കാൻ നിങ്ങൾ അനുവദിക്കുമോ?</item>
+        <item>റെക്കോർഡ് ചെയ്യുന്നതും കോളുകൾ റെക്കോർഡ് ചെയ്യുന്നതും നിങ്ങൾ അനുവദിക്കുമോ?</item>
+        <item>NFC ഓൺ/ഓഫ് ചെയ്യുന്നത് നിങ്ങൾ അനുവദിക്കുമോ?</item>
+        <item>കോൾ ലോഗുകൾ റൈറ്റ് ചെയ്യുന്നത് അല്ലെങ്കിൽ ഇല്ലാതാക്കുന്നത് നിങ്ങൾ അനുവദിക്കുമോ?</item>
+        <item>സമ്പർക്കങ്ങളെ റൈറ്റ് ചെയ്യുന്നതും ഇല്ലാതാക്കുന്നതും നിങ്ങൾ അനുവദിക്കുമോ?</item>
+        <item>SMS ലോഗുകൾ റൈറ്റ് ചെയ്യുന്നതും ഇല്ലാതാക്കുന്നതും നിങ്ങൾ അനുവദിക്കുമോ?</item>
+        <item>MMS ലോഗുകൾ റൈറ്റ് ചെയ്യുന്നത് അല്ലെങ്കിൽ ഇല്ലാതാക്കുന്നത് നിങ്ങൾ അനുവദിക്കുമോ?</item>
+        <item>MMS ലോഗുകൾ വായിക്കുന്നത് നിങ്ങൾ അനുവദിക്കുമോ?</item>
+    </string-array>
+    <string-array name="oppo_time_picker_ampm">
+        <item>AM</item>
+        <item>PM</item>
+    </string-array>
+    <string-array name="oppo_data_not_enough_array">
+        <item>ക്ലീനപ്പ് ചെയ്യുക</item>
+        <item>SD കാർഡിലേക്ക് മാറ്റുക</item>
+        <item>റദ്ദാക്കുക</item>
+    </string-array>
+    <string-array name="oppo_data_full_array">
+        <item>ഫോൺ ക്ലീൻഅപ്പ്</item>
+        <item>ആപ് അണ്‍ ഇൻസ്റ്റാൾ ചെയ്യുക</item>
+        <item>റദ്ദാക്കുക</item>
+    </string-array>
+    <string-array name="color_solor_mounth">
+        <item>ജനുവരി</item>
+        <item>ഫെബ്രുവരി</item>
+        <item>മാർച്ച്</item>
+        <item>ഏപ്രിൽ</item>
+        <item>മെയ്</item>
+        <item>ജൂൺ</item>
+        <item>ജൂലൈ</item>
+        <item>ഓഗസ്റ്റ്</item>
+        <item>സെപ്റ്റംബർ</item>
+        <item>ഒക്ടോബർ</item>
+        <item>നവംബർ</item>
+        <item>ഡിസംബർ</item>
+    </string-array>
+    <string-array name="color_resolver_target_pin">
+        <item>മുകളിൽ പിൻ ചെയ്യുക</item>
+        <item>ആപ് വിശദാംശങ്ങൾ കാണുക</item>
+    </string-array>
+    <string-array name="color_resolver_target_unpin">
+        <item>അൺപിൻ ചെയ്യുക</item>
+        <item>ആപ് വിശദാംശങ്ങൾ കാണുക</item>
+    </string-array>
+</resources>

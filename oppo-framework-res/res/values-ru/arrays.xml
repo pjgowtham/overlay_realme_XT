@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="color_week_day_long">
+        <item>Вс</item>
+        <item>Пн</item>
+        <item>Вт</item>
+        <item>Ср</item>
+        <item>Чт</item>
+        <item>Пт</item>
+        <item>Сб</item>
+    </string-array>
+    <string-array name="color_week_day_short">
+        <item>Вс</item>
+        <item>Понедельник</item>
+        <item>Вторник</item>
+        <item>Среда</item>
+        <item>Четверг</item>
+        <item>Пятница</item>
+        <item>Сб</item>
+    </string-array>
+    <string-array name="color_number_keyboard_letters">
+        <item></item>
+        <item>"ABC
+АБВГ"</item>
+        <item>"DEF
+ДЕЁЖЗ"</item>
+        <item>"GHI
+ИЙКЛ"</item>
+        <item>"JKL
+МНОП"</item>
+        <item>"MNO
+РСТУ"</item>
+        <item>"PQRS
+ФХЦЧ"</item>
+        <item>"TUV
+ШЩЪЫ"</item>
+        <item>"WXYZ
+ЬЭЮЯ"</item>
+        <item></item>
+        <item>+</item>
+        <item></item>
+    </string-array>
+    <string-array name="oppo_permissions_prompt">
+        <item>входящий вызов. Принять?</item>
+        <item>разрешить чтение журналов вызовов?</item>
+        <item>разрешить чтение информации контактов?</item>
+        <item>разрешить чтение журналов SMS-сообщений?</item>
+        <item>разрешить отправку SMS-сообщений?</item>
+        <item>разрешить отправку MMS-сообщений?</item>
+        <item>разрешить включение/отключение передачи данных?</item>
+        <item>разрешить включение/отключение Wi-Fi?</item>
+        <item>разрешить включение/отключение Bluetooth?</item>
+        <item>разрешить использовать GPS (приложение может получать информацию о вашем местоположении и другими способами)?</item>
+        <item>разрешить использование камеры?</item>
+        <item>разрешить запись звука и разговоров?</item>
+        <item>разрешить включение/отключение NFC?</item>
+        <item>разрешить запись и стирание журналов вызовов?</item>
+        <item>разрешить запись и удаление контактов?</item>
+        <item>разрешить запись и стирание журналов SMS-сообщений?</item>
+        <item>разрешить запись и стирание журналов MMS-сообщений?</item>
+        <item>разрешить чтение журналов MMS-сообщений?</item>
+    </string-array>
+    <string-array name="oppo_time_picker_ampm">
+        <item>AM</item>
+        <item>PM</item>
+    </string-array>
+    <string-array name="oppo_data_not_enough_array">
+        <item>Выполнить очистку</item>
+        <item>Передача данных на SD-карту</item>
+        <item>Отмена</item>
+    </string-array>
+    <string-array name="oppo_data_full_array">
+        <item>Очистка телефона</item>
+        <item>Удалить приложения</item>
+        <item>Отмена</item>
+    </string-array>
+    <string-array name="color_solor_mounth">
+        <item>Январь</item>
+        <item>Февраль</item>
+        <item>Март</item>
+        <item>Апрель</item>
+        <item>Май</item>
+        <item>Июнь</item>
+        <item>Июль</item>
+        <item>Август</item>
+        <item>Сентябрь</item>
+        <item>Октябрь</item>
+        <item>Ноябрь</item>
+        <item>Декабрь</item>
+    </string-array>
+    <string-array name="color_resolver_target_pin">
+        <item>Закрепить поверх других окон</item>
+        <item>Просмотр информации о приложении</item>
+    </string-array>
+    <string-array name="color_resolver_target_unpin">
+        <item>Открепить</item>
+        <item>Просмотр информации о приложении</item>
+    </string-array>
+</resources>

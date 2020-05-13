@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="color_week_day_long">
+        <item>Aha</item>
+        <item>Isn</item>
+        <item>Sel</item>
+        <item>Rab</item>
+        <item>Kha</item>
+        <item>Jum</item>
+        <item>Sab</item>
+    </string-array>
+    <string-array name="color_week_day_short">
+        <item>Aha</item>
+        <item>Isnin</item>
+        <item>Selasa</item>
+        <item>Rabu</item>
+        <item>Khamis</item>
+        <item>Jumaat</item>
+        <item>Sab</item>
+    </string-array>
+    <string-array name="oppo_permissions_prompt">
+        <item>panggilan, adakah anda benarkan?</item>
+        <item>baca log panggilan, adakah anda benarkan?</item>
+        <item>baca kenalan, adakah anda benarkan?</item>
+        <item>baca log SMS, adakah anda benarkan?</item>
+        <item>hantar SMS, adakah anda benarkan?</item>
+        <item>hantar MMS, adakah anda benarkan?</item>
+        <item>hidupkan/matikan sambungan data, adakah anda benarkan?</item>
+        <item>hidupkan/matikan Wi-Fi, adakah anda benarkan?</item>
+        <item>hidupkan/matikan bluetooth, adakah anda benarkan?</item>
+        <item>gunakan GPS (aplikasi juga boleh mendapatkan maklumat lokasi dengan cara lain), adakah anda benarkan?</item>
+        <item>gunakan kamera, adakah anda benarkan?</item>
+        <item>rekod dan rekod panggilan, adakah anda benarkan?</item>
+        <item>hidupkan/matikan NFC, adakah anda benarkan?</item>
+        <item>tulis atau padam log panggilan, adakah anda benarkan?</item>
+        <item>tulis dan padam kenalan, adakah anda benarkan?</item>
+        <item>tulis dan padam log SMS, adakah anda benarkan?</item>
+        <item>tulis atau padam log MMS, adakah anda benarkan?</item>
+        <item>baca log MMS, adakah anda benarkan?</item>
+    </string-array>
+    <string-array name="oppo_time_picker_ampm">
+        <item>PG</item>
+        <item>PTG</item>
+    </string-array>
+    <string-array name="oppo_data_not_enough_array">
+        <item>Teruskan untuk Membersihkan</item>
+        <item>Pindahkan kepada Kad SD</item>
+        <item>Batal</item>
+    </string-array>
+    <string-array name="oppo_data_full_array">
+        <item>Pembersihan Telefon</item>
+        <item>Nyahpasang Aplikasi</item>
+        <item>Batal</item>
+    </string-array>
+    <string-array name="color_solor_mounth">
+        <item>Januari</item>
+        <item>Februari</item>
+        <item>Mac</item>
+        <item>April</item>
+        <item>Mei</item>
+        <item>Jun</item>
+        <item>Julai</item>
+        <item>Ogos</item>
+        <item>September</item>
+        <item>Oktober</item>
+        <item>November</item>
+        <item>Disember</item>
+    </string-array>
+    <string-array name="color_resolver_target_pin">
+        <item>Pin di Bahagian Atas</item>
+        <item>Lihat Butiran App</item>
+    </string-array>
+    <string-array name="color_resolver_target_unpin">
+        <item>Buka pin</item>
+        <item>Lihat Butiran App</item>
+    </string-array>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:tint="@color/color_btn_delete_row_color" android:height="24.0dip" android:width="24.0dip" android:viewportWidth="72.0" android:viewportHeight="72.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="#ffea3447" android:pathData="M36,14c12.2,0 22,9.8 22,22s-9.8,22 -22,22s-22,-9.8 -22,-22S23.8,14 36,14M36,8C20.5,8 8,20.5 8,36s12.5,28 28,28s28,-12.5 28,-28S51.5,8 36,8z" />
+    <path android:fillColor="#ffea3447" android:pathData="M27,33h18c1.7,0 3,1.3 3,3s-1.3,3 -3,3H27c-1.7,0 -3,-1.3 -3,-3S25.3,33 27,33z" />
+</vector>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="color_week_day_long">
+        <item>Diumenge</item>
+        <item>Dilluns</item>
+        <item>Dimarts</item>
+        <item>Dimecres</item>
+        <item>Dijous</item>
+        <item>Divendres</item>
+        <item>Dissabte</item>
+    </string-array>
+    <string-array name="color_week_day_short">
+        <item>Dg.</item>
+        <item>Dl.</item>
+        <item>Dt.</item>
+        <item>Dc.</item>
+        <item>Dj.</item>
+        <item>Dv.</item>
+        <item>Ds.</item>
+    </string-array>
+    <string-array name="oppo_permissions_prompt">
+        <item>trucar, voleu permetre-ho?</item>
+        <item>llegir els registres de trucades, voleu permetre-ho?</item>
+        <item>llegir els contactes, voleu permetre-ho?</item>
+        <item>"llegir els registres d'SMS, voleu permetre-ho?"</item>
+        <item>enviar missatges SMS, voleu permetre-ho?</item>
+        <item>enviar missatges MMS, voleu permetre-ho?</item>
+        <item>activar i desactivar la connexió de dades, voleu permetre-ho?</item>
+        <item>activar i desactivar la Wi-Fi, voleu permetre-ho?</item>
+        <item>activar i desactivar el Bluetooth, voleu permetre-ho?</item>
+        <item>"utilitzar el GPS (l'aplicació també pot obtenir la vostra informació d'ubicació per altres mitjans), voleu permetre-ho?"</item>
+        <item>utilitzar la càmera, voleu permetre-ho?</item>
+        <item>registrar i registrar trucades, voleu permetre-ho?</item>
+        <item>activar i desactivar NFC, voleu permetre-ho?</item>
+        <item>editar o suprimir els registres de trucades, voleu permetre-ho?</item>
+        <item>editar i suprimir els contactes, voleu permetre-ho?</item>
+        <item>"editar i suprimir els registres d'SMS, voleu permetre-ho?"</item>
+        <item>"editar o suprimir els registres d'MMS, voleu permetre-ho?"</item>
+        <item>"llegir els registres d'MMS, voleu permetre-ho?"</item>
+    </string-array>
+    <string-array name="oppo_data_not_enough_array">
+        <item>Procedeix a la neteja</item>
+        <item>Transfereix a la targeta SD</item>
+        <item>Cancel·la</item>
+    </string-array>
+    <string-array name="oppo_data_full_array">
+        <item>"Alliberació d'espai del telèfon"</item>
+        <item>"Desinstal·la l'aplicació"</item>
+        <item>Cancel·la</item>
+    </string-array>
+    <string-array name="color_solor_mounth">
+        <item>Gener</item>
+        <item>Febrer</item>
+        <item>Març</item>
+        <item>Abril</item>
+        <item>Maig</item>
+        <item>Juny</item>
+        <item>Juliol</item>
+        <item>Agost</item>
+        <item>Setembre</item>
+        <item>Octubre</item>
+        <item>Novembre</item>
+        <item>Desembre</item>
+    </string-array>
+    <string-array name="color_resolver_target_pin">
+        <item>Ancora a la part superior</item>
+        <item>"Visualitza els detalls de l'aplicació"</item>
+    </string-array>
+    <string-array name="color_resolver_target_unpin">
+        <item>Desancora</item>
+        <item>"Visualitza els detalls de l'aplicació"</item>
+    </string-array>
+</resources>

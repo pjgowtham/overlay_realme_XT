@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="63.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:oppo="http://schemas.android.com/apk/res/oppo">
+    <com.oppo.widget.OppoEditText android:textAppearance="?android:textAppearanceMedium" android:id="@id/oppo_rename_dialog_edit" android:layout_width="fill_parent" android:layout_height="40.0dip" android:layout_marginLeft="12.0dip" android:layout_marginTop="11.0dip" android:layout_marginRight="12.0dip" android:layout_marginBottom="11.0dip" android:singleLine="true" android:maxLength="50" quickDelete="true" />
+</LinearLayout>

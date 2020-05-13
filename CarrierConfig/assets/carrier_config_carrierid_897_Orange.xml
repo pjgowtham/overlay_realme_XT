@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<carrier_config_list>
+    <carrier_config>
+        <string name="vvm_type_string">vvm_type_omtp</string>
+        <string name="vvm_destination_number_string">64085</string>
+        <int name="vvm_port_number_int" value="0" />
+        <boolean name="vvm_prefetch_bool" value="true" />
+        <boolean name="vvm_cellular_data_required_bool" value="true" />
+        <boolean name="vvm_ssl_enabled_bool" value="false" />
+        <boolean name="vvm_legacy_mode_enabled_bool" value="false" />
+        <string-array name="vvm_disabled_capabilities_string_array" num="1">
+            <item value="STARTTLS"/>
+        </string-array>
+        <string name="vvm_client_prefix_string">//VVM</string>
+    </carrier_config>
+</carrier_config_list>

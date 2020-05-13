@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="color_week_day_long">
+        <item>Күн</item>
+        <item>Дүй</item>
+        <item>Сей</item>
+        <item>Сәр</item>
+        <item>Бей</item>
+        <item>Жұм</item>
+        <item>Сен</item>
+    </string-array>
+    <string-array name="color_week_day_short">
+        <item>Күн</item>
+        <item>Дүйсенбі</item>
+        <item>Сейсенбі</item>
+        <item>Сәрсенбі</item>
+        <item>Бейсенбі</item>
+        <item>Жұма</item>
+        <item>Сен</item>
+    </string-array>
+    <string-array name="oppo_permissions_prompt">
+        <item>қоңырау, рұқсат ету керек пе?</item>
+        <item>қоңырау журналдарын оқу, рұқсат ету керек пе?</item>
+        <item>контактілерді оқу, рұқсат ету керек пе?</item>
+        <item>SMS журналдарын оқу, рұқсат ету керек пе?</item>
+        <item>SMS жіберу, рұқсат ету керек пе?</item>
+        <item>MMS жіберу, рұқсат ету керек пе?</item>
+        <item>деректер байланысын қосу/өшіру, рұқсат ету керек пе?</item>
+        <item>Wi-Fi қосу/өшіру, рұқсат ету керек пе?</item>
+        <item>bluetooth қосу/өшіру, рұқсат ету керек пе?</item>
+        <item>GPS (сонымен қатар, бағдарлама басқа құралдармен орын ақпарат алады) пайдалану, рұқсат ету керек пе?</item>
+        <item>камера пайдалану, рұқсат ету керек пе?</item>
+        <item>жазба және қоңыраулар жазу, рұқсат ету керек пе?</item>
+        <item>NFC қосу/өшіру, рұқсат ету керек пе?</item>
+        <item>қоңырау журналдарын жазу немесе өшіру, рұқсат ету керек пе?</item>
+        <item>контактілерді жазу және өшіру, рұқсат ету керек пе?</item>
+        <item>SMS журналдарын жазу және өшіру, рұқсат ету керек пе?</item>
+        <item>MMS журналдарын жазу немесе өшіру, рұқсат ету керек пе?</item>
+        <item>MMS журналдарын оқу, рұқсат ету керек пе?</item>
+    </string-array>
+    <string-array name="oppo_time_picker_ampm">
+        <item>AM</item>
+        <item>PM</item>
+    </string-array>
+    <string-array name="oppo_data_not_enough_array">
+        <item>Тазалау үшін жалғастыру</item>
+        <item>SD картаға тасымалдау</item>
+        <item>Болдырмау</item>
+    </string-array>
+    <string-array name="oppo_data_full_array">
+        <item>Телефонды тазалау</item>
+        <item>Орнатылған қолданбаларды жою</item>
+        <item>Болдырмау</item>
+    </string-array>
+    <string-array name="color_solor_mounth">
+        <item>Қаңтар</item>
+        <item>Ақпан</item>
+        <item>Наурыз</item>
+        <item>Сәуір</item>
+        <item>Мамыр</item>
+        <item>Маусым</item>
+        <item>Шілде</item>
+        <item>Тамыз</item>
+        <item>Қыркүйек</item>
+        <item>Қазан</item>
+        <item>Қараша</item>
+        <item>Желтоқсан</item>
+    </string-array>
+    <string-array name="color_resolver_target_pin">
+        <item>Үстіне бекіту</item>
+        <item>Қолданба мәліметтерін көру</item>
+    </string-array>
+    <string-array name="color_resolver_target_unpin">
+        <item>Белгіні алу</item>
+        <item>Қолданба мәліметтерін көру</item>
+    </string-array>
+</resources>

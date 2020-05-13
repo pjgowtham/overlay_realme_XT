@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector android:autoMirrored="true"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:oppo="http://schemas.android.com/apk/res/oppo">
+    <item android:state_pressed="true">
+        <color-matrix bitmapdrawable="@drawable/color_back_arrow_inverse_normal" matrixMode="pressed" />
+    </item>
+    <item android:drawable="@drawable/color_back_arrow_inverse_normal" />
+</selector>

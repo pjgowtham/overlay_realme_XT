@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="color_week_day_long">
+        <item>Svētdiena</item>
+        <item>Pirmdiena</item>
+        <item>Otrdiena</item>
+        <item>Trešdiena</item>
+        <item>Ceturtdiena</item>
+        <item>Piektdiena</item>
+        <item>Sestdiena</item>
+    </string-array>
+    <string-array name="color_week_day_short">
+        <item>Svētd.</item>
+        <item>Pirmd.</item>
+        <item>Otrd.</item>
+        <item>Trešd.</item>
+        <item>Ceturtd.</item>
+        <item>Piektd.</item>
+        <item>Sestd.</item>
+    </string-array>
+    <string-array name="oppo_permissions_prompt">
+        <item>zvans, vai atļaujat?</item>
+        <item>lasīt zvanu žurnālus, vai atļaujat?</item>
+        <item>lasīt kontaktpersonas, vai atļaujat?</item>
+        <item>lasīt īsziņu žurnālus, vai atļaujat?</item>
+        <item>sūtīt īsziņu, vai atļaujat?</item>
+        <item>sūtīt multiziņu, vai atļaujat?</item>
+        <item>ieslēgt/izslēgt datu savienojumu, vai atļaujat?</item>
+        <item>ieslēgt/izslēgt Wi-Fi, vai atļaujat?</item>
+        <item>ieslēgt/izslēgt Bluetooth, vai atļaujat?</item>
+        <item>izmantot GPS (informāciju ar jūsu atrašanās vietu lietotne var arī iegūt ar citiem līdzekļiem), vai atļaujat?</item>
+        <item>izmantot kameru, vai atļaujat?</item>
+        <item>ierakstīt un ierakstīt zvanus, vai atļaujat?</item>
+        <item>ieslēgt/izslēgt NFC, vai atļaujat?</item>
+        <item>rakstīt vai dzēst zvanu žurnālus, vai atļaujat?</item>
+        <item>rakstīt un dzēst kontaktpersonas, vai atļaujat?</item>
+        <item>rakstīt un dzēst īsziņu žurnālus, vai atļaujat?</item>
+        <item>rakstīt vai dzēst multiziņu žurnālus, vai atļaujat?</item>
+        <item>lasīt multiziņu žurnālus, vai atļaujat?</item>
+    </string-array>
+    <string-array name="oppo_time_picker_ampm">
+        <item>AM</item>
+        <item>PM</item>
+    </string-array>
+    <string-array name="oppo_data_not_enough_array">
+        <item>Pāriet uz tīrīšanu</item>
+        <item>Pārsūtīt uz SD karti</item>
+        <item>Atcelt</item>
+    </string-array>
+    <string-array name="oppo_data_full_array">
+        <item>Tālruņa tīrīšana</item>
+        <item>Atinstalēt lietotni</item>
+        <item>Atcelt</item>
+    </string-array>
+    <string-array name="color_solor_mounth">
+        <item>Janvāris</item>
+        <item>Februāris</item>
+        <item>Marts</item>
+        <item>Aprīlis</item>
+        <item>Maijs</item>
+        <item>Jūnijs</item>
+        <item>Jūlijs</item>
+        <item>Augusts</item>
+        <item>Septembris</item>
+        <item>Oktobris</item>
+        <item>Novembris</item>
+        <item>Decembris</item>
+    </string-array>
+    <string-array name="color_resolver_target_pin">
+        <item>Piespraust augšpusē</item>
+        <item>Skatīt informāciju par lietotni</item>
+    </string-array>
+    <string-array name="color_resolver_target_unpin">
+        <item>Atspraust</item>
+        <item>Skatīt informāciju par lietotni</item>
+    </string-array>
+</resources>

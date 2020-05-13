@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_horizontal" android:orientation="horizontal" android:id="@id/time_pickers" android:background="@drawable/oppo_picker_full_bg_custom" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layoutDirection="ltr"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:oppo="http://schemas.android.com/apk/res/oppo">
+    <com.oppo.widget.OppoNumberPicker android:id="@id/amPm" android:focusable="true" android:focusableInTouchMode="true" android:layout_width="66.0dip" android:layout_height="210.0dip" android:layout_marginRight="44.0dip" android:layout_weight="1.0" colorPickerAlignPosition="right" colorPickerRowNumber="5" colorPickerVisualWidth="66.0dip" endTextSize="@dimen/TF13" focusTextSize="@dimen/TF30" startTextSize="@dimen/TF13" />
+    <FrameLayout android:id="@id/hour_layout" android:layout_width="66.0dip" android:layout_height="wrap_content" android:layout_weight="1.0">
+        <com.oppo.widget.OppoNumberPicker android:id="@id/hour" android:focusable="true" android:focusableInTouchMode="true" android:layout_width="fill_parent" android:layout_height="210.0dip" android:layout_weight="1.0" colorPickerAlignPosition="right" colorPickerRowNumber="5" colorPickerVisualWidth="66.0dip" endTextSize="@dimen/TF29" focusTextSize="@dimen/TF32" startTextSize="@dimen/TF11" />
+    </FrameLayout>
+    <TextView android:textSize="@dimen/TF07" android:textStyle="bold" android:textColor="?C05" android:layout_gravity="center" android:id="@id/oppo_timepicker_hour_text" android:layout_width="44.0dip" android:layout_height="wrap_content" android:text="@string/color_hour" />
+    <FrameLayout android:id="@id/minute_layout" android:layout_width="66.0dip" android:layout_height="wrap_content" android:layout_weight="1.0">
+        <com.oppo.widget.OppoNumberPicker android:id="@id/minute" android:focusable="true" android:focusableInTouchMode="true" android:layout_width="fill_parent" android:layout_height="210.0dip" colorPickerAlignPosition="left" colorPickerRowNumber="5" colorPickerVisualWidth="66.0dip" endTextSize="@dimen/TF29" focusTextSize="@dimen/TF32" startTextSize="@dimen/TF11" />
+        <TextView android:textSize="@dimen/TF07" android:textStyle="bold" android:textColor="?C05" android:layout_gravity="center" android:id="@id/oppo_timepicker_minute_text" android:paddingLeft="66.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/color_minute" />
+    </FrameLayout>
+</LinearLayout>

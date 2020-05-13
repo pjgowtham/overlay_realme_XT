@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="xml" name="coloros_carrier_config_common" id="0x7f010000" />
+    <public type="xml" name="vendor" id="0x7f010001" />
+    <public type="xml" name="vendor_oppo" id="0x7f010002" />
+    <public type="xml" name="vendor_oppo_test" id="0x7f010003" />
+</resources>
